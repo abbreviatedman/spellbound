@@ -25,7 +25,7 @@ Some ideas.
 ***** the one about efficient walking routes
 ***** the graph about time saved
 ** Where To Host It
-*** Gitbook?
+*** Gitbook? Can this be styled?
 *** full website, though source is on a git server?
 *** Git Hosting Platform
 **** Directory Structure With readmes for viewing
