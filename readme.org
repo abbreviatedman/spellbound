@@ -1,0 +1,3 @@
+* The Magicians API - An Executable Memoir
+
+** An Exercise In Literate Programming
