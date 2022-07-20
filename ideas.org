@@ -24,7 +24,7 @@ Some ideas.
 **** XKCD Comic about efficiency
 ***** the one about efficient walking routes
 ***** the graph about time saved
-** The Shape Of It
+** Where To Host It
 *** Gitbook?
 *** full website, though source is on a git server?
 *** Git Hosting Platform
