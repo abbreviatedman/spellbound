@@ -1,0 +1,34 @@
+* The Magicians API - An Executable Memoir
+Some ideas.
+
+** Potential Chapters
+*** An Executable Chapter About Executable Prose
+**** A 55-Word Story
+**** Code that doesn't go in the final program.
+***** A recursive function?
+***** The code for cycling todos?
+***** FizzBuzz?
+**** Why literate programming.
+**** A quote from the show that will go in the final program.
+*** The Shape Of Data
+**** Data and Its Bias
+**** The Shape Of Our Data
+***** In The Form Of A Relevant Magicians Quote
+*** The Winding Path To The API
+*** The Most Inefficient Efficiency Expert
+**** Emacs And Vim
+***** A Way Of Life
+***** Making Editing Fun
+***** Text Editor Learning Curves
+**** 55-Word Stories
+**** XKCD Comic about efficiency
+***** the one about efficient walking routes
+***** the graph about time saved
+** The Shape Of It
+*** Gitbook?
+*** Git Hosting Platform
+**** Directory Structure With readmes for viewing
+**** What Platform?
+***** GitHub for maximum views
+***** GitLab as Intermediate Option
+***** Codeberg to be really out there
