@@ -26,6 +26,7 @@ Some ideas.
 ***** the graph about time saved
 ** The Shape Of It
 *** Gitbook?
+*** full website, though source is on a git server?
 *** Git Hosting Platform
 **** Directory Structure With readmes for viewing
 **** What Platform?
