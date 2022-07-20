@@ -1,3 +1,5 @@
 * The Magicians Quotes API - An Executable Memoir
 
 ** An Exercise In Literate Programming
+
+by Colin Jaffe
