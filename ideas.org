@@ -11,6 +11,7 @@ Some ideas.
 **** Why literate programming.
 ***** thinking through decisions carefully - have to defend them
 ***** documentation and source don't go out of sync... they are the same!
+***** simple and relatable code example
 **** A quote from the show that will go in the final program.
 *** The Shape Of Data
 **** Data and Its Bias
