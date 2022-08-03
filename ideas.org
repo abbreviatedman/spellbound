@@ -1,6 +1,18 @@
 * The Magicians API - An Executable Memoir
 Some ideas.
 
+** Getting Started
+*** Create test JS Org file that:
+- tangles to multiple files
+- ...that can be run successfully as code
+- can log values from other source blocks (probably using noweb)
+*** Create second test JS Org file that:
+- can evaluate code in another org file?
+- can append when tangling, or tangle to a central org file, or be added to the Library of Babel, like so:
+#+begin_src elisp
+(org-babel-lob-ingest "[path to file]")
+#+end_src
+
 ** Potential Chapters
 *** An Executable Chapter About Executable Prose
 **** A 55-Word Story
