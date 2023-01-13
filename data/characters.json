@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Jane Chatwin",
-    "aliases": ["Eliza"],
+    "aliases": ["Eliza", "The Watcherwoman"],
     "appearances": ["Unauthorized Magic"]
   },
   {
@@ -38,6 +38,18 @@
     "id": 6,
     "name": "James",
     "aliases": [],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 7,
+    "name": "Rupert Chatwin",
+    "aliases": ["The Dark King", "Seb"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 8,
+    "name": "Martin Chatwin",
+    "aliases": ["The Beast"],
     "appearances": ["Unauthorized Magic"]
   }
 ]
