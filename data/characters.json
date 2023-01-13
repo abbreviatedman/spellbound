@@ -51,5 +51,29 @@
     "name": "Martin Chatwin",
     "aliases": ["The Beast"],
     "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 9,
+    "name": "Eliot Waugh",
+    "aliases": ["El"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 10,
+    "name": "Penny Adiyodi",
+    "aliases": ["William"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 11,
+    "name": "Kady Orloff-Diaz",
+    "aliases": [],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 12,
+    "name": "Professor Van Der Weghe",
+    "aliases": [],
+    "appearances": ["Unauthorized Magic"]
   }
 ]

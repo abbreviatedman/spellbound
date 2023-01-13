@@ -29,6 +29,57 @@
           "line": "For philosophy, \"conscious\" is a detriment."
         }
       ]
+    },
+    {
+      "id": 2,
+      "lines": [
+        {
+          "speaker": "Quentin Coldwater",
+          "line": "Am I hallucinating?"
+        },
+        {
+          "speaker": "Eliot Waugh",
+          "line": "If you were, how would asking me help?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lines": [
+        {
+          "speaker": "Henry Fogg",
+          "line": "You want to go back to Columbia? That pointless, miasmic march to death you call life? Family that never calls and friends that don't really get you and feeling alone and wrong until it crushes you?"
+        },
+        {
+          "speaker": "Quentin Coldwater",
+          "line": "No."
+        },
+        {
+          "speaker": "Henry Fogg",
+          "line": "Then quit dicking around!"
+        },
+        {
+          "speaker": "Quentin Coldwater",
+          "line": "Stop it."
+        },
+        {
+          "speaker": "Henry Fogg",
+          "line": "Do some goddamn magic!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lines": [
+        {
+          "speaker": "Quentin Coldwater",
+          "line": "Um... okay... So, \"Be a magician\"? Is that illegal or...? Are you guys trying to take over the world or...?"
+        },
+        {
+          "speaker": "Henry Fogg",
+          "line": "This school exists for a single and timeless purpose—to reveal your innate abilities and hone them to the highest degree. Now, what you do with it after that is entirely up to you. If you want to take over the world, we don't teach that, but give it a go."
+        }
+      ]
     }
   ]
 }
