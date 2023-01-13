@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "name": "Jane Chatwin",
+    "aliases": ["Eliza"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 1,
+    "name": "Henry Fogg",
+    "aliases": ["Dean Fogg", "Dean", "The Dean"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 2,
+    "name": "Quentin Coldwater",
+    "aliases": ["Q"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 3,
+    "name": "Jennifer London",
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 4,
+    "name": "Rainbow Girl",
+    "aliases": [],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 5,
+    "name": "Julia Wicker",
+    "aliases": ["Jules"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 6,
+    "name": "James",
+    "aliases": [],
+    "appearances": ["Unauthorized Magic"]
+  }
+]
