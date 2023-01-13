@@ -21,11 +21,11 @@
       "id": 1,
       "lines": [
         {
-          "speaker": "Quentin Coldwater",
+          "speaker": "Quentin",
           "line": "And, honestly, they probably take anyone conscious for philosophy."
         },
         {
-          "speaker": "Julia Wicker",
+          "speaker": "Julia",
           "line": "For philosophy, \"conscious\" is a detriment."
         }
       ]
@@ -34,11 +34,11 @@
       "id": 2,
       "lines": [
         {
-          "speaker": "Quentin Coldwater",
+          "speaker": "Quentin",
           "line": "Am I hallucinating?"
         },
         {
-          "speaker": "Eliot Waugh",
+          "speaker": "Eliot",
           "line": "If you were, how would asking me help?"
         }
       ]
@@ -51,7 +51,7 @@
           "line": "You want to go back to Columbia? That pointless, miasmic march to death you call life? Family that never calls and friends that don't really get you and feeling alone and wrong until it crushes you?"
         },
         {
-          "speaker": "Quentin Coldwater",
+          "speaker": "Quentin",
           "line": "No."
         },
         {
@@ -59,7 +59,7 @@
           "line": "Then quit dicking around!"
         },
         {
-          "speaker": "Quentin Coldwater",
+          "speaker": "Quentin",
           "line": "Stop it."
         },
         {
@@ -72,11 +72,11 @@
       "id": 4,
       "lines": [
         {
-          "speaker": "Quentin Coldwater",
+          "speaker": "Quentin",
           "line": "Um... okay... So, \"Be a magician\"? Is that illegal or...? Are you guys trying to take over the world or...?"
         },
         {
-          "speaker": "Henry Fogg",
+          "speaker": "Henry",
           "line": "This school exists for a single and timeless purpose—to reveal your innate abilities and hone them to the highest degree. Now, what you do with it after that is entirely up to you. If you want to take over the world, we don't teach that, but give it a go."
         }
       ]
@@ -85,7 +85,7 @@
       "id": 5,
       "lines": [
         {
-          "speaker": "Eliot Waugh",
+          "speaker": "Eliot",
           "line": "We all signed this waiver. I hope you read yours. It says, \"Spellwork is not unlikely to murder you, and, if so, oh, well.\""
         }
       ]
@@ -94,8 +94,21 @@
       "id": 6,
       "lines": [
         {
-          "speaker": "Quentin Coldwater",
+          "speaker": "Quentin",
           "line": "And I really don't want to be the guy who dies in the first ten minutes of the movie because he's like, \"You know what? Let's take out the Ouija board. What could possibly go wrong?\""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lines": [
+        {
+          "speaker": "Pete",
+          "line": "You ask a lot of questions."
+        },
+        {
+          "speaker": "Julia",
+          "line": "This school exists for a single and timeless purpose—to reveal your innate abilities and hone them to the highest degree. Now, what you do with it after that is entirely up to you. If you want to take over the world, we don't teach that, but give it a go."
         }
       ]
     }
