@@ -16,6 +16,19 @@
           "line": "You're a kid, and your whole life's ahead of you, and you have these notions... about what life is... and... what it could be. But eventually you have to let all that go. So that's what I'm... That's what I'm going to do... that's what I'm doing. Um, it's a part of growing up... You know, selling the comic-book collection and getting serious."
         }
       ]
+    },
+    {
+      "id": 1,
+      "lines": [
+        {
+          "speaker": "Quentin Coldwater",
+          "line": "And, honestly, they probably take anyone conscious for philosophy."
+        },
+        {
+          "speaker": "Julia Wicker",
+          "line": "For philosophy, \"conscious\" is a detriment."
+        }
+      ]
     }
   ]
 }
