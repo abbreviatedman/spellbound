@@ -1,5 +1,5 @@
 * The Magicians API - An Executable Memoir
-Some ideas.
+Some ideas!
 
 ** Getting Started
 *** Create test JS Org file that:
