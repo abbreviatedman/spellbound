@@ -4,21 +4,21 @@
     "name": "Jane Chatwin",
     "comonName": "Jane",
     "aliases": ["Eliza", "The Watcherwoman"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 1,
     "name": "Henry Fogg",
     "comonName": "Dean Fogg",
     "aliases": ["Dean", "The Dean"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 2,
     "name": "Quentin Coldwater",
     "comonName": "Quentin",
     "aliases": ["Q"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 3,
@@ -32,14 +32,14 @@
     "name": "Julia Wicker",
     "comonName": "Julia",
     "aliases": ["Jules"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 5,
     "name": "James",
     "comonName": "James",
     "aliases": [],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 6,
@@ -53,62 +53,83 @@
     "name": "Martin Chatwin",
     "comonName": "Martin",
     "aliases": ["The Beast"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 8,
     "name": "Eliot Waugh",
     "comonName": "Eliot",
     "aliases": ["El"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 9,
     "name": "William Adiyodi",
     "comonName": "Penny",
     "aliases": [],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 10,
     "name": "Kady Orloff-Diaz",
     "commonName": "Kady",
     "aliases": [],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 11,
     "name": "Professor Van Der Weghe",
     "commonName": "Professor Van Der Weghe",
     "aliases": [],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 12,
     "name": "Margo Hanson",
     "commonName": "Margo",
     "aliases": ["Bambi"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 13,
     "name": "Alice Quinn",
     "commonName": "Alice",
     "aliases": ["Vix"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
     "id": 14,
     "name": "Pete",
     "commonName": "Pete",
     "aliases": ["Lovelady"],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The Source of Magic"]
   },
   {
-    "id": 15,
+    "id": 16,
+    "name": "Pearl Sunderland",
+    "commonName": "Professor Sunderland",
+    "aliases": ["Sunderland"],
+    "appearances": ["The Source of Magic"]
+  },
+  {
+    "id": 17,
+    "name": "Professor March",
+    "commonName": "Professor March",
+    "aliases": [],
+    "appearances": ["The Source of Magic"]
+  },
+  {
+    "id": 18,
     "name": "Marina Andrieski",
     "commonName": "Marina",
     "aliases": [],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["The Source of Magic"]
+  }
+  {
+    "id": 19,
+    "name": "Healer Faye",
+    "commonName": "Healer Faye",
+    "aliases": [],
+    "appearances": ["The Source of Magic"]
   }
 ]

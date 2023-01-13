@@ -2,6 +2,7 @@
   "quotes": [
     {
       "id": 0,
+      "episode": "Unauthorized Magic",
       "lines": [
         {
           "speaker": "Quentin",
@@ -19,6 +20,7 @@
     },
     {
       "id": 1,
+      "episode": "Unauthorized Magic",
       "lines": [
         {
           "speaker": "Quentin",
@@ -32,6 +34,7 @@
     },
     {
       "id": 2,
+      "episode": "Unauthorized Magic",
       "lines": [
         {
           "speaker": "Quentin",
@@ -45,6 +48,7 @@
     },
     {
       "id": 3,
+      "episode": "Unauthorized Magic",
       "lines": [
         {
           "speaker": "Henry Fogg",
@@ -70,6 +74,7 @@
     },
     {
       "id": 4,
+      "episode": "Unauthorized Magic",
       "lines": [
         {
           "speaker": "Quentin",
@@ -83,6 +88,7 @@
     },
     {
       "id": 5,
+      "episode": "Unauthorized Magic",
       "lines": [
         {
           "speaker": "Eliot",
@@ -92,6 +98,7 @@
     },
     {
       "id": 6,
+      "episode": "Unauthorized Magic",
       "lines": [
         {
           "speaker": "Quentin",
@@ -101,6 +108,7 @@
     },
     {
       "id": 7,
+      "episode": "The Source of Magic",
       "lines": [
         {
           "speaker": "Pete",
@@ -114,15 +122,43 @@
     },
     {
       "id": 8,
+      "episode": "The Source of Magic",
       "lines": [
         {
+          "speaker": "Quentin",
+          "line": "If you're trying to tell me that it gets better—"
+        },
+        {
           "speaker": "Eliot",
-          "line": "Funny little irony they don't tell you. Magic doesn't come from talent. It comes from pain."
+          "line": "Oh, God, no. No, it doesn't. I'm trying to tell you, you are not alone here. Funny little irony they don't tell you. Magic doesn't come from talent. It comes from pain."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "episode": "The Source of Magic",
+      "lines": [
+        {
+          "speaker": "Quentin",
+          "line": "You don't even like me."
+        },
+        {
+          "speaker": "Alice",
+          "line": "I don't know you."
+        },
+        {
+          "speaker": "Quentin",
+          "line": "I don't know you either, except that we summoned some kind of killer mothman from another world."
+        },
+        {
+          "speaker": "Jane",
+          "line": "Yeah, there is that."
         }
       ]
     },
     {
       "id": 9,
+      "episode": "The Source of Magic",
       "lines": [
         {
           "speaker": "Julia",
@@ -140,6 +176,7 @@
     },
     {
       "id": 10,
+      "episode": "The Source of Magic",
       "lines": [
         {
           "speaker": "Quentin",
@@ -149,6 +186,7 @@
     },
     {
       "id": 11,
+      "episode": "The Source of Magic",
       "lines": [
         {
           "speaker": "Quentin",
@@ -161,6 +199,28 @@
         {
           "speaker": "Quentin",
           "line": "Yeah, that sounds nice. Thank you."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "episode": "The Source of Magic",
+      "lines": [
+        {
+          "speaker": "Quentin",
+          "line": "Is \"Fillory\" real?"
+        },
+        {
+          "speaker": "Jane",
+          "line": "Why even ask if you'll just forget it again?"
+        },
+        {
+          "speaker": "Quentin",
+          "line": "The books, they're just—they always felt realer than anything."
+        },
+        {
+          "speaker": "Jane",
+          "line": "Then it's real."
         }
       ]
     }
