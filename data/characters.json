@@ -124,12 +124,26 @@
     "commonName": "Marina",
     "aliases": [],
     "appearances": ["The Source of Magic"]
-  }
+  },
   {
     "id": 19,
     "name": "Healer Faye",
     "commonName": "Healer Faye",
     "aliases": [],
     "appearances": ["The Source of Magic"]
+  },
+  {
+    "id": 20,
+    "name": "Charlie Quinn",
+    "commonName": "Charlie",
+    "aliases": [],
+    "appearances": ["Consequences of Advanced Spellcasting"]
+  },
+  {
+    "id": 21,
+    "name": "Emily Greenstreet",
+    "commonName": "Emily Greenstreet",
+    "aliases": [],
+    "appearances": ["Consequences of Advanced Spellcasting"]
   }
 ]
