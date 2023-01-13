@@ -108,7 +108,59 @@
         },
         {
           "speaker": "Julia",
-          "line": "This school exists for a single and timeless purpose—to reveal your innate abilities and hone them to the highest degree. Now, what you do with it after that is entirely up to you. If you want to take over the world, we don't teach that, but give it a go."
+          "line": "Yeah, I sure do."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "lines": [
+        {
+          "speaker": "Eliot",
+          "line": "Funny little irony they don't tell you. Magic doesn't come from talent. It comes from pain."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lines": [
+        {
+          "speaker": "Julia",
+          "line": "Magic is real and that's the thing, and once you know that, you can't—"
+        },
+        {
+          "speaker": "Marina",
+          "line": "Nothing else matters."
+        },
+        {
+          "speaker": "Julia",
+          "line": "Exactly. It's like... I know it's there. It's everywhere, all around me, a whole world of power and beauty. You can't unsee it. You wake up for the first time."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lines": [
+        {
+          "speaker": "Quentin",
+          "line": "Nobody would rather not know. You don't see color and want to go black and white."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lines": [
+        {
+          "speaker": "Quentin",
+          "line": "I go back there, and I'm... I'm a depressed super nerd."
+        },
+        {
+          "speaker": "Eliot",
+          "line": "How about I find you, and I don't say magic is real, but I do seduce you, and so lift your spirits that life retains its sparkle for decades."
+        },
+        {
+          "speaker": "Quentin",
+          "line": "Yeah, that sounds nice. Thank you."
         }
       ]
     }

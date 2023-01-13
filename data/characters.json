@@ -103,5 +103,12 @@
     "commonName": "Pete",
     "aliases": ["Lovelady"],
     "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 15,
+    "name": "Marina Andrieski",
+    "commonName": "Marina",
+    "aliases": [],
+    "appearances": ["Unauthorized Magic"]
   }
 ]
