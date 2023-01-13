@@ -3,3 +3,6 @@
 ** An Exercise In Literate Programming
 
 by Colin Jaffe
+
+** Ideas
+Ideas currently live in the [[./ideas.org][Ideas Document]].
