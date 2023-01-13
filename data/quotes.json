@@ -80,6 +80,24 @@
           "line": "This school exists for a single and timeless purpose—to reveal your innate abilities and hone them to the highest degree. Now, what you do with it after that is entirely up to you. If you want to take over the world, we don't teach that, but give it a go."
         }
       ]
+    },
+    {
+      "id": 5,
+      "lines": [
+        {
+          "speaker": "Eliot Waugh",
+          "line": "We all signed this waiver. I hope you read yours. It says, \"Spellwork is not unlikely to murder you, and, if so, oh, well.\""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lines": [
+        {
+          "speaker": "Quentin Coldwater",
+          "line": "And I really don't want to be the guy who dies in the first ten minutes of the movie because he's like, \"You know what? Let's take out the Ouija board. What could possibly go wrong?\""
+        }
+      ]
     }
   ]
 }

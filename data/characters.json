@@ -2,78 +2,106 @@
   {
     "id": 0,
     "name": "Jane Chatwin",
+    "comonName": "Jane",
     "aliases": ["Eliza", "The Watcherwoman"],
     "appearances": ["Unauthorized Magic"]
   },
   {
     "id": 1,
     "name": "Henry Fogg",
-    "aliases": ["Dean Fogg", "Dean", "The Dean"],
+    "comonName": "Dean Fogg",
+    "aliases": ["Dean", "The Dean"],
     "appearances": ["Unauthorized Magic"]
   },
   {
     "id": 2,
     "name": "Quentin Coldwater",
+    "comonName": "Quentin",
     "aliases": ["Q"],
     "appearances": ["Unauthorized Magic"]
   },
   {
     "id": 3,
     "name": "Jennifer London",
+    "comonName": "Dr. London",
+    "aliases": [],
     "appearances": ["Unauthorized Magic"]
   },
   {
     "id": 4,
-    "name": "Rainbow Girl",
-    "aliases": [],
-    "appearances": ["Unauthorized Magic"]
-  },
-  {
-    "id": 5,
     "name": "Julia Wicker",
+    "comonName": "Julia",
     "aliases": ["Jules"],
     "appearances": ["Unauthorized Magic"]
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "James",
+    "comonName": "James",
     "aliases": [],
     "appearances": ["Unauthorized Magic"]
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Rupert Chatwin",
+    "comonName": "Rupert",
     "aliases": ["The Dark King", "Seb"],
     "appearances": ["Unauthorized Magic"]
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Martin Chatwin",
+    "comonName": "Martin",
     "aliases": ["The Beast"],
     "appearances": ["Unauthorized Magic"]
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Eliot Waugh",
+    "comonName": "Eliot",
     "aliases": ["El"],
     "appearances": ["Unauthorized Magic"]
   },
   {
+    "id": 9,
+    "name": "William Adiyodi",
+    "comonName": "Penny",
+    "aliases": [],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
     "id": 10,
-    "name": "Penny Adiyodi",
-    "aliases": ["William"],
+    "name": "Kady Orloff-Diaz",
+    "commonName": "Kady",
+    "aliases": [],
     "appearances": ["Unauthorized Magic"]
   },
   {
     "id": 11,
-    "name": "Kady Orloff-Diaz",
+    "name": "Professor Van Der Weghe",
+    "commonName": "Professor Van Der Weghe",
     "aliases": [],
     "appearances": ["Unauthorized Magic"]
   },
   {
     "id": 12,
-    "name": "Professor Van Der Weghe",
-    "aliases": [],
+    "name": "Margo Hanson",
+    "commonName": "Margo",
+    "aliases": ["Bambi"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 13,
+    "name": "Alice Quinn",
+    "commonName": "Alice",
+    "aliases": ["Vix"],
+    "appearances": ["Unauthorized Magic"]
+  },
+  {
+    "id": 14,
+    "name": "Pete",
+    "commonName": "Pete",
+    "aliases": ["Lovelady"],
     "appearances": ["Unauthorized Magic"]
   }
 ]
