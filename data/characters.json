@@ -4,42 +4,91 @@
     "name": "Jane Chatwin",
     "comonName": "Jane",
     "aliases": ["Eliza", "The Watcherwoman"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "The World in the Walls",
+      "The Strangled Heart",
+      "The Writing Room",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 1,
     "name": "Henry Fogg",
     "comonName": "Dean Fogg",
     "aliases": ["Dean", "The Dean"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "The Strangled Heart",
+      "Thirty-Nine Graves"
+    ]
   },
   {
     "id": 2,
     "name": "Quentin Coldwater",
     "comonName": "Quentin",
     "aliases": ["Q"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Mayakovsky Circumstance",
+      "The Strangled Heart",
+      "The Writing Room",
+      "Homecoming",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 3,
     "name": "Jennifer London",
     "comonName": "Dr. London",
     "aliases": [],
-    "appearances": ["Unauthorized Magic"]
+    "appearances": ["Unauthorized Magic", "The World in the Walls"]
   },
   {
     "id": 4,
     "name": "Julia Wicker",
     "comonName": "Julia",
     "aliases": ["Jules"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Mayakovsky Circumstance",
+      "The Strangled Heart",
+      "The Writing Room",
+      "Homecoming",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 5,
     "name": "James",
     "comonName": "James",
     "aliases": [],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "Mendings, Major and Minor"
+    ]
   },
   {
     "id": 6,
@@ -53,28 +102,76 @@
     "name": "Martin Chatwin",
     "comonName": "Martin",
     "aliases": ["The Beast"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "The Writing Room",
+      "Mendings, Major and Minor",
+      "The Strangled Heart",
+      "Remedial Battle Magic",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 8,
     "name": "Eliot Waugh",
     "comonName": "Eliot",
     "aliases": ["El"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Mayakovsky Circumstance",
+      "The Strangled Heart",
+      "The Writing Room",
+      "Homecoming",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 9,
     "name": "William Adiyodi",
     "comonName": "Penny",
     "aliases": [],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Mayakovsky Circumstance",
+      "The Strangled Heart",
+      "The Writing Room",
+      "Homecoming",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 10,
     "name": "Kady Orloff-Diaz",
     "commonName": "Kady",
     "aliases": [],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Mayakovsky Circumstance",
+      "Homecoming",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 11,
@@ -88,49 +185,102 @@
     "name": "Margo Hanson",
     "commonName": "Margo",
     "aliases": ["Bambi"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Mayakovsky Circumstance",
+      "The Strangled Heart",
+      "The Writing Room",
+      "Homecoming",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 13,
     "name": "Alice Quinn",
     "commonName": "Alice",
     "aliases": ["Vix"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Mayakovsky Circumstance",
+      "The Strangled Heart",
+      "The Writing Room",
+      "Homecoming",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 14,
     "name": "Pete",
     "commonName": "Pete",
     "aliases": ["Lovelady"],
-    "appearances": ["Unauthorized Magic", "The Source of Magic"]
+    "appearances": [
+      "Unauthorized Magic",
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "Mendings, Major and Minor"
+    ]
   },
   {
     "id": 16,
     "name": "Pearl Sunderland",
     "commonName": "Professor Sunderland",
     "aliases": ["Sunderland"],
-    "appearances": ["The Source of Magic"]
+    "appearances": [
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The Strangled Heart",
+      "Remedia Battle Magic"
+    ]
   },
   {
     "id": 17,
     "name": "Professor March",
     "commonName": "Professor March",
     "aliases": [],
-    "appearances": ["The Source of Magic", "Consequences of Advanced Spellcasting"]
+    "appearances": [
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting"
+    ]
   },
   {
     "id": 18,
     "name": "Marina Andrieski",
     "commonName": "Marina",
     "aliases": [],
-    "appearances": ["The Source of Magic"]
+    "appearances": [
+      "The Source of Magic",
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Impractical Applications",
+      "The Strangled Heart",
+      "Have You Brought Me Little Cakes"
+    ]
   },
   {
     "id": 19,
     "name": "Healer Faye",
     "commonName": "Healer Faye",
     "aliases": [],
-    "appearances": ["The Source of Magic"]
+    "appearances": [
+      "The Source of Magic",
+      "The World in the Walls",
+      "The Strangled Heart"
+    ]
   },
   {
     "id": 20,
@@ -141,6 +291,30 @@
   },
   {
     "id": 21,
+    "name": "Camille",
+    "commonName": "Camille",
+    "aliases": [],
+    "appearances": [
+      "Consequences of Advanced Spellcasting",
+      "Impractical Applications"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Victoria",
+    "commonName": "Victoria",
+    "aliases": [],
+    "appearances": [
+      "Consequences of Advanced Spellcasting",
+      "The World in the Walls",
+      "Mendings, Major and Minor",
+      "Remedia Battle Magic",
+      "Thirty-Nine Graves",
+      "Have You Brought Me Little Cakes"
+    ]
+  },
+  {
+    "id": 23,
     "name": "Emily Greenstreet",
     "commonName": "Emily Greenstreet",
     "aliases": [],
