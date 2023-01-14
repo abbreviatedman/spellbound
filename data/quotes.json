@@ -223,6 +223,96 @@
           "line": "Then it's real."
         }
       ]
+    },
+    {
+      "id": 13,
+      "episode": "Consequences of Advanced Spellcasting",
+      "lines": [
+        {
+          "speaker": "Pete",
+          "line": "Just don't get too excited. Start slow."
+        },
+
+        { "speaker": "Julia", "line": "Yeah, I don't really do slow." }
+      ]
+    },
+    {
+      "id": 14,
+      "episode": "Consequences of Advanced Spellcasting",
+      "lines": [
+        {
+          "speaker": "Pete",
+          "line": "Never gets old, does it? Having a secret. You have magic. They don't. Better than money. Better than sex."
+        },
+
+        { "speaker": "Pete", "line": "Well, I guess that one depends." }
+      ]
+    },
+    {
+      "id": 15,
+      "episode": "Consequences of Advanced Spellcasting",
+      "lines": [
+        { "speaker": "Quentin", "line": "What's your discipline?" },
+
+        { "speaker": "Alice", "line": "Phosphoromancy. I bend light." },
+
+        { "speaker": "Quentin", "line": "Holy shit!" },
+
+        { "speaker": "Alice", "line": "There are much cooler areas." },
+
+        {
+          "speaker": "Quentin",
+          "line": "Are you kidding me? You have light bending power. I'm a nothing-mancer. I'm a squat-mancer."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "episode": "Consequences of Advanced Spellcasting",
+      "lines": [{ "speaker": "Quentin", "line": "Phosphoromancy, bitches!" }]
+    },
+    {
+      "id": 17,
+      "episode": "Consequences of Advanced Spellcasting",
+      "lines": [
+        {
+          "speaker": "Julia",
+          "line": "So how do you manage it all? Juggling magic and your life?"
+        },
+
+        { "speaker": "Marina", "line": "I don't understand the question." },
+
+        {
+          "speaker": "Marina",
+          "line": "I'm not judging you. I started out like you and you have a good life. Boyfriend. Probably think he keeps you centered. Right?"
+        },
+
+        { "speaker": "Julia", "line": "Kinda." },
+
+        {
+          "speaker": "Marina",
+          "line": "Or, you know, you're keeping him around in case you fail here and need to fall back."
+        },
+
+        {
+          "speaker": "Marina",
+          "line": "All I know... you have to mean it for magic to work. Something clicks when you're all-in, and the real big stuff, you can't do it till you're doing it without a net."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "episode": "Consequences of Advanced Spellcasting",
+      "lines": [
+        { "speaker": "Margo", "line": "Where you going, kitty cat?" },
+
+        {
+          "speaker": "Alice",
+          "line": "I'm done here. For good. You should be happy. Less competition."
+        },
+
+        { "speaker": "Margo", "line": "Alice. I like competition." }
+      ]
     }
   ]
 }
