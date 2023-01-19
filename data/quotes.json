@@ -313,6 +313,76 @@
 
         { "speaker": "Margo", "line": "Alice. I like competition." }
       ]
+    },
+    {
+      "id": 19,
+      "episode": "The World in the Walls",
+      "lines": [
+        {
+          "speaker": "Julia",
+          "line": "When are you gonna tell me what all this is for?"
+        },
+        {
+          "speaker": "Marina",
+          "line": "I did. Bigger, better magic."
+        },
+        {
+          "speaker": "Julia",
+          "line": "Yeah, you just never mentioned how."
+        },
+        {
+          "speaker": "Marina",
+          "line": "I guess I could tell you now. No, I don't feel like it. Later maybe? Mm, how about never? That's a growing possibility."
+        }
+      ]
+    },
+
+    {
+      "id": 20,
+      "episode": "The World in the Walls",
+      "lines": [
+        {
+          "speaker": "Marina",
+          "line": "Welcome back to Brakebills. Let's go steal their shit."
+        }
+      ]
+    },
+
+    {
+      "id": 21,
+      "episode": "The World in the Walls",
+      "lines": [
+        {
+          "speaker": "Jane",
+          "line": "It doesn't matter what anyone tells you. You make the web you're in. You're the spider and the fly,"
+        }
+      ]
+    },
+
+    {
+      "id": 22,
+      "episode": "The World in the Walls",
+      "lines": [
+        {
+          "speaker": "Quentin",
+          "line": "*quoting a Fillory and Further book* 'The Madness Maker didn't play for the joy of winning, just the fear of losing. The real curse was, he only played when he could win, which cut him off from the surprise, horror, sadness, and wonder of life. Jane saw only one way out for him: stop playing. Start living.'"
+        }
+      ]
+    },
+
+    {
+      "id": 23,
+      "episode": "The World in the Walls",
+      "lines": [
+        {
+          "speaker": "Quentin",
+          "line": "I don't need to be taught what magic is or isn't. I need to be taught magic so that I can decide what it is or isn't... for me."
+        },
+        {
+          "speaker": "Dean Fogg",
+          "line": "That was almost well put."
+        }
+      ]
     }
   ]
 }
