@@ -1,8 +1,9 @@
 {
   "quotes": [
     {
-      "id": 0,
       "episode": "Unauthorized Magic",
+      "explicit": false,
+      "id": 0,
       "lines": [
         {
           "speaker": "Quentin",
@@ -19,8 +20,9 @@
       ]
     },
     {
-      "id": 1,
       "episode": "Unauthorized Magic",
+      "explicit": false,
+      "id": 1,
       "lines": [
         {
           "speaker": "Quentin",
@@ -33,8 +35,9 @@
       ]
     },
     {
-      "id": 2,
       "episode": "Unauthorized Magic",
+      "explicit": false,
+      "id": 2,
       "lines": [
         {
           "speaker": "Quentin",
@@ -47,8 +50,9 @@
       ]
     },
     {
-      "id": 3,
       "episode": "Unauthorized Magic",
+      "explicit": false,
+      "id": 3,
       "lines": [
         {
           "speaker": "Henry Fogg",
@@ -73,8 +77,9 @@
       ]
     },
     {
-      "id": 4,
       "episode": "Unauthorized Magic",
+      "explicit": false,
+      "id": 4,
       "lines": [
         {
           "speaker": "Quentin",
@@ -87,8 +92,9 @@
       ]
     },
     {
-      "id": 5,
       "episode": "Unauthorized Magic",
+      "explicit": false,
+      "id": 5,
       "lines": [
         {
           "speaker": "Eliot",
@@ -97,8 +103,9 @@
       ]
     },
     {
-      "id": 6,
       "episode": "Unauthorized Magic",
+      "explicit": false,
+      "id": 6,
       "lines": [
         {
           "speaker": "Quentin",
@@ -107,8 +114,9 @@
       ]
     },
     {
-      "id": 7,
       "episode": "The Source of Magic",
+      "explicit": false,
+      "id": 7,
       "lines": [
         {
           "speaker": "Pete",
@@ -121,8 +129,9 @@
       ]
     },
     {
-      "id": 8,
       "episode": "The Source of Magic",
+      "explicit": false,
+      "id": 8,
       "lines": [
         {
           "speaker": "Quentin",
@@ -135,8 +144,9 @@
       ]
     },
     {
-      "id": 13,
       "episode": "The Source of Magic",
+      "explicit": false,
+      "id": 13,
       "lines": [
         {
           "speaker": "Quentin",
@@ -157,8 +167,9 @@
       ]
     },
     {
-      "id": 9,
       "episode": "The Source of Magic",
+      "explicit": false,
+      "id": 9,
       "lines": [
         {
           "speaker": "Julia",
@@ -175,8 +186,9 @@
       ]
     },
     {
-      "id": 10,
       "episode": "The Source of Magic",
+      "explicit": false,
+      "id": 10,
       "lines": [
         {
           "speaker": "Quentin",
@@ -185,8 +197,9 @@
       ]
     },
     {
-      "id": 11,
       "episode": "The Source of Magic",
+      "explicit": false,
+      "id": 11,
       "lines": [
         {
           "speaker": "Quentin",
@@ -203,8 +216,9 @@
       ]
     },
     {
-      "id": 12,
       "episode": "The Source of Magic",
+      "explicit": false,
+      "id": 12,
       "lines": [
         {
           "speaker": "Quentin",
@@ -225,8 +239,9 @@
       ]
     },
     {
-      "id": 13,
       "episode": "Consequences of Advanced Spellcasting",
+      "explicit": false,
+      "id": 13,
       "lines": [
         {
           "speaker": "Pete",
@@ -236,8 +251,9 @@
       ]
     },
     {
-      "id": 14,
       "episode": "Consequences of Advanced Spellcasting",
+      "explicit": false,
+      "id": 14,
       "lines": [
         {
           "speaker": "Pete",
@@ -247,8 +263,9 @@
       ]
     },
     {
-      "id": 15,
       "episode": "Consequences of Advanced Spellcasting",
+      "explicit": false,
+      "id": 15,
       "lines": [
         { "speaker": "Quentin", "line": "What's your discipline?" },
         { "speaker": "Alice", "line": "Phosphoromancy. I bend light." },
@@ -261,13 +278,15 @@
       ]
     },
     {
-      "id": 16,
       "episode": "Consequences of Advanced Spellcasting",
+      "explicit": true,
+      "id": 16,
       "lines": [{ "speaker": "Quentin", "line": "Phosphoromancy, bitches!" }]
     },
     {
-      "id": 17,
       "episode": "Consequences of Advanced Spellcasting",
+      "explicit": false,
+      "id": 17,
       "lines": [
         {
           "speaker": "Julia",
@@ -290,8 +309,9 @@
       ]
     },
     {
-      "id": 18,
       "episode": "Consequences of Advanced Spellcasting",
+      "explicit": false,
+      "id": 18,
       "lines": [
         { "speaker": "Margo", "line": "Where you going, kitty cat?" },
         {
@@ -302,8 +322,9 @@
       ]
     },
     {
-      "id": 19,
       "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 19,
       "lines": [
         {
           "speaker": "Julia",
@@ -324,8 +345,9 @@
       ]
     },
     {
-      "id": 20,
       "episode": "The World in the Walls",
+      "explicit": true,
+      "id": 20,
       "lines": [
         {
           "speaker": "Marina",
@@ -334,8 +356,9 @@
       ]
     },
     {
-      "id": 21,
       "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 21,
       "lines": [
         {
           "speaker": "Jane",
@@ -344,8 +367,9 @@
       ]
     },
     {
-      "id": 22,
       "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 22,
       "lines": [
         {
           "speaker": "Quentin",
@@ -354,8 +378,9 @@
       ]
     },
     {
-      "id": 23,
       "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 23,
       "lines": [
         {
           "speaker": "Quentin",
