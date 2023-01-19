@@ -18,7 +18,7 @@
     "id": 1,
     "name": "Henry Fogg",
     "comonName": "Dean Fogg",
-    "aliases": ["Dean", "The Dean"],
+    "aliases": ["Dean", "The Dean", "Fogg"],
     "appearances": [
       "Unauthorized Magic",
       "The Source of Magic",
@@ -319,5 +319,51 @@
     "commonName": "Emily Greenstreet",
     "aliases": [],
     "appearances": ["Consequences of Advanced Spellcasting"]
+  },
+  {
+    "id": 24,
+    "name": "Ted Coldwater",
+    "commonName": "Quentin's Dad",
+    "aliases": ["Mr. Coldwater"],
+    "appearances": ["The World in the Walls", "Mendings, Major and Minor"]
+  },
+  {
+    "id": 25,
+    "name": "Professor Li",
+    "commonName": "Professor Li",
+    "aliases": ["Assistant Professor Li"],
+    "appearances": ["The World in the Walls"]
+  },
+  {
+    "id": 26,
+    "name": "Dr. Meers",
+    "commonName": "Dr. Meers",
+    "aliases": [],
+    "appearances": ["Mendings, Major and Minor"]
+  },
+  {
+    "id": 27,
+    "name": "Genji",
+    "commonName": "Genji",
+    "aliases": [],
+    "appearances": ["Mendings, Major and Minor"]
+  },
+  {
+    "id": 28,
+    "name": "Stanley",
+    "commonName": "Stanley",
+    "aliases": [],
+    "appearances": ["Mendings, Major and Minor", "Remedial Battle Magic"]
+  },
+  {
+    "id": 29,
+    "name": "Eleanor Lipson",
+    "commonName": "Professor Lipson",
+    "aliases": ["Lipson", "Acting Dean Lipson"],
+    "appearances": [
+      "Mendings, Major and Minor",
+      "The Strangled Heart",
+      "Homecoming"
+    ]
   }
 ]
