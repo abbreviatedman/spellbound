@@ -81,7 +81,7 @@ Welcome to /The Magicians Fan App/.
 Here is the code for the app that I didn't (or haven't yet) discussed. It's the quotes I didn't find a use for butthat still need to be inthe app, or uninteresting parts of the code that didn't merit discussion, or whose discussion didn't quite fit in the story, or just stuff I haven't found time to write about yet but still wantto /code/.
 
 #+name: other-quotes
-#+begin_src json :tangle data/other-quotes.json
+#+begin_src json
   {
     "quotes": [
       {
@@ -536,14 +536,19 @@ Here is the code for the app that I didn't (or haven't yet) discussed. It's the 
 
 *** Appendix 2 - Literate Programming Magic
 
-Here is the bit of literate programming magic where we put all the code above in the right order and tangled to the right files. This magic is what allowed us to discuss the code in any order we wanted, rather than the order the computer wants it in.
+Here is the bit of literate programming magic where we put all the code above in the right order and tangle it all to the right files. This is what makes this a /program/, and not just excerpts of code. This re-ordering is also what allowed us throughout this story to discuss the code in any order we wanted, rather than the order the computer wants it in.
 
-You won't see this unless you're looking at the original source code; I may go through this at some point and print it out in a way that's visible on web pages and GitHub and such.
+What you'll see this as is titles of code blocks, surrounded by ~<<~ and ~>>~ symbols, and arranged into the correct order for the computer,. The titles themselves should be fairly self-explanatory if you check the code blocks throughout the story, but if you want to see the story in the original Org Mode, where the names of each code block are clearly visible, [[https://raw.githubusercontent.com/abbreviatedman/the-magicians-api/main/readme.org][here is the original source code for this entire document]]. And, if you want to just read the code files themselves to see what order they ended up in, [[https://github.com/abbreviatedman/the-magicians-api][check the files at hte top of the Git repository for the app]].
 
-#+name: quotes
+#+name: quotes.json
 #+begin_src json :tangle data/quotes.json :noweb tangle
   [
-      <<epigraph>>,
-      <<phosphoromancy-bitches>>
+    <<epigraph>>,
+    <<phosphoromancy-bitches>>
   ]
+#+end_src
+
+#+name: other-quotes.json
+#+begin_src json :tangle data/other-quotes.json :noweb tangle
+  <<other-quotes>>
 #+end_src
