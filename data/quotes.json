@@ -326,6 +326,32 @@
       "explicit": false,
       "id": 19,
       "lines": [
+        { "speaker": "Quentin", "line": "Okay, did nobody see that?" },
+        { "speaker": "Julia", "line": "See what?" },
+        { "speaker": "Quentin", "line": "You laughing at me." },
+        {
+          "speaker": "Julia",
+          "line": "Laughing at you? What kind of a friend would do that?"
+        },
+        { "speaker": "Quentin", "line": "Exactly." }
+      ]
+    },
+    {
+      "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 20,
+      "lines": [
+        {
+          "speaker": "Eliot",
+          "line": "Look, it was a party. He's probably sleeping it off under something, or someone—or someone's thing."
+        }
+      ]
+    },
+    {
+      "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 20,
+      "lines": [
         {
           "speaker": "Julia",
           "line": "When are you gonna tell me what all this is for?"
@@ -347,7 +373,7 @@
     {
       "episode": "The World in the Walls",
       "explicit": true,
-      "id": 20,
+      "id": 21,
       "lines": [
         {
           "speaker": "Marina",
@@ -358,7 +384,7 @@
     {
       "episode": "The World in the Walls",
       "explicit": false,
-      "id": 21,
+      "id": 22,
       "lines": [
         {
           "speaker": "Jane",
@@ -369,7 +395,7 @@
     {
       "episode": "The World in the Walls",
       "explicit": false,
-      "id": 22,
+      "id": 23,
       "lines": [
         {
           "speaker": "Quentin",
@@ -380,7 +406,22 @@
     {
       "episode": "The World in the Walls",
       "explicit": false,
-      "id": 23,
+      "id": 24,
+      "lines": [
+        {
+          "speaker": "Dean Fogg",
+          "line": "Quentin, do you really think that the magic that we teach means you get to fly above right and wrong. Magic doesn't solve problems."
+        },
+        {
+          "speaker": "Quentin",
+          "line": "It magnifies them"
+        }
+      ]
+    },
+    {
+      "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 25,
       "lines": [
         {
           "speaker": "Quentin",
@@ -389,6 +430,52 @@
         {
           "speaker": "Dean Fogg",
           "line": "That was almost well put."
+        }
+      ]
+    },
+    {
+      "episode": "The World in the Walls",
+      "explicit": false,
+      "id": 26,
+      "lines": [
+        {
+          "speaker": "Marina",
+          "line": "Oh, poor you and your taste of honey worse than none at all. You think Brakebills cut you off from magic? You don't know cut off. But baby… You will."
+        },
+        {
+          "speaker": "Dean Fogg",
+          "line": "That was almost well put."
+        }
+      ]
+    },
+    {
+      "episode": "Mendings, Major and Minor",
+      "explicit": false,
+      "id": 26,
+      "lines": [
+        {
+          "speaker": "Margo",
+          "line": "Is Genji your aunt?"
+        },
+        {
+          "speaker": "Eliot",
+          "line": "Oh, hey Alice. Is that Genji?"
+        },
+        {
+          "speaker": "Quentin",
+          "line": "Do you guys know her?"
+        },
+        {
+          "speaker": "Margo",
+          "line": "Everyone does. She runs a retreat. It's like Camp David for magicians."
+        },
+        {
+          "speaker": "Eliot",
+          "line": "If Camp David was run by Caligula. *Margo and Eliot chuckle.*"
+        },
+        {
+          "speaker": "Eliot",
+          "line": "Stops chuckling when he sees Alice's look of disapproval.* I mean that in the best way."
         }
       ]
     }
