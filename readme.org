@@ -78,7 +78,7 @@ Welcome to /The Magicians Fan App/.
 
 *** Appendix 1 - The Rest Of The Code
 
-Here is the code for the app that I didn't (or haven't yet) discussed. It's the quotes I didn't find a use for butthat still need to be inthe app, or uninteresting parts of the code that didn't merit discussion, or whose discussion didn't quite fit in the story, or just stuff I haven't found time to write about yet but still wantto /code/.
+Here is the code for the app that I didn't (or haven't yet) discussed. It's the quotes I didn't find a use for but that still need to be in the app, or uninteresting parts of the code that didn't merit discussion, or whose discussion didn't quite fit in the story, or just stuff I haven't found time to write about yet but still want to /code/.
 
 #+name: other-quotes
 #+begin_src json
