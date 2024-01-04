@@ -1,0 +1,3496 @@
+1
+00:00:01,050 --> 00:00:02,514
+Previously on "The Magicians"...
+
+2
+00:00:02,634 --> 00:00:05,028
+This contract initiates our
+services in exchange for...
+
+3
+00:00:05,148 --> 00:00:07,150
+Unlimited manual and magical labor?
+
+4
+00:00:07,270 --> 00:00:09,136
+You signed that insane contract?
+
+5
+00:00:09,171 --> 00:00:11,591
+- Yeah, it's okay.
+- How the hell is that okay?
+
+6
+00:00:11,711 --> 00:00:12,921
+Because I get magic back.
+
+7
+00:00:13,041 --> 00:00:14,419
+Did you do this for me?
+
+8
+00:00:14,454 --> 00:00:17,655
+I'm Bayler, a proud soldier
+of Fillorians United.
+
+9
+00:00:17,690 --> 00:00:19,357
+We will not rest until
+
+10
+00:00:19,392 --> 00:00:21,359
+a Fillorian sits upon the throne.
+
+11
+00:00:21,394 --> 00:00:23,428
+The fairies can bring back
+The Wellspring?
+
+12
+00:00:23,463 --> 00:00:25,496
+- They can.
+- And in return?
+
+13
+00:00:25,532 --> 00:00:27,331
+A royal child of Whitespire.
+
+14
+00:00:27,367 --> 00:00:28,733
+We're getting married.
+
+15
+00:00:28,768 --> 00:00:31,402
+Apparently all monarchs are
+entitled to one of each:
+
+16
+00:00:31,438 --> 00:00:32,831
+a wife and a husband.
+
+17
+00:00:32,951 --> 00:00:35,239
+Alice, I hope you meant it.
+
+18
+00:00:35,275 --> 00:00:39,110
+I hope you just go
+and do beautiful magic.
+
+19
+00:00:39,145 --> 00:00:40,545
+Quentin says go free.
+
+20
+00:00:40,580 --> 00:00:43,214
+You fed him to Reynard.
+
+21
+00:00:43,249 --> 00:00:44,415
+He knew how to survive.
+
+22
+00:00:44,451 --> 00:00:46,584
+Yeah, by doing what you want.
+
+23
+00:00:46,619 --> 00:00:49,353
+That's all you see anymore,
+is what you want.
+
+24
+00:00:49,389 --> 00:00:51,622
+You don't feel anymore, Julia...
+
+25
+00:00:51,658 --> 00:00:53,391
+not the way a human does.
+
+26
+00:00:53,426 --> 00:00:54,592
+Do you remember the gift
+
+27
+00:00:54,627 --> 00:00:56,194
+that Jane was given in the book
+
+28
+00:00:56,229 --> 00:00:57,762
+"The Girl Who Told Time"?
+
+29
+00:00:57,797 --> 00:00:59,897
+Ember gave her the ability
+to fuck with time
+
+30
+00:00:59,933 --> 00:01:01,432
+on a cosmic scale.
+
+31
+00:01:01,468 --> 00:01:03,701
+Jane used it to create a time loop.
+
+32
+00:01:03,736 --> 00:01:07,305
+In each loop, Jane alters something
+
+33
+00:01:07,340 --> 00:01:08,706
+to see if it'll change the outcome.
+
+34
+00:01:08,741 --> 00:01:09,807
+What's different this time?
+
+35
+00:01:09,843 --> 00:01:10,843
+I was at Brakebills.
+
+36
+00:01:10,877 --> 00:01:11,917
+You were supposed to be.
+
+37
+00:01:11,945 --> 00:01:14,445
+Or you were, like, 39 times.
+
+38
+00:01:14,481 --> 00:01:15,847
+You were the thing they changed.
+
+39
+00:01:23,389 --> 00:01:26,190
+Very impressive, Ms. Wicker.
+
+40
+00:01:26,226 --> 00:01:27,425
+Let me do it again.
+
+41
+00:01:27,460 --> 00:01:29,760
+I was wondering what would happen
+
+42
+00:01:29,796 --> 00:01:33,731
+if I connected the sequence with
+Atsuko's Spectral Refraction.
+
+43
+00:01:33,766 --> 00:01:34,832
+All right.
+
+44
+00:01:51,751 --> 00:01:54,418
+That is a second year spell.
+
+45
+00:01:54,454 --> 00:01:55,753
+I...I read ahead.
+
+46
+00:01:55,788 --> 00:01:57,922
+More than that, you...
+
+47
+00:01:57,957 --> 00:02:00,758
+you understood the theory
+behind the spell, and...
+
+48
+00:02:00,793 --> 00:02:03,394
+and you reshaped it.
+
+49
+00:02:03,429 --> 00:02:06,197
+Your discipline is meta-composition.
+
+50
+00:02:06,232 --> 00:02:08,533
+You are a Knowledge student.
+
+51
+00:02:08,568 --> 00:02:10,935
+- Knowledge?
+- Part psychic, part physical.
+
+52
+00:02:10,970 --> 00:02:13,571
+There really is no branch
+it doesn't touch on.
+
+53
+00:02:13,606 --> 00:02:15,907
+The short version: you are drawn,
+
+54
+00:02:15,942 --> 00:02:19,477
+mind and body,
+to the discovery of magic.
+
+55
+00:02:19,512 --> 00:02:22,246
+Is it true that they...
+um, well that we...
+
+56
+00:02:22,282 --> 00:02:24,348
+live in the attic above the Library?
+
+57
+00:02:24,384 --> 00:02:27,818
+I assure you it is much more
+luxurious than it sounds.
+
+58
+00:02:27,854 --> 00:02:29,787
+No, I mean, it sounds
+like bliss, actually.
+
+59
+00:02:29,822 --> 00:02:32,490
+I enjoyed it.
+
+60
+00:02:32,525 --> 00:02:33,691
+You were a Knowledge student?
+
+61
+00:02:33,726 --> 00:02:35,259
+I am a Knowledge student.
+
+62
+00:02:35,295 --> 00:02:37,528
+It doesn't end with your degree.
+
+63
+00:02:37,564 --> 00:02:39,297
+You have a rare gift, Julia,
+
+64
+00:02:39,332 --> 00:02:43,534
+and I must admit I'm envious
+of the many rich discoveries
+
+65
+00:02:43,570 --> 00:02:45,403
+that you have ahead of you.
+
+66
+00:02:45,438 --> 00:02:46,704
+Welcome.
+
+67
+00:02:48,341 --> 00:02:49,807
+Thank you.
+
+68
+00:03:06,593 --> 00:03:08,893
+You are free to go.
+
+69
+00:03:08,928 --> 00:03:10,494
+Why would you let me go?
+
+70
+00:03:10,530 --> 00:03:12,830
+Because, Ms. Wicker,
+
+71
+00:03:12,865 --> 00:03:14,599
+you are not a student here,
+
+72
+00:03:14,634 --> 00:03:16,867
+and I'm not running a jail.
+
+73
+00:03:16,903 --> 00:03:20,371
+Kady locked me up for a good reason.
+
+74
+00:03:20,406 --> 00:03:22,573
+I should feel terrible
+
+75
+00:03:22,609 --> 00:03:24,008
+about what I did.
+
+76
+00:03:26,312 --> 00:03:28,879
+But I don't.
+
+77
+00:03:28,915 --> 00:03:31,749
+I just think it's terrible,
+
+78
+00:03:31,784 --> 00:03:35,419
+and I think I would've never
+done it if I were me.
+
+79
+00:03:35,455 --> 00:03:37,888
+One thing I've learned
+about you, Ms. Wicker,
+
+80
+00:03:37,924 --> 00:03:40,491
+is that you are a searcher.
+
+81
+00:03:43,363 --> 00:03:45,029
+You don't know me.
+
+82
+00:03:45,064 --> 00:03:48,599
+39 times I've known you.
+
+83
+00:03:48,635 --> 00:03:51,469
+Which is why I trust that
+you'll put aside your fear
+
+84
+00:03:51,504 --> 00:03:53,471
+and self-pity
+
+85
+00:03:53,506 --> 00:03:56,540
+and look for the answers
+that can save you.
+
+86
+00:04:01,414 --> 00:04:03,581
+Why am I the only one
+worried about this wedding?
+
+87
+00:04:07,787 --> 00:04:10,388
+Congratulations. You failed.
+
+88
+00:04:10,423 --> 00:04:13,057
+Oh, hey, hey, um,
+
+89
+00:04:13,092 --> 00:04:14,592
+King needs more wine.
+
+90
+00:04:14,627 --> 00:04:16,494
+Of course, sire.
+
+91
+00:04:16,529 --> 00:04:18,062
+I feel bad; I forgot your name.
+
+92
+00:04:18,097 --> 00:04:20,064
+It's Smedley, sire.
+
+93
+00:04:20,099 --> 00:04:21,932
+Smedley. Thanks, Smedley.
+
+94
+00:04:21,968 --> 00:04:24,635
+Hey. I'll take that.
+
+95
+00:04:24,671 --> 00:04:26,904
+Oh, no, wait, I'm... I'm not done.
+
+96
+00:04:26,939 --> 00:04:29,707
+I think you were.
+
+97
+00:04:29,742 --> 00:04:30,975
+Not cool.
+
+98
+00:04:31,010 --> 00:04:33,577
+Those grapes died for nothing now.
+
+99
+00:04:33,613 --> 00:04:35,980
+Those grapes died so you might live.
+
+100
+00:04:36,015 --> 00:04:37,615
+Because if you keep drinking,
+
+101
+00:04:37,650 --> 00:04:39,917
+I will seriously cut a bitch.
+
+102
+00:04:39,952 --> 00:04:41,819
+You never yell at Eliot for being drunk.
+
+103
+00:04:41,854 --> 00:04:43,521
+Because Eliot's fun.
+
+104
+00:04:43,556 --> 00:04:46,324
+You're depressing.
+It's been three months.
+
+105
+00:04:46,359 --> 00:04:49,493
+Technically, it's only been
+a couple of days on Earth, so...
+
+106
+00:04:49,529 --> 00:04:51,429
+Three months on Fillory
+
+107
+00:04:51,464 --> 00:04:53,864
+of emo Quentin.
+
+108
+00:04:53,900 --> 00:04:55,766
+Not my favorite Quentin.
+
+109
+00:04:55,802 --> 00:04:58,803
+I didn't know that you liked
+any of the Quentins.
+
+110
+00:04:59,839 --> 00:05:02,606
+I had to let Alice go.
+
+111
+00:05:02,642 --> 00:05:05,109
+I'm...
+
+112
+00:05:05,144 --> 00:05:06,677
+sympathetic.
+
+113
+00:05:06,713 --> 00:05:07,878
+Okay?
+
+114
+00:05:07,914 --> 00:05:09,580
+But meanwhile,
+
+115
+00:05:09,615 --> 00:05:12,683
+Groomzilla is suddenly my full-time job.
+
+116
+00:05:12,719 --> 00:05:13,984
+I need your help.
+
+117
+00:05:14,020 --> 00:05:16,721
+Bambi! This is an emergency.
+
+118
+00:05:16,756 --> 00:05:18,456
+These are all wrong.
+
+119
+00:05:18,491 --> 00:05:20,825
+You're banished forever. Thank you.
+
+120
+00:05:20,860 --> 00:05:23,894
+He's just so mean when he needs things.
+
+121
+00:05:23,930 --> 00:05:26,564
+Eliot needs a friend, asshole.
+
+122
+00:05:26,599 --> 00:05:28,566
+It's your turn to be button boy
+
+123
+00:05:28,601 --> 00:05:30,868
+and run his random Earth errands.
+
+124
+00:05:30,903 --> 00:05:32,937
+I need a free moment
+
+125
+00:05:32,972 --> 00:05:35,606
+to rub one out in a hot bath
+
+126
+00:05:35,641 --> 00:05:38,476
+before I fucking kill someone.
+
+127
+00:05:38,511 --> 00:05:40,878
+That someone being you.
+
+128
+00:05:42,148 --> 00:05:43,647
+Message received.
+
+129
+00:05:43,683 --> 00:05:47,051
+And get your feet off my throne.
+
+130
+00:05:51,457 --> 00:05:53,057
+This is insane. Why the fuck would Fogg
+
+131
+00:05:53,092 --> 00:05:54,092
+let Julia go?
+
+132
+00:05:54,127 --> 00:05:55,126
+Haven't you ever noticed?
+
+133
+00:05:55,161 --> 00:05:56,827
+Fogg isn't that helpful.
+
+134
+00:05:56,863 --> 00:05:58,896
+Plus, you knew he couldn't
+keep her in there forever.
+
+135
+00:05:58,931 --> 00:06:00,998
+Yeah, well, I thought
+she'd at least be in there
+
+136
+00:06:01,033 --> 00:06:03,567
+long enough for us to figure out
+what to do next.
+
+137
+00:06:03,603 --> 00:06:04,935
+Where are you going?
+
+138
+00:06:04,971 --> 00:06:08,205
+I still have Reynard to deal with.
+
+139
+00:06:08,241 --> 00:06:10,441
+And I really don't want
+to run into Julia.
+
+140
+00:06:10,476 --> 00:06:11,675
+Fine, let's go.
+
+141
+00:06:11,711 --> 00:06:12,977
+Okay, no.
+
+142
+00:06:13,012 --> 00:06:15,880
+Penny, Reynard is my problem.
+
+143
+00:06:15,915 --> 00:06:17,181
+We've been over this.
+
+144
+00:06:17,216 --> 00:06:19,984
+Rapist monsters are a universal problem.
+
+145
+00:06:20,019 --> 00:06:21,719
+And the last time you tried to help,
+
+146
+00:06:21,754 --> 00:06:25,122
+you signed, like, a billion-year
+contract with The Order.
+
+147
+00:06:26,726 --> 00:06:28,025
+When does that start, by the way?
+
+148
+00:06:28,060 --> 00:06:29,794
+Not today.
+
+149
+00:06:29,829 --> 00:06:32,129
+Takes 'em four weeks to process
+a book request.
+
+150
+00:06:32,165 --> 00:06:33,798
+Let's go.
+
+151
+00:06:42,742 --> 00:06:44,975
+Uh...
+
+152
+00:06:45,011 --> 00:06:47,678
+where are we?
+
+153
+00:06:47,713 --> 00:06:50,014
+Penny, we've processed your application
+
+154
+00:06:50,049 --> 00:06:53,320
+and would like to formally
+welcome you to The Order.
+
+155
+00:06:54,754 --> 00:06:56,734
+Shit.
+
+156
+00:07:06,966 --> 00:07:09,767
+Congratulations!
+
+157
+00:07:14,740 --> 00:07:17,975
+Kady, we've allowed you here
+to assist in Penny's transition.
+
+158
+00:07:18,010 --> 00:07:19,810
+But I'm afraid I'm not allowed
+to discuss the business
+
+159
+00:07:19,845 --> 00:07:21,145
+of The Order with you present.
+
+160
+00:07:21,180 --> 00:07:23,147
+Yeah, fine. I'll fuck off.
+
+161
+00:07:23,182 --> 00:07:25,182
+Uh, no eating or drinking in the Library
+
+162
+00:07:25,217 --> 00:07:26,417
+except where posted.
+
+163
+00:07:27,954 --> 00:07:29,987
+Now, Penny,
+
+164
+00:07:30,022 --> 00:07:33,290
+we need to go over some
+of your... obligations.
+
+165
+00:07:36,028 --> 00:07:37,261
+I just don't get it.
+
+166
+00:07:37,296 --> 00:07:39,229
+I mean, I did head off a famine...
+
+167
+00:07:39,265 --> 00:07:41,332
+personally staved off a war.
+
+168
+00:07:41,367 --> 00:07:43,167
+Not to mention, The Wellspring
+is back online.
+
+169
+00:07:43,202 --> 00:07:45,803
+And yet the people don't like me
+any more than they did.
+
+170
+00:07:45,838 --> 00:07:48,205
+How can you possibly know
+what they actually think of you?
+
+171
+00:07:48,240 --> 00:07:51,108
+There's this Earth magician,
+Nate Silver.
+
+172
+00:07:51,143 --> 00:07:54,111
+I adapted one of his polling spells.
+
+173
+00:07:54,146 --> 00:07:57,414
+Right now, my approval rating is at 26%,
+
+174
+00:07:57,450 --> 00:07:59,383
+which is not good, Bayler.
+
+175
+00:07:59,418 --> 00:08:00,784
+Not at all.
+
+176
+00:08:00,820 --> 00:08:03,420
+But still, why ask me?
+
+177
+00:08:03,456 --> 00:08:06,123
+Mmm, I don't know.
+
+178
+00:08:06,158 --> 00:08:08,425
+I figured you might know
+why they hate me so much,
+
+179
+00:08:08,461 --> 00:08:10,427
+seeing as you tried to murder me.
+
+180
+00:08:10,463 --> 00:08:13,130
+Okay, that was before I got to know you.
+
+181
+00:08:13,165 --> 00:08:17,067
+And before you introduced me
+to this Earth delicacy...
+
+182
+00:08:17,103 --> 00:08:18,435
+na-chos.
+
+183
+00:08:18,471 --> 00:08:21,905
+Wait till you try your first margarita.
+
+184
+00:08:21,941 --> 00:08:24,041
+Mmm.
+
+185
+00:08:24,076 --> 00:08:25,943
+Listen...
+
+186
+00:08:25,978 --> 00:08:28,779
+If you're really worried about
+what the people think of you,
+
+187
+00:08:28,814 --> 00:08:30,014
+let's talk about your wedding.
+
+188
+00:08:30,049 --> 00:08:32,182
+Ugh. Can we not?
+
+189
+00:08:32,218 --> 00:08:33,717
+Historically,
+
+190
+00:08:33,753 --> 00:08:36,754
+a royal wedding is the perfect
+time for a monarch
+
+191
+00:08:36,789 --> 00:08:38,222
+to make their appeal to the people.
+
+192
+00:08:38,257 --> 00:08:40,190
+Idri prefers a private ceremony.
+
+193
+00:08:40,226 --> 00:08:42,159
+But what if you went public?
+
+194
+00:08:42,194 --> 00:08:44,294
+Might improve your polling.
+
+195
+00:08:48,267 --> 00:08:50,200
+One for $20, three for $50.
+
+196
+00:08:50,236 --> 00:08:53,170
+Which gets you the highest?
+
+197
+00:08:53,205 --> 00:08:55,039
+Highest?
+
+198
+00:08:55,074 --> 00:08:58,075
+This is grown locally
+from heirloom seed stock,
+
+199
+00:08:58,110 --> 00:09:01,045
+paired with the ideal pastry
+for a curated drug experience.
+
+200
+00:09:01,080 --> 00:09:02,413
+This will make you levitate.
+
+201
+00:09:02,448 --> 00:09:04,848
+This is like being hugged by a rainbow.
+
+202
+00:09:04,884 --> 00:09:07,151
+This is like being blown by a rainbow.
+
+203
+00:09:07,186 --> 00:09:08,385
+Do not mix these up.
+
+204
+00:09:08,421 --> 00:09:09,820
+Yeah, I'll take six.
+
+205
+00:09:12,458 --> 00:09:15,893
+So the High King needs me?
+
+206
+00:09:15,928 --> 00:09:18,996
+Yes, he asked for you specifically.
+
+207
+00:09:19,031 --> 00:09:20,764
+A command performance.
+
+208
+00:09:20,800 --> 00:09:23,367
+Righteous.
+
+209
+00:09:23,402 --> 00:09:24,935
+How are... how are you doing?
+
+210
+00:09:24,970 --> 00:09:27,271
+The last time I saw you, you weren't...
+
+211
+00:09:27,306 --> 00:09:29,206
+doing so good.
+
+212
+00:09:29,241 --> 00:09:31,041
+Whatever happened with the whole, uh...
+
+213
+00:09:31,077 --> 00:09:32,242
+I let her go.
+
+214
+00:09:32,278 --> 00:09:34,144
+I'm fine.
+
+215
+00:09:34,180 --> 00:09:35,979
+I've been self-medicating, so...
+
+216
+00:09:36,015 --> 00:09:37,948
+uh, they don't have Abilify in Fillory,
+
+217
+00:09:37,983 --> 00:09:40,317
+but I have been improvising.
+
+218
+00:09:40,352 --> 00:09:44,321
+Well, this is Dr. Josh's prescription.
+
+219
+00:09:44,356 --> 00:09:46,957
+I mean, we don't have
+to race off to Fillory
+
+220
+00:09:46,992 --> 00:09:49,326
+right this second.
+
+221
+00:09:49,361 --> 00:09:50,994
+We have a minute. What's it do?
+
+222
+00:09:51,030 --> 00:09:54,031
+Dude, lets you see into other worlds.
+
+223
+00:09:54,066 --> 00:09:55,265
+It's rad.
+
+224
+00:10:03,843 --> 00:10:05,275
+This is rad.
+
+225
+00:10:19,458 --> 00:10:21,825
+Is that you...
+
+226
+00:10:21,861 --> 00:10:24,461
+Quentin?
+
+227
+00:10:24,497 --> 00:10:26,930
+Um...
+
+228
+00:10:26,966 --> 00:10:29,867
+you look familiar.
+
+229
+00:10:29,902 --> 00:10:33,003
+Holy shit, Julia?
+
+230
+00:10:33,038 --> 00:10:35,038
+Why do you look like a 12-year-old?
+
+231
+00:10:35,074 --> 00:10:37,007
+Because I'm her Shade.
+
+232
+00:10:39,478 --> 00:10:42,546
+Oh, Q, I'm so happy to see you again.
+
+233
+00:10:42,581 --> 00:10:44,381
+I really, really missed you.
+
+234
+00:10:44,416 --> 00:10:45,883
+Her Shade?
+
+235
+00:10:45,918 --> 00:10:48,051
+I thought that you were gone.
+
+236
+00:10:48,087 --> 00:10:49,386
+I'm lost.
+
+237
+00:10:49,421 --> 00:10:51,321
+I can't find my way home.
+
+238
+00:10:53,025 --> 00:10:54,825
+This is getting less rad.
+
+239
+00:10:54,860 --> 00:10:56,293
+Please, Quentin.
+
+240
+00:10:56,328 --> 00:10:58,295
+I've been looking for a way out,
+and then...
+
+241
+00:10:58,330 --> 00:11:01,098
+suddenly I could see you.
+
+242
+00:11:01,133 --> 00:11:03,200
+Yeah, you're in another world.
+
+243
+00:11:03,235 --> 00:11:04,700
+Um...
+
+244
+00:11:04,821 --> 00:11:05,987
+where are you?
+
+245
+00:11:06,078 --> 00:11:07,747
+I have no idea.
+
+246
+00:11:09,108 --> 00:11:10,374
+I can't stay here.
+
+247
+00:11:10,409 --> 00:11:11,608
+Time is running out.
+
+248
+00:11:11,644 --> 00:11:13,577
+- Can you help me?
+- Yeah, I'll try.
+
+249
+00:11:13,612 --> 00:11:15,790
+- H-how can I find you?
+- I don't know.
+
+250
+00:11:15,815 --> 00:11:17,614
+I don't even know how I got here.
+
+251
+00:11:17,650 --> 00:11:19,283
+Please, Quentin.
+
+252
+00:11:19,318 --> 00:11:21,418
+I have to get back to Julia.
+
+253
+00:11:21,453 --> 00:11:23,620
+You have to find me
+before it's too late.
+
+254
+00:11:45,872 --> 00:11:47,319
+Holy shit, are we at war?
+
+255
+00:11:47,439 --> 00:11:48,874
+I wish we were at war.
+
+256
+00:11:48,909 --> 00:11:50,943
+These are the place settings
+for the wedding.
+
+257
+00:11:50,978 --> 00:11:52,711
+Much more dangerous.
+
+258
+00:11:52,747 --> 00:11:54,513
+How's Josh doing in the royal kitchens?
+
+259
+00:11:54,548 --> 00:11:56,382
+Uh...
+
+260
+00:11:56,417 --> 00:11:59,618
+he's declared them "adequate."
+
+261
+00:11:59,653 --> 00:12:01,387
+Eliot, I have to go back to Earth.
+
+262
+00:12:01,422 --> 00:12:02,621
+Don't be ridiculous.
+
+263
+00:12:02,656 --> 00:12:04,590
+You have far too much to do here.
+
+264
+00:12:04,625 --> 00:12:06,225
+I had a vision, okay?
+
+265
+00:12:06,260 --> 00:12:09,962
+A way that I can maybe help Julia.
+
+266
+00:12:11,399 --> 00:12:13,599
+I can't ignore it.
+
+267
+00:12:13,634 --> 00:12:14,967
+Can't you?
+
+268
+00:12:15,002 --> 00:12:17,903
+It was a motherfucking vision, El.
+
+269
+00:12:17,938 --> 00:12:19,505
+Look, I don't know how else to say it.
+
+270
+00:12:19,540 --> 00:12:20,939
+I just... I feel like this
+is something that I...
+
+271
+00:12:20,975 --> 00:12:22,674
+I have to do right now.
+
+272
+00:12:25,646 --> 00:12:26,845
+I can see that.
+
+273
+00:12:28,983 --> 00:12:31,483
+Yeah.
+
+274
+00:12:31,519 --> 00:12:35,387
+If you miss my wedding, I will kill you.
+
+275
+00:12:35,423 --> 00:12:37,489
+- Okay.
+- Okay.
+
+276
+00:12:39,760 --> 00:12:43,295
+Hey, uh, can you help me
+find some information?
+
+277
+00:12:43,330 --> 00:12:44,530
+Of course.
+
+278
+00:12:44,565 --> 00:12:45,798
+What are you looking for?
+
+279
+00:12:45,833 --> 00:12:47,332
+Well, say you have a...
+
+280
+00:12:47,368 --> 00:12:49,968
+a being with an enormous
+amount of power.
+
+281
+00:12:50,004 --> 00:12:53,038
+I'm looking for how someone might...
+
+282
+00:12:53,073 --> 00:12:54,807
+you know, defeat them.
+
+283
+00:12:54,842 --> 00:12:56,508
+How much power?
+
+284
+00:12:56,544 --> 00:12:58,944
+Let's say... god-like?
+
+285
+00:12:58,979 --> 00:13:00,612
+So classical myths?
+
+286
+00:13:00,648 --> 00:13:04,283
+No, more like a how-to manual.
+
+287
+00:13:04,318 --> 00:13:05,651
+Let me check upstairs.
+
+288
+00:13:21,035 --> 00:13:22,534
+So do we just wait?
+
+289
+00:13:29,543 --> 00:13:30,742
+Oh.
+
+290
+00:13:37,985 --> 00:13:39,318
+I'm afraid we don't have
+any books available
+
+291
+00:13:39,353 --> 00:13:40,919
+on that particular topic.
+
+292
+00:13:40,955 --> 00:13:45,090
+There's nothing in the entire
+Library of the Neitherlands
+
+293
+00:13:45,125 --> 00:13:46,959
+on killing any kind of god?
+
+294
+00:13:46,994 --> 00:13:48,794
+Have you considered that it
+might not be strictly possible
+
+295
+00:13:48,829 --> 00:13:50,629
+to do so?
+
+296
+00:13:50,664 --> 00:13:53,465
+Didn't the Norse Gods kill
+each other, like, all the time?
+
+297
+00:13:53,501 --> 00:13:55,367
+The Library is full of stories.
+
+298
+00:13:55,402 --> 00:13:56,668
+It happened.
+
+299
+00:13:56,704 --> 00:13:57,870
+I know it has.
+
+300
+00:13:57,905 --> 00:14:00,005
+In Fillory, The Beast killed Umber.
+
+301
+00:14:00,040 --> 00:14:01,907
+Sounds fascinating.
+
+302
+00:14:01,942 --> 00:14:03,775
+Unfortunately, there is no
+written record
+
+303
+00:14:03,811 --> 00:14:06,979
+of the type you seek regarding
+the mechanics of such an event.
+
+304
+00:14:07,014 --> 00:14:08,514
+Terribly sorry.
+
+305
+00:14:18,659 --> 00:14:21,927
+Struck out looking
+for a god-murder spell.
+
+306
+00:14:21,962 --> 00:14:24,596
+It can't be that no one
+in all of history ever...
+
+307
+00:14:24,632 --> 00:14:26,832
+Well, apparently,
+no one ever wrote it down.
+
+308
+00:14:28,602 --> 00:14:29,801
+Look, if a way exists,
+
+309
+00:14:29,837 --> 00:14:31,036
+I'm finding it.
+
+310
+00:14:31,071 --> 00:14:32,738
+So what's up with your hands?
+
+311
+00:14:32,773 --> 00:14:35,040
+They told me there are books to help me,
+
+312
+00:14:35,075 --> 00:14:38,911
+but I'd have to do the research
+on my own time.
+
+313
+00:14:38,946 --> 00:14:41,647
+Seriously? What are you
+supposed to do in the meantime?
+
+314
+00:14:41,682 --> 00:14:44,483
+My job.
+
+315
+00:14:44,518 --> 00:14:46,685
+Apparently, I track down overdue books,
+
+316
+00:14:46,720 --> 00:14:50,622
+and this one has been checked
+out for over ten years.
+
+317
+00:14:50,658 --> 00:14:51,890
+You got to be kidding.
+
+318
+00:14:51,926 --> 00:14:54,693
+Since I still can't cast,
+
+319
+00:14:54,728 --> 00:14:57,129
+I thought you could help me out
+with a little locator spell?
+
+320
+00:15:10,477 --> 00:15:11,543
+My King.
+
+321
+00:15:11,579 --> 00:15:12,778
+Hi, Fen.
+
+322
+00:15:14,648 --> 00:15:15,881
+Are you all right?
+
+323
+00:15:15,916 --> 00:15:19,451
+Yes, fine.
+How go the wedding preparations?
+
+324
+00:15:19,486 --> 00:15:22,621
+Oh... they're fine.
+
+325
+00:15:22,656 --> 00:15:24,189
+Is there anything I can help with?
+
+326
+00:15:26,594 --> 00:15:31,063
+Is that something that you'd
+actually want to help with?
+
+327
+00:15:31,098 --> 00:15:33,565
+You're acting like you think
+I'd disapprove of it.
+
+328
+00:15:33,601 --> 00:15:37,102
+Your husband is about to
+welcome another husband
+
+329
+00:15:37,137 --> 00:15:38,904
+into his bed.
+
+330
+00:15:38,939 --> 00:15:40,639
+You're a king.
+
+331
+00:15:40,674 --> 00:15:42,474
+Of course you will.
+
+332
+00:15:42,509 --> 00:15:45,944
+I gather a three-person marriage
+isn't normal on Earth?
+
+333
+00:15:45,980 --> 00:15:49,181
+Not outside of Utah.
+
+334
+00:15:49,216 --> 00:15:50,649
+Or some websites.
+
+335
+00:15:50,684 --> 00:15:54,586
+Those are cities made of pixels, right?
+
+336
+00:15:54,622 --> 00:15:55,921
+Close.
+
+337
+00:15:55,956 --> 00:15:59,024
+My mission, so you understand it,
+
+338
+00:15:59,059 --> 00:16:01,526
+is to protect our growing family.
+
+339
+00:16:01,562 --> 00:16:03,929
+Your marriage to Idri means
+a stronger kingdom
+
+340
+00:16:03,964 --> 00:16:05,697
+to raise our child in.
+
+341
+00:16:05,733 --> 00:16:07,866
+You are being way more
+understanding about this
+
+342
+00:16:07,901 --> 00:16:09,901
+than I would be in your shoes.
+
+343
+00:16:09,937 --> 00:16:11,503
+That's my job.
+
+344
+00:16:14,041 --> 00:16:17,476
+Look, I'm gonna go talk
+to my royal chef.
+
+345
+00:16:17,511 --> 00:16:19,011
+Care to join?
+
+346
+00:16:19,046 --> 00:16:20,112
+Thanks.
+
+347
+00:16:20,147 --> 00:16:22,714
+I'm... not feeling good.
+
+348
+00:16:22,750 --> 00:16:24,750
+It's morning sickness.
+
+349
+00:17:01,655 --> 00:17:03,622
+Q, leave.
+
+350
+00:17:03,657 --> 00:17:04,657
+I'm not going anywhere.
+
+351
+00:17:04,692 --> 00:17:05,924
+Just open the door.
+
+352
+00:17:07,895 --> 00:17:09,795
+Fuck, I could've...
+
+353
+00:17:09,830 --> 00:17:11,029
+I could've killed you.
+
+354
+00:17:14,001 --> 00:17:17,002
+You know, I never...
+I never once stopped to ask
+
+355
+00:17:17,037 --> 00:17:18,837
+if I was doing the right thing.
+
+356
+00:17:21,775 --> 00:17:23,809
+And now it's all I ask.
+
+357
+00:17:26,313 --> 00:17:28,814
+If I did this,
+
+358
+00:17:28,849 --> 00:17:30,849
+would Q look at me like I'm evil?
+
+359
+00:17:35,723 --> 00:17:37,656
+I can't...
+
+360
+00:17:37,691 --> 00:17:40,325
+really feel any of it anymore.
+
+361
+00:17:42,162 --> 00:17:44,129
+I'm doing it from memory.
+
+362
+00:17:48,602 --> 00:17:50,569
+I'm broken.
+
+363
+00:17:50,604 --> 00:17:52,904
+And that makes me dangerous.
+
+364
+00:17:52,940 --> 00:17:55,807
+So you should go.
+
+365
+00:17:55,843 --> 00:17:58,343
+Jules...
+
+366
+00:17:58,378 --> 00:18:00,679
+I talked to your Shade.
+
+367
+00:18:04,785 --> 00:18:07,953
+Wait, so you saw her in a...
+
+368
+00:18:07,988 --> 00:18:11,123
+Yeah, uh, I mean,
+there were drugs involved.
+
+369
+00:18:11,158 --> 00:18:13,024
+But I... I know that it was real.
+
+370
+00:18:14,294 --> 00:18:15,727
+And she's still alive?
+
+371
+00:18:15,763 --> 00:18:17,329
+Yeah.
+
+372
+00:18:17,364 --> 00:18:19,064
+Well, I don't really know
+if that term applies here,
+
+373
+00:18:19,099 --> 00:18:20,632
+but she's not gone.
+
+374
+00:18:23,170 --> 00:18:25,670
+So where is she?
+
+375
+00:18:25,706 --> 00:18:27,939
+I don't know.
+
+376
+00:18:27,975 --> 00:18:29,841
+But wherever she is,
+
+377
+00:18:29,877 --> 00:18:31,643
+she wants us to find her.
+
+378
+00:18:35,215 --> 00:18:37,816
+- What is this?
+- Culinary classic.
+
+379
+00:18:37,851 --> 00:18:41,219
+Oysters and pearls
+from the French Laundry.
+
+380
+00:18:41,255 --> 00:18:43,255
+I had to get Thomas Keller so wrecked
+
+381
+00:18:43,290 --> 00:18:45,257
+before he'd show me
+the secret to that recipe.
+
+382
+00:18:50,697 --> 00:18:53,732
+Mmm.
+
+383
+00:18:53,767 --> 00:18:56,768
+I just don't think
+it's "Fillory" enough.
+
+384
+00:18:56,804 --> 00:18:59,938
+But half of Fillory eats boiled mutton.
+
+385
+00:18:59,973 --> 00:19:01,807
+Let's introduce them to,
+like, actual food.
+
+386
+00:19:01,842 --> 00:19:03,241
+This is their world.
+
+387
+00:19:03,277 --> 00:19:05,143
+We have to meet them halfway,
+don't you think?
+
+388
+00:19:05,179 --> 00:19:06,812
+Well, if half your recipe is shit,
+
+389
+00:19:06,847 --> 00:19:08,280
+it's all going to taste like shit.
+
+390
+00:19:08,315 --> 00:19:10,248
+Okay, okay. Fine, fine.
+
+391
+00:19:10,284 --> 00:19:12,017
+Forget the dish.
+
+392
+00:19:12,052 --> 00:19:15,220
+Let's start with, "What do you
+want people to feel
+
+393
+00:19:15,255 --> 00:19:17,122
+when they eat it?"
+
+394
+00:19:17,157 --> 00:19:19,825
+I want everyone to like me.
+
+395
+00:19:19,860 --> 00:19:21,726
+Then let's just make this easy.
+
+396
+00:19:21,762 --> 00:19:23,995
+I'll make a potion. Poof!
+
+397
+00:19:24,031 --> 00:19:25,430
+They'll like you!
+
+398
+00:19:25,465 --> 00:19:27,866
+- Donesies!
+- I need this.
+
+399
+00:19:33,207 --> 00:19:34,673
+There's nothing in here either.
+
+400
+00:19:34,708 --> 00:19:36,007
+Got to keep looking.
+
+401
+00:19:36,043 --> 00:19:38,877
+So scratchy.
+
+402
+00:19:38,912 --> 00:19:40,912
+Go away, Todd.
+
+403
+00:19:40,948 --> 00:19:43,315
+Stuff about the afterlife
+is super wonky.
+
+404
+00:19:43,350 --> 00:19:45,817
+It's too close to religion.
+
+405
+00:19:45,853 --> 00:19:48,854
+It's... it's hard to figure out
+what's not a flat-out lie.
+
+406
+00:19:48,889 --> 00:19:49,921
+Right?
+
+407
+00:19:49,957 --> 00:19:52,791
+Hey, is this place real?
+
+408
+00:19:54,962 --> 00:19:56,261
+No.
+
+409
+00:19:58,832 --> 00:20:00,298
+You're hungover, Todd.
+
+410
+00:20:01,735 --> 00:20:03,702
+Look, I found a passage here.
+
+411
+00:20:03,737 --> 00:20:06,404
+Sort of vague, but it mentions Shades.
+
+412
+00:20:06,440 --> 00:20:08,173
+One passage in a dozen books?
+
+413
+00:20:08,208 --> 00:20:11,309
+Oh, yeah. Yeah, Shades.
+
+414
+00:20:11,345 --> 00:20:12,477
+I mean, something.
+
+415
+00:20:12,512 --> 00:20:14,012
+Nobody talks about Shades.
+
+416
+00:20:14,047 --> 00:20:15,046
+There's got to be a reason.
+
+417
+00:20:15,082 --> 00:20:16,715
+I know, right?
+
+418
+00:20:16,750 --> 00:20:20,785
+I mean, when Fogg talked
+about 'em the other day,
+
+419
+00:20:20,821 --> 00:20:23,355
+it was the first I heard about 'em.
+
+420
+00:20:25,425 --> 00:20:27,125
+What?
+
+421
+00:20:27,160 --> 00:20:31,096
+My work study job...
+I type up Fogg's memoirs.
+
+422
+00:20:31,131 --> 00:20:34,032
+I guess he has, like, a crazy book deal.
+
+423
+00:20:34,067 --> 00:20:36,034
+He's led a seriously weird life.
+
+424
+00:20:36,069 --> 00:20:39,271
+Did you know that he and Bob Ross
+
+425
+00:20:39,306 --> 00:20:42,374
+had a dark artistic rivalry, and...
+
+426
+00:20:42,409 --> 00:20:43,942
+What did he say about Shades?
+
+427
+00:20:45,345 --> 00:20:48,113
+Something like he knew someone
+
+428
+00:20:48,148 --> 00:20:50,482
+who was obsessed with them?
+
+429
+00:20:50,517 --> 00:20:53,451
+I do know... or I suppose I knew
+
+430
+00:20:53,487 --> 00:20:55,921
+someone who was interested in Shades...
+
+431
+00:20:55,956 --> 00:20:57,255
+was.
+
+432
+00:20:57,291 --> 00:20:59,824
+Ah, it's rather confusing.
+
+433
+00:20:59,851 --> 00:21:02,928
+- Confusing why?
+- Because you know her too.
+
+434
+00:21:02,963 --> 00:21:04,296
+It's Alice.
+
+435
+00:21:10,501 --> 00:21:12,969
+Honestly, I don't think that
+she knew anything about Shades.
+
+436
+00:21:13,005 --> 00:21:14,005
+No, of course not.
+
+437
+00:21:14,401 --> 00:21:15,901
+That Alice didn't.
+
+438
+00:21:15,936 --> 00:21:17,569
+This Alice is a different story.
+
+439
+00:21:17,604 --> 00:21:19,071
+What do you mean "this" Alice?
+
+440
+00:21:19,106 --> 00:21:21,640
+Do you recall the time loop
+I told you about?
+
+441
+00:21:21,675 --> 00:21:23,508
+The 39 lifetimes?
+
+442
+00:21:23,544 --> 00:21:25,377
+No one remembers them except me.
+
+443
+00:21:25,412 --> 00:21:27,012
+Yeah, of course. You knew another me.
+
+444
+00:21:27,047 --> 00:21:28,880
+The Alice from the 23rd timeline
+
+445
+00:21:28,916 --> 00:21:31,450
+was the sole survivor of The Beast.
+
+446
+00:21:31,485 --> 00:21:34,553
+She became obsessed with the afterlife,
+
+447
+00:21:34,588 --> 00:21:37,689
+how to commune with lost souls,
+
+448
+00:21:37,724 --> 00:21:39,391
+and Shades.
+
+449
+00:21:39,426 --> 00:21:42,961
+Would she know where one would go?
+
+450
+00:21:42,996 --> 00:21:44,396
+I don't know what she knew.
+
+451
+00:21:44,431 --> 00:21:45,931
+She just talked about them a lot.
+
+452
+00:21:45,966 --> 00:21:48,633
+She was different than your Alice.
+
+453
+00:21:48,669 --> 00:21:51,636
+She was hurt... broken.
+
+454
+00:21:51,672 --> 00:21:53,038
+We need to talk to her.
+
+455
+00:21:53,073 --> 00:21:55,474
+Well, you can't. It's already happened.
+
+456
+00:21:55,509 --> 00:21:59,077
+Essentially in another universe.
+
+457
+00:21:59,113 --> 00:22:02,581
+It's gone.
+
+458
+00:22:02,616 --> 00:22:04,616
+Well, what about a Tesla Flexion?
+
+459
+00:22:07,488 --> 00:22:09,721
+What is it?
+
+460
+00:22:09,756 --> 00:22:11,857
+It's how we could talk to her.
+
+461
+00:22:18,031 --> 00:22:19,631
+Can I ask you a woman question?
+
+462
+00:22:19,666 --> 00:22:22,534
+Ugh. I barely understand women.
+
+463
+00:22:22,569 --> 00:22:24,035
+I think my pregnant wife
+
+464
+00:22:24,071 --> 00:22:27,405
+might be having weird
+pregnant wife feelings.
+
+465
+00:22:27,441 --> 00:22:28,640
+Ew.
+
+466
+00:22:28,675 --> 00:22:30,175
+Definitely not my rice bowl.
+
+467
+00:22:30,210 --> 00:22:34,646
+She just seems like
+her head is elsewhere
+
+468
+00:22:34,681 --> 00:22:35,947
+all the time.
+
+469
+00:22:35,983 --> 00:22:36,948
+What do you mean?
+
+470
+00:22:36,984 --> 00:22:38,550
+Every time I run into her,
+
+471
+00:22:38,585 --> 00:22:40,652
+I feel like I'm interrupting
+a conversation.
+
+472
+00:22:40,687 --> 00:22:42,587
+Except there's no one else there.
+
+473
+00:22:51,598 --> 00:22:54,132
+What is it?
+
+474
+00:22:54,168 --> 00:22:56,635
+Nothing.
+
+475
+00:22:56,670 --> 00:22:58,537
+I need some air.
+
+476
+00:23:07,047 --> 00:23:08,947
+Fuzzbeat?
+
+477
+00:23:08,982 --> 00:23:10,549
+It's, like, a website.
+
+478
+00:23:10,584 --> 00:23:12,817
+They do serious news
+and cat videos at the same time.
+
+479
+00:23:12,853 --> 00:23:14,486
+That's fucking dumb.
+
+480
+00:23:14,521 --> 00:23:16,441
+Well, it's where the tracking
+spell said to go.
+
+481
+00:23:18,892 --> 00:23:20,659
+We're looking for Harriet.
+
+482
+00:23:20,694 --> 00:23:22,194
+And you are?
+
+483
+00:23:22,229 --> 00:23:24,062
+Just tell we're from The Order.
+
+484
+00:23:24,097 --> 00:23:26,831
+Is that the new Pilates place?
+
+485
+00:23:26,867 --> 00:23:28,500
+- Yes.
+- Sweet.
+
+486
+00:23:35,042 --> 00:23:37,142
+That's a fucking unicorn in a tutu.
+
+487
+00:23:45,686 --> 00:23:47,552
+We're here for the book.
+
+488
+00:23:47,588 --> 00:23:49,955
+"Principles of Conjuring Elementals."
+
+489
+00:23:49,990 --> 00:23:52,090
+It's ten years overdue.
+
+490
+00:23:53,126 --> 00:23:54,693
+Whoa, whoa, whoa!
+
+491
+00:23:54,728 --> 00:23:57,562
+She's not casting.
+
+492
+00:23:57,598 --> 00:23:59,064
+She's signing.
+
+493
+00:23:59,099 --> 00:24:01,066
+Oh.
+
+494
+00:24:01,101 --> 00:24:02,767
+Yeah, I... I don't...
+I don't speak that.
+
+495
+00:24:02,803 --> 00:24:04,970
+She said we don't look like librarians.
+
+496
+00:24:05,005 --> 00:24:07,539
+All right, well, you know,
+
+497
+00:24:07,574 --> 00:24:09,074
+tell her we're looking for the book.
+
+498
+00:24:11,111 --> 00:24:13,745
+We need that book back.
+
+499
+00:24:13,780 --> 00:24:14,946
+Whoa, whoa, whoa.
+
+500
+00:24:14,982 --> 00:24:17,082
+Your signing is terrible.
+
+501
+00:24:17,117 --> 00:24:20,919
+Yeah, my signing's a little rusty.
+
+502
+00:24:36,837 --> 00:24:39,738
+- What'd she say?
+- Uh, don't worry about it.
+
+503
+00:24:41,842 --> 00:24:43,642
+So what's your deal?
+
+504
+00:24:43,677 --> 00:24:48,079
+You write listicles, and you do
+magic in your spare time?
+
+505
+00:24:48,115 --> 00:24:49,147
+No.
+
+506
+00:24:49,182 --> 00:24:51,116
+This is my magic.
+
+507
+00:24:51,151 --> 00:24:52,817
+What are you talking about?
+
+508
+00:24:52,853 --> 00:24:54,219
+Your clickbait site?
+
+509
+00:24:59,760 --> 00:25:01,026
+Yeah, right.
+
+510
+00:25:01,061 --> 00:25:03,828
+- What the fuck is she saying?
+- Shh.
+
+511
+00:25:03,864 --> 00:25:05,230
+See for yourself.
+
+512
+00:25:07,367 --> 00:25:10,835
+"18 Pandas With Things
+That Look Like Pandas"?
+
+513
+00:25:10,871 --> 00:25:12,637
+Half of those don't
+even look like pandas.
+
+514
+00:25:16,910 --> 00:25:20,812
+That's how to conjure dark matter!
+
+515
+00:25:20,847 --> 00:25:22,347
+What did you do to the pandas?
+
+516
+00:25:22,382 --> 00:25:24,349
+It's an encoded spell.
+
+517
+00:25:24,384 --> 00:25:25,784
+All these articles are.
+
+518
+00:25:28,055 --> 00:25:29,754
+Wait, wait, how about...
+
+519
+00:25:29,790 --> 00:25:31,790
+how about "Drunk Guys
+Eating Kids' Vitamins"?
+
+520
+00:25:36,963 --> 00:25:38,963
+No! Really?
+
+521
+00:25:38,999 --> 00:25:40,699
+- Oh, my God, that's...
+- Yeah, when you guys
+
+522
+00:25:40,734 --> 00:25:42,734
+are done bonding, do you think
+you could ask her
+
+523
+00:25:42,769 --> 00:25:44,169
+for the book now, please?
+
+524
+00:25:44,204 --> 00:25:46,671
+Relax, kid.
+
+525
+00:25:46,707 --> 00:25:48,873
+I'll find it.
+
+526
+00:25:48,909 --> 00:25:49,909
+Oh.
+
+527
+00:25:51,645 --> 00:25:52,944
+Mm!
+
+528
+00:25:52,979 --> 00:25:54,045
+Just give us a sec.
+
+529
+00:25:58,085 --> 00:26:01,386
+So I don't get it. Why do all this?
+
+530
+00:26:10,330 --> 00:26:12,163
+You're not wrong.
+
+531
+00:26:14,434 --> 00:26:17,669
+Well, I was looking
+for the kind of knowledge
+
+532
+00:26:17,704 --> 00:26:19,237
+the Library doesn't have.
+
+533
+00:26:20,841 --> 00:26:22,841
+Oh, the usual... beauty tips, recipes,
+
+534
+00:26:22,876 --> 00:26:24,309
+how to kill a trickster god.
+
+535
+00:26:32,686 --> 00:26:33,852
+Ah.
+
+536
+00:26:47,667 --> 00:26:50,301
+- Here you go.
+- Finally.
+
+537
+00:26:50,337 --> 00:26:51,736
+Let's go.
+
+538
+00:26:51,772 --> 00:26:53,738
+- Have a nice day.
+- Fuck off.
+
+539
+00:27:04,818 --> 00:27:06,251
+Thank you.
+
+540
+00:27:18,375 --> 00:27:20,806
+Why am I staring at a plate
+of half-eaten nachos?
+
+541
+00:27:20,931 --> 00:27:23,469
+A question I've asked myself
+very often at 3:00 a.m.
+
+542
+00:27:23,589 --> 00:27:26,624
+- So I was doing the dishes...
+- You're supposed to be cooking.
+
+543
+00:27:26,744 --> 00:27:28,085
+I know. I...
+
+544
+00:27:28,120 --> 00:27:30,821
+kind of roofied the dishwasher.
+
+545
+00:27:30,856 --> 00:27:34,058
+Um, that is not okay.
+
+546
+00:27:34,093 --> 00:27:36,827
+No, not "roofied" roofied.
+
+547
+00:27:36,862 --> 00:27:38,996
+Uh, more like he loves everyone so much,
+
+548
+00:27:39,031 --> 00:27:40,197
+he's catatonic.
+
+549
+00:27:40,232 --> 00:27:41,465
+It was an accident.
+
+550
+00:27:41,500 --> 00:27:44,435
+I was testing the potion for you.
+
+551
+00:27:44,470 --> 00:27:46,737
+Might have made it a little too strong.
+
+552
+00:27:46,772 --> 00:27:48,272
+Forget it. Doesn't matter.
+
+553
+00:27:48,307 --> 00:27:51,075
+The point is, I found this.
+
+554
+00:27:56,215 --> 00:27:59,383
+"Wedding day. Western gate unguarded.
+
+555
+00:27:59,418 --> 00:28:01,852
+Bring gifts there."
+
+556
+00:28:01,887 --> 00:28:04,755
+I'm assuming they're not talking
+about actual gifts.
+
+557
+00:28:04,790 --> 00:28:06,223
+No.
+
+558
+00:28:06,258 --> 00:28:08,092
+They're talking about
+chopping our heads off.
+
+559
+00:28:08,127 --> 00:28:09,259
+Ooh.
+
+560
+00:28:09,295 --> 00:28:12,029
+That backgammon-playing prick.
+
+561
+00:28:12,064 --> 00:28:14,264
+Ah! I was so stupid.
+
+562
+00:28:14,300 --> 00:28:16,333
+After all the hours I spent
+down in the dungeon,
+
+563
+00:28:16,369 --> 00:28:18,302
+I actually thought I'd won Bayler over.
+
+564
+00:28:18,337 --> 00:28:20,204
+I thought I had rehabbed his soul.
+
+565
+00:28:20,239 --> 00:28:22,072
+Oh, honey.
+
+566
+00:28:22,108 --> 00:28:25,909
+We both know rehab is about more
+than nachos and backgammon.
+
+567
+00:28:25,945 --> 00:28:27,144
+Is it?
+
+568
+00:28:27,179 --> 00:28:29,046
+Is it, Margo?
+
+569
+00:28:29,081 --> 00:28:32,282
+Wait, so you're upset because
+the guy who tried to kill you
+
+570
+00:28:32,318 --> 00:28:34,785
+is gonna try and kill you again?
+
+571
+00:28:34,820 --> 00:28:36,020
+I should've executed him.
+
+572
+00:28:36,055 --> 00:28:37,021
+It's not like anybody likes me anyway.
+
+573
+00:28:37,056 --> 00:28:38,455
+I'm down 5%.
+
+574
+00:28:38,491 --> 00:28:41,091
+And now the Fu Fighters
+are gonna red my wedding!
+
+575
+00:28:41,127 --> 00:28:42,326
+No.
+
+576
+00:28:42,361 --> 00:28:44,361
+Okay? We won't let that happen.
+
+577
+00:28:45,531 --> 00:28:47,264
+Josh, where's that dishwasher?
+
+578
+00:28:47,299 --> 00:28:48,265
+Still in the armoire.
+
+579
+00:28:48,300 --> 00:28:50,167
+Why is he in the armoire?
+
+580
+00:28:50,202 --> 00:28:52,302
+'Cause I'm not good in a crisis, okay?
+
+581
+00:28:52,338 --> 00:28:55,305
+How were you ever a drug dealer?
+
+582
+00:28:57,009 --> 00:29:00,244
+Look, that note was meant
+for the dishwasher.
+
+583
+00:29:00,279 --> 00:29:02,813
+He's probably been passing
+messages to the Fu Fighters
+
+584
+00:29:02,848 --> 00:29:04,748
+this whole time, so here's what we do.
+
+585
+00:29:04,784 --> 00:29:06,350
+We help him sober up, and then...
+
+586
+00:29:06,385 --> 00:29:08,118
+We execute him.
+
+587
+00:29:08,154 --> 00:29:09,553
+No.
+
+588
+00:29:09,588 --> 00:29:12,356
+But it means so much to me
+that you want to.
+
+589
+00:29:14,060 --> 00:29:16,226
+We put the note back
+into the dirty dishes.
+
+590
+00:29:16,262 --> 00:29:19,830
+We let him find it and take it
+back to the Fu Fighters' base.
+
+591
+00:29:19,865 --> 00:29:21,031
+Josh?
+
+592
+00:29:21,067 --> 00:29:22,833
+How much of that potion can you make?
+
+593
+00:29:22,868 --> 00:29:24,968
+I...I don't know. A buttload?
+
+594
+00:29:25,004 --> 00:29:26,203
+That'll do.
+
+595
+00:29:29,508 --> 00:29:31,475
+Bambi, what are you casting?
+
+596
+00:29:31,510 --> 00:29:33,510
+Tracking spell.
+
+597
+00:29:33,546 --> 00:29:35,212
+Then we'll know exactly where to find
+
+598
+00:29:35,247 --> 00:29:37,448
+those Dave Grohl-wannabe bitches.
+
+599
+00:29:42,321 --> 00:29:43,487
+Gotcha.
+
+600
+00:29:43,522 --> 00:29:45,522
+The Fu Fighters' encampment.
+
+601
+00:29:45,558 --> 00:29:47,591
+Okay, guys, here you go.
+
+602
+00:29:47,626 --> 00:29:51,261
+Aw, it's a shame, isn't it, El?
+
+603
+00:29:51,297 --> 00:29:53,831
+Utter shame.
+
+604
+00:29:53,866 --> 00:29:55,065
+I mean, I can't be the one
+
+605
+00:29:55,101 --> 00:29:57,301
+to sneak into the Fu Fighters' base.
+
+606
+00:29:57,336 --> 00:29:58,869
+Certainly not. You don't sneak.
+
+607
+00:29:58,904 --> 00:30:00,237
+Mm-mm.
+
+608
+00:30:00,272 --> 00:30:02,172
+And you can't be the one
+to dump that potion
+
+609
+00:30:02,208 --> 00:30:05,876
+into whatever disgusting stew
+they're cooking for dinner.
+
+610
+00:30:05,911 --> 00:30:07,144
+Sadly, no.
+
+611
+00:30:07,179 --> 00:30:09,413
+My eminence is too easy
+to spot from afar.
+
+612
+00:30:09,448 --> 00:30:11,048
+Hmm.
+
+613
+00:30:11,083 --> 00:30:14,051
+If only we had someone
+they'd never seen...
+
+614
+00:30:14,086 --> 00:30:17,621
+Guys, stop the bit. I'll go.
+
+615
+00:30:17,656 --> 00:30:22,593
+Eternal glory awaits you,
+O Joshua of Yonkers.
+
+616
+00:30:22,628 --> 00:30:26,296
+Eternal glory.
+
+617
+00:30:26,332 --> 00:30:27,531
+You done?
+
+618
+00:30:27,566 --> 00:30:29,366
+I'm done.
+
+619
+00:30:29,401 --> 00:30:30,601
+Great.
+
+620
+00:30:36,408 --> 00:30:38,509
+Here's your overdue book.
+
+621
+00:30:38,544 --> 00:30:41,512
+Now can you find me some shit
+to help with my hands, please?
+
+622
+00:30:41,547 --> 00:30:44,148
+I will look for some thing
+
+623
+00:30:44,183 --> 00:30:46,150
+to help you with that in just a moment.
+
+624
+00:31:02,568 --> 00:31:04,401
+Are you okay?
+
+625
+00:31:11,510 --> 00:31:13,076
+Uh, hello?
+
+626
+00:31:18,083 --> 00:31:19,616
+Uh, I asked you a question, man.
+
+627
+00:31:19,652 --> 00:31:21,385
+- Are you okay?
+- No!
+
+628
+00:31:23,022 --> 00:31:24,955
+I can't control my...
+
+629
+00:31:25,138 --> 00:31:26,338
+look out!
+
+630
+00:31:31,964 --> 00:31:33,497
+No!
+
+631
+00:31:35,601 --> 00:31:38,798
+I can't... stop!
+
+632
+00:31:58,871 --> 00:32:01,573
+The card was cursed. A Modus Hex.
+
+633
+00:32:01,601 --> 00:32:03,634
+It forces you to perform
+an action against your will.
+
+634
+00:32:03,670 --> 00:32:05,236
+Yeah, but that dude killed himself.
+
+635
+00:32:05,271 --> 00:32:06,804
+Okay? The hex didn't make him do that.
+
+636
+00:32:06,840 --> 00:32:08,373
+His name was Howard.
+
+637
+00:32:08,408 --> 00:32:10,575
+And if it wasn't for his bravery,
+
+638
+00:32:10,610 --> 00:32:12,176
+the hex would have forced him
+to do something
+
+639
+00:32:12,212 --> 00:32:13,678
+incredibly dangerous.
+
+640
+00:32:13,713 --> 00:32:15,279
+Open a door?
+
+641
+00:32:15,315 --> 00:32:16,748
+It isn't just any door.
+
+642
+00:32:16,783 --> 00:32:18,716
+Then what is it?
+
+643
+00:32:18,752 --> 00:32:20,685
+As a novice of The Order,
+there are many secrets
+
+644
+00:32:20,720 --> 00:32:22,420
+that will be imparted to you
+when the time is right.
+
+645
+00:32:22,455 --> 00:32:23,621
+I just watched a man kill himself!
+
+646
+00:32:23,656 --> 00:32:24,856
+What's behind the door?
+
+647
+00:32:27,560 --> 00:32:29,360
+The Poison Room.
+
+648
+00:32:29,396 --> 00:32:31,195
+The what?
+
+649
+00:32:31,231 --> 00:32:33,297
+It's where we store books
+too dangerous for the public.
+
+650
+00:32:33,333 --> 00:32:36,200
+I suspect Harriet's curse was an
+attempt to steal its contents.
+
+651
+00:32:36,236 --> 00:32:37,835
+Wait, Howard kamikazed himself
+
+652
+00:32:37,871 --> 00:32:40,204
+'cause someone wanted some banned books?
+
+653
+00:32:40,240 --> 00:32:42,407
+That's pretty fucked up!
+
+654
+00:32:42,442 --> 00:32:44,075
+What is...
+
+655
+00:32:44,110 --> 00:32:46,778
+fucked up is that there
+is knowledge out there
+
+656
+00:32:46,813 --> 00:32:48,346
+so dangerous we need a Poison Room
+
+657
+00:32:48,381 --> 00:32:49,814
+so it doesn't fall into the wrong hands.
+
+658
+00:32:49,849 --> 00:32:53,351
+That is why Howard sacrificed his life.
+
+659
+00:32:53,386 --> 00:32:55,286
+It's something all Librarians would do.
+
+660
+00:32:55,321 --> 00:32:57,221
+So he had to die to keep
+someone from getting
+
+661
+00:32:57,257 --> 00:32:59,223
+their hands on what?
+
+662
+00:32:59,259 --> 00:33:01,125
+Some crazy battle magic?
+
+663
+00:33:01,161 --> 00:33:02,860
+There is knowledge
+behind that door, Penny,
+
+664
+00:33:02,896 --> 00:33:06,264
+that could destroy more
+than just people.
+
+665
+00:33:06,299 --> 00:33:09,567
+It could destroy worlds.
+
+666
+00:33:09,602 --> 00:33:12,203
+The Tesla Flexion has only
+been successfully employed
+
+667
+00:33:12,238 --> 00:33:13,638
+once before.
+
+668
+00:33:13,673 --> 00:33:16,441
+Luckily, we're using
+the original equipment,
+
+669
+00:33:16,476 --> 00:33:18,743
+left to Brakebills by
+the man who invented it.
+
+670
+00:33:18,778 --> 00:33:20,178
+Nikola Tesla?
+
+671
+00:33:20,213 --> 00:33:22,280
+No, Fred Flexion.
+
+672
+00:33:23,750 --> 00:33:25,883
+Okay.
+
+673
+00:33:25,919 --> 00:33:28,453
+And it's only been used
+once before because...
+
+674
+00:33:28,488 --> 00:33:31,389
+Three people died trying
+to shut it down last time.
+
+675
+00:33:31,424 --> 00:33:33,157
+What's the tent for?
+
+676
+00:33:33,193 --> 00:33:36,360
+The Flexion is a fold between
+two different realities.
+
+677
+00:33:36,396 --> 00:33:38,696
+The tented area is where
+they cross over.
+
+678
+00:33:38,731 --> 00:33:40,865
+Now, Ms. Wicker and I will work together
+
+679
+00:33:40,900 --> 00:33:42,300
+to cast the Flexion,
+
+680
+00:33:42,335 --> 00:33:44,469
+but if we hold it longer
+than two minutes,
+
+681
+00:33:44,504 --> 00:33:46,771
+we will all die.
+
+682
+00:33:46,806 --> 00:33:48,806
+Well, don't sugarcoat it.
+
+683
+00:33:48,842 --> 00:33:50,508
+Quentin...
+
+684
+00:33:53,179 --> 00:33:54,645
+Get the answers that you need,
+
+685
+00:33:54,681 --> 00:33:56,814
+and then get out.
+
+686
+00:33:56,850 --> 00:33:59,183
+Understood?
+
+687
+00:33:59,219 --> 00:34:02,687
+And try not to touch anything in there.
+
+688
+00:34:02,722 --> 00:34:04,889
+Okay. Why?
+
+689
+00:34:04,924 --> 00:34:06,290
+Matter from different realities
+
+690
+00:34:06,326 --> 00:34:07,725
+occupying the same space
+
+691
+00:34:07,760 --> 00:34:08,926
+can create a paradox.
+
+692
+00:34:08,962 --> 00:34:11,729
+More like an explosion.
+
+693
+00:34:11,764 --> 00:34:13,931
+As well a mess of problems
+for the people who'd find
+
+694
+00:34:13,967 --> 00:34:16,667
+what's left of our bodies.
+
+695
+00:34:16,703 --> 00:34:18,302
+Touch nothing.
+
+696
+00:34:18,338 --> 00:34:19,804
+Got it.
+
+697
+00:34:21,741 --> 00:34:23,808
+Dude, their shit was
+seriously jacked up.
+
+698
+00:34:23,843 --> 00:34:26,344
+Their K-holes were inside K-holes.
+
+699
+00:34:26,379 --> 00:34:28,279
+Does that even make sense?
+
+700
+00:34:28,314 --> 00:34:29,814
+I'm just saying, the Fu Fighters
+
+701
+00:34:29,849 --> 00:34:32,850
+are out of "comish"
+for the foreseeable future.
+
+702
+00:34:32,886 --> 00:34:34,752
+Your wedding may proceed apace, sire.
+
+703
+00:34:34,787 --> 00:34:39,390
+And you, good sir, may shave
+any nymph in the kingdom.
+
+704
+00:34:39,425 --> 00:34:42,493
+- Like right now?
+- Like right now.
+
+705
+00:34:42,529 --> 00:34:45,496
+You are my once and future king.
+
+706
+00:34:49,836 --> 00:34:51,636
+Just floating this:
+
+707
+00:34:51,671 --> 00:34:54,839
+would it be weird if I fucked Josh?
+
+708
+00:34:54,874 --> 00:34:57,441
+I certainly hope it would be weird.
+
+709
+00:34:59,879 --> 00:35:02,580
+To my quick-thinking Bambi,
+
+710
+00:35:02,615 --> 00:35:04,582
+who saved the day again.
+
+711
+00:35:07,587 --> 00:35:08,953
+Speaking of saving the day,
+
+712
+00:35:08,988 --> 00:35:12,390
+did you ever manage to talk to Fen?
+
+713
+00:35:12,425 --> 00:35:15,259
+Um, yeah.
+
+714
+00:35:15,295 --> 00:35:16,460
+She's fine.
+
+715
+00:35:16,496 --> 00:35:17,595
+Good.
+
+716
+00:35:17,630 --> 00:35:18,829
+That's a relief.
+
+717
+00:35:20,733 --> 00:35:24,001
+Fen? Fen!
+
+718
+00:35:30,877 --> 00:35:33,578
+I want to talk to you about
+the terms of our deal.
+
+719
+00:35:40,753 --> 00:35:42,687
+Oh, shit.
+
+720
+00:35:42,722 --> 00:35:44,755
+- Shit, shit...
+- You saw it?
+
+721
+00:35:44,791 --> 00:35:46,791
+You saw it too.
+
+722
+00:35:46,826 --> 00:35:47,792
+Fen!
+
+723
+00:35:47,827 --> 00:35:49,760
+I'm not going mad.
+
+724
+00:35:49,796 --> 00:35:53,030
+Well...
+
+725
+00:35:53,066 --> 00:35:55,299
+no.
+
+726
+00:35:55,335 --> 00:35:56,968
+You're not.
+
+727
+00:35:57,003 --> 00:35:59,804
+It was a fairy, okay?
+
+728
+00:35:59,839 --> 00:36:01,906
+Look, the day The Wellspring failed,
+
+729
+00:36:01,941 --> 00:36:04,041
+I made a deal to save Eliot's life.
+
+730
+00:36:04,077 --> 00:36:05,543
+You did, too.
+
+731
+00:36:05,578 --> 00:36:07,378
+I don't understand.
+
+732
+00:36:07,413 --> 00:36:09,614
+You agreed to do whatever
+it took to save him.
+
+733
+00:36:09,649 --> 00:36:10,781
+But I didn't.
+
+734
+00:36:10,817 --> 00:36:13,384
+Well, you did.
+
+735
+00:36:13,419 --> 00:36:14,652
+What do they want?
+
+736
+00:36:16,489 --> 00:36:18,055
+Your baby.
+
+737
+00:36:18,091 --> 00:36:19,957
+- What?
+- Fen...
+
+738
+00:36:19,993 --> 00:36:21,826
+I can stop this.
+
+739
+00:36:21,861 --> 00:36:23,961
+You better fix this, because I
+will not let them
+
+740
+00:36:23,997 --> 00:36:25,563
+take my child.
+
+741
+00:36:29,636 --> 00:36:32,303
+Fuck.
+
+742
+00:37:17,750 --> 00:37:20,518
+Quentin?
+
+743
+00:37:20,553 --> 00:37:21,585
+Is that you?
+
+744
+00:37:21,621 --> 00:37:22,853
+You're in a Tesla Flexion.
+
+745
+00:37:22,889 --> 00:37:24,922
+I'm from another timeline.
+
+746
+00:37:24,957 --> 00:37:26,490
+We only have two minutes.
+
+747
+00:37:26,526 --> 00:37:28,526
+I need you to tell me
+everything you know
+
+748
+00:37:28,561 --> 00:37:29,994
+about Shades.
+
+749
+00:37:30,029 --> 00:37:31,762
+It is you.
+
+750
+00:37:31,798 --> 00:37:33,531
+Another you... you're alive.
+
+751
+00:37:33,566 --> 00:37:36,534
+No, stop. We can't touch.
+
+752
+00:37:36,569 --> 00:37:37,902
+I'm sorry. We have to go fast.
+
+753
+00:37:37,937 --> 00:37:39,737
+I understand.
+
+754
+00:37:39,772 --> 00:37:41,639
+Um...
+
+755
+00:37:41,674 --> 00:37:42,773
+I'll tell you everything I know.
+
+756
+00:37:42,809 --> 00:37:44,675
+It's just...
+
+757
+00:37:44,711 --> 00:37:46,577
+I thought I'd never see you again.
+
+758
+00:37:46,612 --> 00:37:49,580
+The Beast, he... he tore you apart
+
+759
+00:37:49,615 --> 00:37:51,615
+piece by piece, but not just your body,
+
+760
+00:37:51,651 --> 00:37:53,551
+but your... your Shade, everything.
+
+761
+00:37:53,586 --> 00:37:55,152
+My Shade. Do you know where it went?
+
+762
+00:37:55,188 --> 00:37:58,122
+I searched everywhere for it.
+
+763
+00:37:58,157 --> 00:38:00,424
+You can't rest in peace without it.
+
+764
+00:38:00,460 --> 00:38:03,461
+But there are no books on how to do...
+
+765
+00:38:03,496 --> 00:38:05,796
+so I traveled the world in
+search of anyone, anything,
+
+766
+00:38:05,832 --> 00:38:06,997
+that could help me.
+
+767
+00:38:07,033 --> 00:38:09,500
+What did you learn?
+
+768
+00:38:09,535 --> 00:38:12,570
+Shades go to The Underworld.
+
+769
+00:38:12,605 --> 00:38:13,771
+There's an Underworld?
+
+770
+00:38:13,806 --> 00:38:15,639
+It's only accessible to the dead.
+
+771
+00:38:15,675 --> 00:38:17,575
+But there's a catch.
+
+772
+00:38:17,610 --> 00:38:19,810
+Alice, what happened to your hand?
+
+773
+00:38:19,846 --> 00:38:21,645
+Doesn't matter.
+
+774
+00:38:21,681 --> 00:38:24,982
+It's the least I gave up to learn this.
+
+775
+00:38:28,554 --> 00:38:30,488
+The living can access The Underworld
+
+776
+00:38:30,523 --> 00:38:31,723
+with the help of a Gatekeeper.
+
+777
+00:38:31,758 --> 00:38:33,691
+- A Gatekeeper?
+- An ancient one.
+
+778
+00:38:33,726 --> 00:38:35,960
+A being older than the world itself.
+
+779
+00:38:35,995 --> 00:38:38,796
+Okay, how do you find one of those?
+
+780
+00:38:38,831 --> 00:38:40,965
+I don't know.
+
+781
+00:38:41,000 --> 00:38:44,101
+I'm still looking.
+
+782
+00:38:48,941 --> 00:38:50,875
+- I have to go.
+- Please, please...
+
+783
+00:38:50,910 --> 00:38:52,209
+just one more thing.
+
+784
+00:38:53,880 --> 00:38:55,146
+We can't hold it much longer, Quentin!
+
+785
+00:38:55,181 --> 00:38:58,082
+I just wanted to say I'm sorry.
+
+786
+00:38:58,117 --> 00:39:00,117
+Sorry for what?
+
+787
+00:39:01,854 --> 00:39:04,588
+When you died,
+
+788
+00:39:04,624 --> 00:39:06,524
+we weren't in a good place.
+
+789
+00:39:08,127 --> 00:39:10,895
+We were... we were fighting,
+
+790
+00:39:10,930 --> 00:39:15,065
+and I was too proud to... to let it go.
+
+791
+00:39:18,738 --> 00:39:20,504
+I don't know what that
+other Quentin felt,
+
+792
+00:39:20,540 --> 00:39:23,707
+but in this world, I love you.
+
+793
+00:39:23,743 --> 00:39:25,476
+Okay.
+
+794
+00:39:25,511 --> 00:39:28,012
+No matter what.
+
+795
+00:39:28,047 --> 00:39:29,780
+I love you.
+
+796
+00:39:55,042 --> 00:39:57,543
+Yeah, but Harriet didn't know
+the guy was gonna kill himself.
+
+797
+00:39:57,621 --> 00:39:59,045
+Are you defending her?
+
+798
+00:39:59,081 --> 00:40:02,588
+No, I'm just saying that
+she's not totally wrong.
+
+799
+00:40:03,692 --> 00:40:05,292
+The Librarians are hiding something.
+
+800
+00:40:05,327 --> 00:40:07,171
+Yeah, things that are
+insanely dangerous.
+
+801
+00:40:07,196 --> 00:40:08,762
+They could have good reasons.
+
+802
+00:40:08,797 --> 00:40:09,963
+Okay, and who the fuck
+are librarians to decide
+
+803
+00:40:09,999 --> 00:40:11,698
+who gets what?
+
+804
+00:40:11,734 --> 00:40:13,567
+Do you really want every
+Hedge Witch with a grudge
+
+805
+00:40:13,602 --> 00:40:16,069
+and a bad idea to get a nuclear bomb?
+
+806
+00:40:16,105 --> 00:40:18,105
+Fuck you.
+
+807
+00:40:18,140 --> 00:40:20,073
+I'm not talking about you.
+
+808
+00:40:20,109 --> 00:40:23,110
+Yeah, you are.
+
+809
+00:40:23,145 --> 00:40:26,546
+No, I'm not.
+
+810
+00:40:26,582 --> 00:40:27,948
+Think we might be too late.
+
+811
+00:40:27,983 --> 00:40:30,584
+Motherfucker.
+
+812
+00:40:33,355 --> 00:40:35,055
+No.
+
+813
+00:40:35,090 --> 00:40:36,723
+No, no...
+
+814
+00:40:53,809 --> 00:40:56,977
+"The Ars Deicidium"?
+
+815
+00:40:57,012 --> 00:40:58,612
+"The Art of Killing Gods."
+
+816
+00:41:02,117 --> 00:41:04,818
+Eliot? Oh, thank God.
+
+817
+00:41:04,853 --> 00:41:06,653
+I don't know what to do.
+
+818
+00:41:06,688 --> 00:41:08,355
+Margo made a deal with
+the fairies and they're
+
+819
+00:41:08,390 --> 00:41:10,690
+coming for our baby.
+
+820
+00:41:13,362 --> 00:41:15,328
+A deal is a deal.
+
+821
+00:41:22,738 --> 00:41:25,005
+You've been staring
+at that page for an hour.
+
+822
+00:41:26,375 --> 00:41:28,008
+Oh.
+
+823
+00:41:30,712 --> 00:41:32,746
+I just keep seeing her face.
+
+824
+00:41:38,353 --> 00:41:40,153
+I get that you're hurting.
+
+825
+00:41:43,292 --> 00:41:45,659
+I don't know what to say
+to make you feel better.
+
+826
+00:41:45,694 --> 00:41:47,961
+It's okay.
+
+827
+00:41:47,996 --> 00:41:50,297
+I don't really want
+to feel better anyway.
+
+828
+00:42:03,178 --> 00:42:06,589
+Maybe I better not show you this then.
+
+829
+00:42:07,382 --> 00:42:09,850
+I think I figured out
+what an Ancient One is.
+
+830
+00:42:16,892 --> 00:42:19,092
+No fucking way.

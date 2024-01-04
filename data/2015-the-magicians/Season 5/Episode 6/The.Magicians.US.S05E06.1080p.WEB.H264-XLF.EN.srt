@@ -1,0 +1,3887 @@
+1
+00:00:06,966 --> 00:00:08,319
+Previously on "The Magicians"...
+
+2
+00:00:08,320 --> 00:00:10,169
+You're not right, El,
+and we both know why.
+
+3
+00:00:10,170 --> 00:00:11,469
+You said you don't remember
+what happened
+
+4
+00:00:11,470 --> 00:00:13,090
+when you were possessed, but Julia does.
+
+5
+00:00:13,097 --> 00:00:14,430
+And I don't.
+
+6
+00:00:14,431 --> 00:00:17,308
+I don't know why you're
+accusing me of lying.
+
+7
+00:00:17,309 --> 00:00:20,395
+Eliot, let me out.
+
+8
+00:00:20,396 --> 00:00:21,771
+We're looking for Stoppard.
+
+9
+00:00:21,772 --> 00:00:23,469
+Mom? Mom, what's wrong?
+
+10
+00:00:23,470 --> 00:00:25,599
+Moms die every day. Circle of life.
+
+11
+00:00:25,600 --> 00:00:27,486
+We know you're trying to
+look out for your mom.
+
+12
+00:00:27,487 --> 00:00:28,945
+You're saying you'll leave?
+
+13
+00:00:28,946 --> 00:00:30,572
+Sorry, man. I'm not going anywhere.
+
+14
+00:00:30,573 --> 00:00:32,639
+The Harmonic Convergence.
+
+15
+00:00:32,640 --> 00:00:34,070
+AKA the end of the world.
+
+16
+00:00:34,076 --> 00:00:37,370
+The convergence will only occur
+during this perfect alignment.
+
+17
+00:00:37,371 --> 00:00:40,059
+If we move the moon out of position...
+
+18
+00:00:40,060 --> 00:00:43,080
+No Convergence,
+no Circumstance, no apocalypse.
+
+19
+00:00:43,085 --> 00:00:45,502
+If you have moon brain,
+then you will see Her aura.
+
+20
+00:00:45,503 --> 00:00:47,589
+If it is green, She is listening.
+
+21
+00:00:47,590 --> 00:00:51,259
+Only then may you ask Her to move.
+
+22
+00:00:51,260 --> 00:00:52,559
+You will need a piece of Her.
+
+23
+00:00:52,560 --> 00:00:53,928
+Like a moon rock?
+
+24
+00:00:53,929 --> 00:00:55,305
+In here, boss.
+
+25
+00:00:55,306 --> 00:00:57,473
+Ladies.
+
+26
+00:00:57,474 --> 00:00:59,601
+- You're moving the moon?
+- Yeah.
+
+27
+00:01:03,397 --> 00:01:05,732
+Uh, guys?
+
+28
+00:01:05,733 --> 00:01:07,720
+I think we broke the moon.
+
+29
+00:01:08,720 --> 00:01:10,879
+NASA estimates just hours
+
+30
+00:01:10,880 --> 00:01:13,519
+before the first pieces
+reach our atmosphere.
+
+31
+00:01:13,520 --> 00:01:16,879
+In a tweet, the president
+stressed the need for calm,
+
+32
+00:01:16,880 --> 00:01:20,289
+saying, "We will fix
+the moon decisively.
+
+33
+00:01:20,290 --> 00:01:24,490
+The American people have
+absolutely nothing to fear."
+
+34
+00:01:30,770 --> 00:01:34,799
+I know we are dealing with
+the lunapocalypse problem,
+
+35
+00:01:34,800 --> 00:01:37,472
+but I have to insist that
+we all take a minute
+
+36
+00:01:37,473 --> 00:01:40,683
+for a little self-care/pizza, okay?
+
+37
+00:01:40,684 --> 00:01:41,809
+Okay.
+
+38
+00:01:41,810 --> 00:01:43,739
+Cautioning everyone
+that though the world
+
+39
+00:01:43,740 --> 00:01:45,509
+appears to be coming to an end,
+
+40
+00:01:45,510 --> 00:01:47,719
+everyone's behavior
+will still be counted
+
+41
+00:01:47,720 --> 00:01:49,519
+when the time comes for judgment.
+
+42
+00:01:49,520 --> 00:01:52,839
+Feeling the wrong kind
+of boned right now.
+
+43
+00:01:52,840 --> 00:01:54,709
+At least the Harmonic Convergence
+
+44
+00:01:54,710 --> 00:01:56,269
+isn't happening anymore.
+
+45
+00:01:58,770 --> 00:02:01,769
+I just have this bad feeling.
+
+46
+00:02:01,770 --> 00:02:03,319
+Hey.
+
+47
+00:02:03,320 --> 00:02:06,279
+We'll figure out how to stop this.
+
+48
+00:02:06,280 --> 00:02:08,919
+I mean, on the off-chance
+the president doesn't.
+
+49
+00:02:08,920 --> 00:02:09,963
+Let's review.
+
+50
+00:02:10,760 --> 00:02:13,633
+Emergency code words if
+this all goes shit-shaped?
+
+51
+00:02:13,634 --> 00:02:15,629
+Um...
+
+52
+00:02:15,630 --> 00:02:17,979
+- Really?
+- Kidding. Okay.
+
+53
+00:02:19,100 --> 00:02:20,299
+As follows.
+
+54
+00:02:20,300 --> 00:02:22,629
+"Credenza," no questions asked.
+
+55
+00:02:22,630 --> 00:02:24,279
+"Inglenook," tie those fools up,
+
+56
+00:02:24,280 --> 00:02:25,899
+toss 'em through the Fillory portal.
+
+57
+00:02:25,900 --> 00:02:27,709
+"Chifforobe," flee to Canada.
+
+58
+00:02:27,710 --> 00:02:29,639
+"Armoire," shield up, stat.
+
+59
+00:02:29,640 --> 00:02:30,659
+"Kimono"...
+
+60
+00:02:30,660 --> 00:02:32,310
+All hell has broken loose.
+
+61
+00:02:32,319 --> 00:02:35,321
+Time and hope are quickly running out.
+
+62
+00:02:35,322 --> 00:02:38,075
+Everything I'm seeing says
+the first chunk's gonna hit
+
+63
+00:02:38,076 --> 00:02:39,240
+around 10:00 p.m.
+
+64
+00:02:40,285 --> 00:02:41,745
+We have 12 hours.
+
+65
+00:02:45,332 --> 00:02:46,759
+Uh, look.
+
+66
+00:02:46,760 --> 00:02:48,959
+What if we created a massive
+portal in the atmosphere?
+
+67
+00:02:48,960 --> 00:02:50,529
+No, we need a specialist,
+
+68
+00:02:50,530 --> 00:02:53,469
+and the meta-math is just... it's too...
+
+69
+00:02:53,470 --> 00:02:55,258
+this is really bad, Julia.
+
+70
+00:02:55,259 --> 00:02:57,051
+Nuh-uh.
+
+71
+00:02:57,052 --> 00:02:59,512
+Don't you dare give up.
+
+72
+00:02:59,513 --> 00:03:02,159
+This math is so damn frustrating.
+
+73
+00:03:02,160 --> 00:03:03,250
+Yeah, but you'll get it.
+
+74
+00:03:05,510 --> 00:03:06,560
+Jesus.
+
+75
+00:03:07,300 --> 00:03:09,854
+- What happened to your shoe?
+- Have you been out there?
+
+76
+00:03:09,855 --> 00:03:12,400
+It is the literal end
+of the actual world.
+
+77
+00:03:12,401 --> 00:03:13,989
+No, it's not. We're gonna stop it.
+
+78
+00:03:13,990 --> 00:03:16,479
+Yeah, tell that to the rioters
+and the prayer circles
+
+79
+00:03:16,480 --> 00:03:18,280
+and people fucking in the streets.
+
+80
+00:03:18,282 --> 00:03:19,991
+I can't believe this is happening.
+
+81
+00:03:19,992 --> 00:03:22,069
+I'm just numb.
+
+82
+00:03:22,070 --> 00:03:25,456
+Try the truffled prosciutto,
+it's incredible.
+
+83
+00:03:26,550 --> 00:03:28,583
+I did have one idea
+
+84
+00:03:28,584 --> 00:03:30,833
+after my very bad idea
+to take the subway.
+
+85
+00:03:30,834 --> 00:03:33,879
+Okay, do you know Richard's
+Reverse Entropy spell?
+
+86
+00:03:33,880 --> 00:03:34,948
+We already talked about it.
+
+87
+00:03:34,950 --> 00:03:36,298
+Unfortunately, it's just way too small.
+
+88
+00:03:36,300 --> 00:03:38,669
+True, but I reworked it.
+
+89
+00:03:38,670 --> 00:03:41,346
+And check my math.
+
+90
+00:03:43,800 --> 00:03:46,969
+This is fantastic, but...
+
+91
+00:03:46,970 --> 00:03:49,562
+I don't think we have enough
+cooperative power.
+
+92
+00:03:49,563 --> 00:03:51,857
+Chances are high for a surge
+in the next 12 hours.
+
+93
+00:03:51,860 --> 00:03:54,442
+- We could use it.
+- And we have enough hedges
+
+94
+00:03:54,443 --> 00:03:58,613
+around the world on standby
+to do it with us, so...
+
+95
+00:03:58,614 --> 00:04:00,529
+That might not be enough.
+
+96
+00:04:00,530 --> 00:04:02,200
+We make it enough.
+
+97
+00:04:02,201 --> 00:04:03,951
+Today we are saving the world,
+
+98
+00:04:03,952 --> 00:04:05,953
+and this time it's gonna stick.
+
+99
+00:04:05,954 --> 00:04:07,580
+Damn right, we are.
+
+100
+00:04:07,581 --> 00:04:09,373
+Okay.
+
+101
+00:04:11,130 --> 00:04:13,003
+But just in case...
+
+102
+00:04:14,170 --> 00:04:16,006
+Anything I need to say to you?
+
+103
+00:04:17,600 --> 00:04:18,716
+Jules, we're good.
+
+104
+00:04:22,500 --> 00:04:24,539
+Scientists around the world
+
+105
+00:04:24,540 --> 00:04:25,959
+have been sending out their predictions
+
+106
+00:04:25,960 --> 00:04:28,100
+for what we should expect
+in the coming hours.
+
+107
+00:04:28,101 --> 00:04:30,686
+Though the tides remain
+mysteriously intact,
+
+108
+00:04:30,687 --> 00:04:33,059
+expect volcanic activity,
+
+109
+00:04:33,060 --> 00:04:36,108
+tectonic shifts,
+disrupted weather patterns,
+
+110
+00:04:36,109 --> 00:04:38,528
+and strange behavior from animal life.
+
+111
+00:04:42,060 --> 00:04:44,879
+And to Sharon Cappanelli
+from ninth grade:
+
+112
+00:04:44,880 --> 00:04:45,979
+I lied.
+
+113
+00:04:45,980 --> 00:04:48,479
+It was my tampon, and
+that was your girlfriend.
+
+114
+00:04:48,480 --> 00:04:49,497
+I'm not sorry.
+
+115
+00:04:49,498 --> 00:04:51,599
+Thanks for spreading the word, Pete.
+
+116
+00:04:51,600 --> 00:04:52,625
+Stand by.
+
+117
+00:04:54,080 --> 00:04:55,320
+Everyone's set.
+
+118
+00:04:55,330 --> 00:04:57,039
+We're just waiting for the surge.
+
+119
+00:05:10,080 --> 00:05:11,103
+You guys feel that?
+
+120
+00:05:11,960 --> 00:05:13,062
+It's the surge.
+
+121
+00:05:13,063 --> 00:05:14,605
+It's cresting. We should...
+
+122
+00:05:14,606 --> 00:05:16,349
+Go. Pete, now!
+
+123
+00:05:35,780 --> 00:05:37,169
+Did it work?
+
+124
+00:05:45,520 --> 00:05:46,919
+It didn't work.
+
+125
+00:05:46,920 --> 00:05:49,389
+We failed.
+
+126
+00:05:54,620 --> 00:05:59,620
+- Synced & corrected by<font color="#E83286"> MementMori </font>-
+-- <font color="#138CE9">www.addic7ed.com</font> --
+
+127
+00:06:08,640 --> 00:06:11,579
+Feeling the wrong kind of boned...
+
+128
+00:06:11,580 --> 00:06:13,149
+right now.
+
+129
+00:06:13,150 --> 00:06:15,719
+At least the Harmonic Convergence
+
+130
+00:06:15,720 --> 00:06:17,399
+isn't happening anymore.
+
+131
+00:06:17,400 --> 00:06:18,799
+Although the world's greatest minds
+
+132
+00:06:18,800 --> 00:06:21,199
+are locked in a desperate
+race to save humanity
+
+133
+00:06:21,200 --> 00:06:23,159
+from this sudden lunar cataclysm,
+
+134
+00:06:23,160 --> 00:06:25,899
+time and hope are quickly running out.
+
+135
+00:06:25,900 --> 00:06:27,759
+Everything I'm seeing
+says the first chunk's
+
+136
+00:06:27,760 --> 00:06:29,139
+gonna hit around 10:00 p.m.
+
+137
+00:06:29,140 --> 00:06:30,800
+We have 12 hours.
+
+138
+00:06:34,470 --> 00:06:37,260
+Uh, look, what if we created a
+massive portal in the atmosphere?
+
+139
+00:06:37,270 --> 00:06:40,275
+We need a specialist, and the
+meta-math is just... it's too...
+
+140
+00:06:40,276 --> 00:06:43,569
+- this is really bad, Julia.
+- Am I crazy, or...
+
+141
+00:06:43,570 --> 00:06:44,779
+This already happened, right?
+
+142
+00:06:44,780 --> 00:06:47,219
+This math is so damn frustrating.
+
+143
+00:06:47,220 --> 00:06:48,240
+This did.
+
+144
+00:06:48,241 --> 00:06:49,451
+This did already happen.
+
+145
+00:06:50,020 --> 00:06:51,202
+Ow!
+
+146
+00:06:51,203 --> 00:06:52,689
+Not a dream.
+
+147
+00:06:52,690 --> 00:06:55,079
+Hey, am I on something,
+
+148
+00:06:55,080 --> 00:06:57,084
+or did we try this plan yesterday?
+
+149
+00:06:57,085 --> 00:06:58,239
+We're...
+
+150
+00:06:58,240 --> 00:07:00,169
+At Westbrook's estate?
+
+151
+00:07:03,080 --> 00:07:04,090
+Jesus.
+
+152
+00:07:04,091 --> 00:07:06,592
+What happened to your shoe?
+
+153
+00:07:06,593 --> 00:07:08,689
+Have you been out there?
+
+154
+00:07:08,690 --> 00:07:10,919
+It's the literal end
+of the actual world.
+
+155
+00:07:10,920 --> 00:07:12,859
+No, it's not. We're stopping it.
+
+156
+00:07:12,860 --> 00:07:14,719
+Tell that to the rioters,
+prayer circles,
+
+157
+00:07:14,720 --> 00:07:17,029
+and people fucking in the streets.
+
+158
+00:07:17,030 --> 00:07:19,648
+We're in a time loop.
+
+159
+00:07:21,580 --> 00:07:23,480
+Excuse us while we briefly sidebar.
+
+160
+00:07:25,940 --> 00:07:27,990
+Why exactly is this happening?
+
+161
+00:07:28,010 --> 00:07:30,032
+"Why is anything?" he asked,
+
+162
+00:07:30,033 --> 00:07:31,779
+still freaked, 'cause the
+last thing he remembers
+
+163
+00:07:31,780 --> 00:07:33,399
+is all of Earth ending.
+
+164
+00:07:33,400 --> 00:07:35,149
+- It felt so inevitable.
+- I know.
+
+165
+00:07:35,150 --> 00:07:38,409
+But why us, now? Time loop?
+
+166
+00:07:38,410 --> 00:07:41,149
+Of course we're the chosen ones.
+
+167
+00:07:41,150 --> 00:07:42,170
+We're us.
+
+168
+00:07:43,755 --> 00:07:45,089
+Okay, everybody.
+
+169
+00:07:45,090 --> 00:07:46,591
+What is going on with you two?
+
+170
+00:07:46,592 --> 00:07:48,859
+Quick recap, Kady's plan won't work.
+
+171
+00:07:48,860 --> 00:07:52,099
+We tried it, and the moon
+still crashed into the Earth.
+
+172
+00:07:52,100 --> 00:07:54,974
+Uh, okay. What do you mean, "tried it"?
+
+173
+00:07:54,975 --> 00:07:57,101
+We suspect we're in a time loop.
+
+174
+00:07:57,102 --> 00:07:58,394
+How?
+
+175
+00:07:58,395 --> 00:08:00,169
+Obviously...
+
+176
+00:08:00,170 --> 00:08:02,720
+the moon's a wily cunt
+who doesn't wanna die.
+
+177
+00:08:03,570 --> 00:08:04,599
+Okay.
+
+178
+00:08:04,600 --> 00:08:06,939
+All right, so no reverse entropy.
+
+179
+00:08:06,940 --> 00:08:09,072
+What do you guys suggest?
+
+180
+00:08:09,080 --> 00:08:11,689
+We cast Vinnola's Oxygen
+Saver on Penny 23,
+
+181
+00:08:11,690 --> 00:08:13,029
+then he travels to the moon.
+
+182
+00:08:13,030 --> 00:08:14,339
+It's easier to do a portal there.
+
+183
+00:08:14,340 --> 00:08:15,619
+Look, GPS is kinda broken.
+
+184
+00:08:15,620 --> 00:08:18,165
+- I might end up in a wall.
+- It's the apocalypse.
+
+185
+00:08:18,170 --> 00:08:19,989
+Gonna need you to try.
+
+186
+00:08:23,378 --> 00:08:25,880
+Fuck all of you. Fine.
+
+187
+00:08:31,136 --> 00:08:32,762
+You got this, man.
+
+188
+00:08:39,260 --> 00:08:41,539
+Oh... oh, no! No! No!
+
+189
+00:08:51,160 --> 00:08:53,116
+Okay, forget the moon.
+Let's move the Earth.
+
+190
+00:08:54,130 --> 00:08:55,959
+Kady, get your hedge
+bitches on the horn.
+
+191
+00:08:55,960 --> 00:08:57,780
+- We got cooperating to do.
+- I'm on it.
+
+192
+00:09:01,583 --> 00:09:03,375
+Okay. I found a spell that can hold
+
+193
+00:09:03,376 --> 00:09:05,169
+the pieces in suspension, we just...
+
+194
+00:09:05,170 --> 00:09:07,922
+right, good to assume we can
+all do sphincter magic?
+
+195
+00:09:15,920 --> 00:09:18,015
+Could we make this very big?
+
+196
+00:09:19,935 --> 00:09:21,769
+Mother-shit!
+
+197
+00:09:21,770 --> 00:09:23,271
+You... you okay?
+
+198
+00:09:23,290 --> 00:09:25,999
+No, Julia. I'm not okay.
+
+199
+00:09:26,000 --> 00:09:27,024
+Bless you.
+
+200
+00:09:28,130 --> 00:09:29,152
+Whoa.
+
+201
+00:09:30,112 --> 00:09:31,359
+Allow me to explain.
+
+202
+00:09:31,360 --> 00:09:33,899
+So here we are, eight loops in.
+
+203
+00:09:33,900 --> 00:09:35,160
+Ten.
+
+204
+00:09:35,170 --> 00:09:37,399
+If these loops sent us back
+even a little earlier,
+
+205
+00:09:37,400 --> 00:09:39,119
+we could stop Marina from bad-touching
+
+206
+00:09:39,120 --> 00:09:41,123
+this whole situation, but we can't.
+
+207
+00:09:41,140 --> 00:09:42,581
+Okay, so we need time magic.
+
+208
+00:09:42,582 --> 00:09:44,559
+I know a horomancer who builds machines.
+
+209
+00:09:44,560 --> 00:09:46,939
+- Maybe he has something.
+- Fantastic, vámanos.
+
+210
+00:09:46,940 --> 00:09:50,630
+One problem... I kind of let his
+mom die last time I saw him.
+
+211
+00:09:50,632 --> 00:09:51,970
+Oh.
+
+212
+00:09:53,120 --> 00:09:54,679
+Oh, come on.
+
+213
+00:09:54,680 --> 00:09:56,419
+Like you guys are all saints?
+
+214
+00:09:56,420 --> 00:09:59,339
+You're in a time loop?
+
+215
+00:09:59,340 --> 00:10:01,379
+- Well, why you two?
+- 'Cause we're the best-looking.
+
+216
+00:10:01,380 --> 00:10:04,299
+Here. This is Penny's address.
+
+217
+00:10:04,300 --> 00:10:05,599
+Margo, what are you doing?
+
+218
+00:10:05,600 --> 00:10:06,939
+Favorite coffee shop,
+
+219
+00:10:06,940 --> 00:10:09,105
+hipster club where we suspect
+he DJ's on the weekend,
+
+220
+00:10:09,106 --> 00:10:11,499
+and it's your lucky day...
+his Travelling's borked,
+
+221
+00:10:11,500 --> 00:10:13,195
+so he's a sitting duck in a scarf.
+
+222
+00:10:13,196 --> 00:10:15,439
+Margo, we can't just kill Penny.
+
+223
+00:10:15,440 --> 00:10:18,279
+We don't; he dies anyway,
+along with everyone.
+
+224
+00:10:18,280 --> 00:10:20,309
+This is basic trolley problem shit.
+
+225
+00:10:20,310 --> 00:10:21,369
+Ovary up.
+
+226
+00:10:21,370 --> 00:10:24,099
+- Okay.
+- If I wanted revenge on Penny,
+
+227
+00:10:24,100 --> 00:10:25,876
+I would've gotten that a long time ago.
+
+228
+00:10:29,890 --> 00:10:32,339
+You've got particles all over you.
+
+229
+00:10:32,340 --> 00:10:34,339
+Were you spritzed with something?
+
+230
+00:10:34,340 --> 00:10:35,551
+Spritzed, like with what?
+
+231
+00:10:35,552 --> 00:10:37,129
+Something that nebulized
+
+232
+00:10:37,130 --> 00:10:38,888
+a cloud of temporal
+permanence around you?
+
+233
+00:10:38,889 --> 00:10:40,459
+Mm.
+
+234
+00:10:40,460 --> 00:10:42,058
+"Permanence."
+
+235
+00:10:43,518 --> 00:10:44,999
+For men and women.
+
+236
+00:10:45,000 --> 00:10:47,062
+Yeah, I may have accidentally stolen
+
+237
+00:10:47,063 --> 00:10:50,439
+a weird perfume bottle from
+a time witch in Fillory.
+
+238
+00:10:50,440 --> 00:10:52,309
+Okay, whatever you really did,
+
+239
+00:10:52,310 --> 00:10:53,790
+it's created a field around you both
+
+240
+00:10:53,800 --> 00:10:55,799
+that would explain why you're...
+
+241
+00:10:55,800 --> 00:10:56,822
+in a time loop.
+
+242
+00:10:56,823 --> 00:10:59,117
+Ah. And here we thought we were special.
+
+243
+00:11:00,520 --> 00:11:03,319
+- What are you doing?
+- Helping.
+
+244
+00:11:03,320 --> 00:11:04,706
+You said it's the end
+of the world, right?
+
+245
+00:11:04,707 --> 00:11:07,679
+- That is right.
+- I think I can hop you guys back
+
+246
+00:11:07,680 --> 00:11:09,877
+a full 48 hours so you can prevent this.
+
+247
+00:11:09,878 --> 00:11:11,670
+Oh, really? Just like that?
+
+248
+00:11:11,671 --> 00:11:14,379
+Well, it's really goddamn complicated,
+
+249
+00:11:14,380 --> 00:11:16,210
+but I'm a genius.
+
+250
+00:11:17,200 --> 00:11:18,677
+- Oh.
+- Oh.
+
+251
+00:11:18,678 --> 00:11:21,009
+Here we go.
+
+252
+00:11:24,010 --> 00:11:25,644
+Are we time traveling right now?
+
+253
+00:11:28,050 --> 00:11:29,104
+The hell?
+
+254
+00:11:29,105 --> 00:11:31,219
+What's wrong?
+
+255
+00:11:31,220 --> 00:11:33,939
+Nothing's working... at all.
+
+256
+00:11:33,940 --> 00:11:36,239
+- Are you saying your shit's broken?
+- I hope so.
+
+257
+00:11:36,240 --> 00:11:37,589
+The alternative is...
+
+258
+00:11:37,590 --> 00:11:39,740
+all time magic's in
+some kind of lockdown.
+
+259
+00:11:39,741 --> 00:11:40,908
+What could even do that?
+
+260
+00:11:40,909 --> 00:11:43,169
+Something powerful...
+
+261
+00:11:43,170 --> 00:11:44,203
+and ancient.
+
+262
+00:11:44,204 --> 00:11:46,330
+You mean like the moon?
+
+263
+00:11:46,331 --> 00:11:49,750
+Maybe if I just fix this and
+bypass the oscillation...
+
+264
+00:11:49,751 --> 00:11:51,293
+Hey, no rush, but in 30 seconds,
+
+265
+00:11:51,294 --> 00:11:53,199
+we're all gonna die.
+
+266
+00:11:53,200 --> 00:11:54,381
+This'll get you there.
+
+267
+00:11:54,382 --> 00:11:56,099
+Not in one piece, but...
+
+268
+00:11:56,100 --> 00:11:57,299
+Wait, what?
+
+269
+00:11:59,240 --> 00:12:00,261
+Shit.
+
+270
+00:12:00,262 --> 00:12:02,012
+- I'm sorry.
+- Oh, well.
+
+271
+00:12:07,852 --> 00:12:09,599
+I cannot believe we didn't consider
+
+272
+00:12:09,600 --> 00:12:10,799
+going to Jane Chatwin first.
+
+273
+00:12:10,800 --> 00:12:12,999
+Well, she is a person that
+may be upset with us.
+
+274
+00:12:13,000 --> 00:12:14,526
+Yes.
+
+275
+00:12:16,840 --> 00:12:18,190
+- No.
+- Huh.
+
+276
+00:12:18,196 --> 00:12:19,781
+Time magic's locked down,
+
+277
+00:12:19,782 --> 00:12:22,574
+and the portal to Fillory's blocked.
+
+278
+00:12:22,575 --> 00:12:25,509
+This smacks of a
+not-so-random coincidence.
+
+279
+00:12:27,880 --> 00:12:28,989
+Okay.
+
+280
+00:12:28,990 --> 00:12:31,709
+We can still get there.
+Penny can't do shit.
+
+281
+00:12:31,710 --> 00:12:33,489
+What about that other
+Traveller dickbucket,
+
+282
+00:12:33,490 --> 00:12:35,219
+- Gavin what's-his-name?
+- Everything I'm seeing
+
+283
+00:12:35,220 --> 00:12:36,546
+says the first chunk's gonna
+hit around 10:00 p.m....
+
+284
+00:12:36,548 --> 00:12:39,300
+We know! 12 hours.
+
+285
+00:12:39,301 --> 00:12:41,885
+We're seeing this wrong.
+We're missing something.
+
+286
+00:12:41,886 --> 00:12:44,469
+Uh, maybe we need to take a step back.
+
+287
+00:12:44,470 --> 00:12:46,499
+Start thinking outside the box.
+
+288
+00:12:46,500 --> 00:12:49,199
+- What do you suggest?
+- Remember Professor Soto?
+
+289
+00:12:49,200 --> 00:12:51,659
+- Oh, the one with the pants?
+- Yeah.
+
+290
+00:12:51,660 --> 00:12:53,119
+He had that ridiculous test
+
+291
+00:12:53,120 --> 00:12:54,230
+everyone thought was impossible.
+
+292
+00:12:54,232 --> 00:12:55,607
+That we solved because we rule.
+
+293
+00:12:55,608 --> 00:12:57,565
+- Solved how?
+- You want me to remember
+
+294
+00:12:57,566 --> 00:12:59,379
+a solution I came up with at a rager
+
+295
+00:12:59,380 --> 00:13:01,489
+doing upside-down shots in a fur bikini?
+
+296
+00:13:01,490 --> 00:13:03,279
+You say rager,
+
+297
+00:13:03,280 --> 00:13:05,749
+I say problem-solving session.
+
+298
+00:13:05,750 --> 00:13:06,869
+That's how we do:
+
+299
+00:13:06,870 --> 00:13:09,019
+we put our minds on something different
+
+300
+00:13:09,020 --> 00:13:11,499
+and we catch the solution out
+of the corner of our eye.
+
+301
+00:13:11,500 --> 00:13:12,519
+So is this actually a plan
+
+302
+00:13:12,520 --> 00:13:13,918
+or do you just wanna blow off steam?
+
+303
+00:13:13,919 --> 00:13:15,359
+Two birds, Bambi.
+
+304
+00:13:15,360 --> 00:13:18,715
+Besides, we're stuck in a game
+that keeps hitting reset.
+
+305
+00:13:18,716 --> 00:13:22,059
+Infinite time, zero consequences.
+
+306
+00:13:22,060 --> 00:13:23,929
+Just you and me saving the world
+
+307
+00:13:23,930 --> 00:13:25,269
+through unbridled hedonism.
+
+308
+00:13:25,270 --> 00:13:28,682
+Mm, fun. Let's do it.
+
+309
+00:13:31,740 --> 00:13:33,279
+Eliot.
+
+310
+00:13:34,750 --> 00:13:36,939
+- Hey.
+- Uh, hey.
+
+311
+00:13:36,940 --> 00:13:38,777
+Did someone just knock on the door?
+
+312
+00:13:38,778 --> 00:13:40,236
+No. We going?
+
+313
+00:13:42,460 --> 00:13:43,640
+Yeah.
+
+314
+00:13:45,992 --> 00:13:48,789
+Okay, miscreants.
+
+315
+00:13:48,790 --> 00:13:51,379
+It's Armageddon. So die as you lived...
+
+316
+00:13:51,380 --> 00:13:52,819
+- Boring.
+- Or join us
+
+317
+00:13:52,820 --> 00:13:54,119
+in an end-of-the-world soiree
+
+318
+00:13:54,120 --> 00:13:56,418
+and die legends. Your choice.
+
+319
+00:13:56,419 --> 00:13:58,670
+You heard the man.
+
+320
+00:14:00,610 --> 00:14:02,039
+Come on!
+
+321
+00:14:03,980 --> 00:14:05,427
+It's a tie!
+
+322
+00:14:05,428 --> 00:14:07,054
+Anything?
+
+323
+00:14:07,055 --> 00:14:08,681
+Not yet!
+
+324
+00:14:11,226 --> 00:14:12,684
+Oh!
+
+325
+00:14:18,900 --> 00:14:22,310
+♪ Gimme your control ♪
+
+326
+00:14:24,500 --> 00:14:26,156
+♪ Gimme your control ♪
+
+327
+00:14:27,600 --> 00:14:28,799
+Mmm.
+
+328
+00:14:28,800 --> 00:14:29,819
+Eliot!
+
+329
+00:14:33,080 --> 00:14:35,079
+El, El.
+
+330
+00:14:35,080 --> 00:14:36,319
+You look like you saw a ghost.
+
+331
+00:14:36,320 --> 00:14:38,335
+Hey, ask it how we stop the moon.
+
+332
+00:14:38,336 --> 00:14:39,962
+- Actually, I think I might...
+- Wait!
+
+333
+00:14:39,963 --> 00:14:42,506
+Oh, my God, I think I got something.
+
+334
+00:14:42,507 --> 00:14:44,349
+An idea.
+
+335
+00:14:44,350 --> 00:14:45,384
+Hit me.
+
+336
+00:14:47,050 --> 00:14:49,054
+Cock and balls, I forgot.
+
+337
+00:15:02,940 --> 00:15:04,904
+This isn't working.
+
+338
+00:15:05,700 --> 00:15:07,031
+No offense, Rajit.
+
+339
+00:15:07,820 --> 00:15:09,491
+It's Todd.
+
+340
+00:15:09,492 --> 00:15:10,779
+No.
+
+341
+00:15:10,780 --> 00:15:12,119
+Come back when you're Rajit.
+
+342
+00:15:12,120 --> 00:15:13,788
+Okay.
+
+343
+00:15:14,680 --> 00:15:15,956
+You know, I've been thinking...
+
+344
+00:15:15,957 --> 00:15:17,958
+clearly we need something
+a little bit stronger.
+
+345
+00:15:17,959 --> 00:15:19,460
+No, we need an idea.
+
+346
+00:15:19,461 --> 00:15:20,711
+You know what?
+
+347
+00:15:20,712 --> 00:15:23,259
+I'm gonna go hydrate
+and, I don't know...
+
+348
+00:15:23,260 --> 00:15:26,005
+stare at moon chunks
+hurtling straight for Earth.
+
+349
+00:15:26,006 --> 00:15:27,679
+Can't be worse than discovering
+
+350
+00:15:27,680 --> 00:15:30,304
+I just jacked Todd off for
+three time loops in a row.
+
+351
+00:15:34,070 --> 00:15:36,727
+Eliot.
+
+352
+00:15:36,728 --> 00:15:37,739
+_
+
+353
+00:15:37,740 --> 00:15:39,480
+No...
+
+354
+00:15:39,481 --> 00:15:42,809
+It's never happening.
+
+355
+00:15:42,810 --> 00:15:45,599
+Leave me alone.
+
+356
+00:15:46,730 --> 00:15:50,782
+♪ I never, never, never, get so close ♪
+
+357
+00:15:50,783 --> 00:15:53,169
+♪ It's under control ♪
+
+358
+00:15:53,170 --> 00:15:56,399
+♪ I'm reachin' the end of a hallway ♪
+
+359
+00:15:56,400 --> 00:15:58,399
+♪ I never, never, never ♪
+
+360
+00:15:58,400 --> 00:16:01,259
+♪ Been so out my body ♪
+
+361
+00:16:12,200 --> 00:16:15,889
+I can walk away from
+you all fucking day!
+
+362
+00:16:17,980 --> 00:16:20,312
+Pardon me, Brenda. I'm gonna get this.
+
+363
+00:16:31,120 --> 00:16:32,679
+I got a lead.
+
+364
+00:16:32,680 --> 00:16:34,699
+I've been talking to this
+weird oceanographer guy
+
+365
+00:16:34,700 --> 00:16:36,499
+who no joke has a dolphin harem,
+
+366
+00:16:36,500 --> 00:16:39,679
+but he also knows some
+real shit about...
+
+367
+00:16:39,680 --> 00:16:41,416
+Hey, what's up with you?
+
+368
+00:16:41,417 --> 00:16:42,668
+What's up
+
+369
+00:16:42,669 --> 00:16:44,769
+is...
+
+370
+00:16:44,770 --> 00:16:48,669
+my brain is a snake eating its tail,
+
+371
+00:16:48,670 --> 00:16:51,479
+and the tail is another
+snake eating its tail.
+
+372
+00:16:51,480 --> 00:16:53,470
+Jesus. Okay, you stay here.
+
+373
+00:16:53,471 --> 00:16:56,015
+I'll report back with some research.
+
+374
+00:17:02,180 --> 00:17:05,525
+_
+
+375
+00:17:08,060 --> 00:17:10,539
+I figured it out, El.
+
+376
+00:17:10,540 --> 00:17:13,569
+From talking to that dolphin fucker.
+
+377
+00:17:13,570 --> 00:17:15,492
+Everything he said checked out.
+
+378
+00:17:15,493 --> 00:17:19,439
+We need to go to Fisher Beach.
+It's kind of out of the way.
+
+379
+00:17:19,440 --> 00:17:22,090
+Lifeguard station 17.
+
+380
+00:17:23,510 --> 00:17:25,209
+Everything I'm seeing
+says the first chunk's
+
+381
+00:17:25,210 --> 00:17:26,461
+- gonna hit around 10:00 p.m...
+- Eliot.
+
+382
+00:17:26,462 --> 00:17:29,009
+- We have 12 hours.
+- Hey.
+
+383
+00:17:29,010 --> 00:17:31,439
+I got the answer.
+You can take a breather.
+
+384
+00:17:31,440 --> 00:17:33,339
+Not right now, Margo.
+
+385
+00:17:33,340 --> 00:17:35,460
+Okay, "Leaving Las Vegas."
+
+386
+00:17:35,470 --> 00:17:36,919
+I was happy to give you space
+
+387
+00:17:36,920 --> 00:17:39,299
+to tell your Monster
+secrets in your own time,
+
+388
+00:17:39,300 --> 00:17:41,969
+but we're stuck in the
+Jean-Paul Sartre bullshit
+
+389
+00:17:41,970 --> 00:17:43,419
+and you're getting worse fast.
+
+390
+00:17:43,420 --> 00:17:45,480
+I told you, this isn't
+important right now, okay?
+
+391
+00:17:45,481 --> 00:17:48,567
+Whatever it is, you remember
+it's not your fault, okay?
+
+392
+00:17:48,568 --> 00:17:50,669
+This math is so damn frustrating.
+
+393
+00:17:50,670 --> 00:17:52,869
+Can we just stop the moon first, please?
+
+394
+00:17:52,870 --> 00:17:54,919
+Not if your liver falls
+out of your twat first.
+
+395
+00:17:54,920 --> 00:17:56,159
+Let's talk about it.
+
+396
+00:17:56,160 --> 00:17:58,239
+- No.
+- Seems like we have to.
+
+397
+00:17:58,240 --> 00:18:00,649
+It's me.
+
+398
+00:18:00,650 --> 00:18:03,249
+- Don't be a coward.
+- Stop.
+
+399
+00:18:04,910 --> 00:18:08,779
+It's still in me, okay?
+
+400
+00:18:13,660 --> 00:18:16,329
+I am seeing what I am seeing.
+
+401
+00:18:16,330 --> 00:18:18,180
+Some pieces of him must've held on.
+
+402
+00:18:18,181 --> 00:18:20,029
+The Monster is gone.
+
+403
+00:18:20,030 --> 00:18:22,939
+I exorcised it and Q
+threw it into the Seam.
+
+404
+00:18:22,940 --> 00:18:25,079
+The only thing here is you medicating
+
+405
+00:18:25,080 --> 00:18:28,079
+instead of facing your
+memories and your feelings
+
+406
+00:18:28,080 --> 00:18:30,692
+and I empathize, I do.
+
+407
+00:18:30,693 --> 00:18:33,749
+But I think you're forgetting
+you can tell me anything.
+
+408
+00:18:33,750 --> 00:18:36,658
+I just told you, and
+you didn't believe me.
+
+409
+00:18:37,820 --> 00:18:39,589
+I love you.
+
+410
+00:18:39,590 --> 00:18:40,743
+Even when you're nuts.
+
+411
+00:18:40,744 --> 00:18:43,519
+But our window's 12
+hours to stop the moon
+
+412
+00:18:43,520 --> 00:18:45,089
+or it's game over again,
+
+413
+00:18:45,090 --> 00:18:47,979
+and I need it to be fixed
+before I go as nuts as you,
+
+414
+00:18:47,980 --> 00:18:49,461
+so just sit this round out...
+
+415
+00:18:49,462 --> 00:18:50,921
+- No.
+- And I'll go alone.
+
+416
+00:18:50,922 --> 00:18:52,299
+No, no, no. Please, please.
+
+417
+00:18:52,300 --> 00:18:53,699
+I can...
+
+418
+00:18:53,700 --> 00:18:56,174
+- You can't.
+- Keep it together, I can keep it together.
+
+419
+00:18:56,175 --> 00:18:58,139
+- See you yesterday.
+- I can keep it together.
+
+420
+00:18:58,140 --> 00:18:59,597
+Please. No, Margo.
+
+421
+00:19:30,870 --> 00:19:33,709
+I'm feeling the wrong
+kind of boned right now.
+
+422
+00:19:33,710 --> 00:19:35,369
+Okay.
+
+423
+00:19:35,370 --> 00:19:37,239
+I'm sorry.
+
+424
+00:19:37,240 --> 00:19:39,139
+What you said yesterday...
+
+425
+00:19:39,140 --> 00:19:40,909
+Yesterday at Westbrook's house?
+
+426
+00:19:47,220 --> 00:19:49,230
+Yesterday before you
+went to Fisher Beach.
+
+427
+00:19:50,320 --> 00:19:53,350
+I didn't go to Fisher Beach.
+
+428
+00:19:53,359 --> 00:19:55,989
+- You don't...
+- At around 10 p.m.
+
+429
+00:19:55,990 --> 00:19:58,530
+- We have 12 hours.
+- You don't remember.
+
+430
+00:19:58,531 --> 00:20:00,239
+Remember that tit-chafe Marina
+
+431
+00:20:00,240 --> 00:20:01,439
+showed up and broke the moon?
+
+432
+00:20:01,440 --> 00:20:03,411
+How could I forget?
+
+433
+00:20:05,496 --> 00:20:08,809
+Did Josh just sneeze on the pizza?
+
+434
+00:20:15,590 --> 00:20:18,629
+So let's release that ache,
+
+435
+00:20:18,630 --> 00:20:21,049
+that desire for control.
+
+436
+00:20:21,050 --> 00:20:23,359
+Understand the moment we're in.
+
+437
+00:20:23,360 --> 00:20:27,219
+Accept our state of being.
+Take a breath.
+
+438
+00:20:27,220 --> 00:20:30,199
+Send a prayer up to the god
+of your understanding.
+
+439
+00:20:30,200 --> 00:20:32,699
+Send a prayer and accept.
+
+440
+00:20:32,700 --> 00:20:33,819
+Amen.
+
+441
+00:20:33,820 --> 00:20:36,049
+- Amen.
+- Thank you.
+
+442
+00:20:36,050 --> 00:20:40,119
+You've momentarily lessened
+my existential dread.
+
+443
+00:20:44,327 --> 00:20:47,162
+This may be the end.
+
+444
+00:20:47,163 --> 00:20:49,959
+No, I'm not reading this.
+
+445
+00:20:49,960 --> 00:20:52,299
+Okay, asshole.
+
+446
+00:20:52,300 --> 00:20:53,969
+Bring it.
+
+447
+00:20:53,970 --> 00:20:56,250
+I just wanna say...
+
+448
+00:20:57,590 --> 00:21:01,969
+This world is flawed.
+
+449
+00:21:01,970 --> 00:21:05,409
+We each have good in us... and bad.
+
+450
+00:21:05,410 --> 00:21:08,439
+Every day we fight to let the good win.
+
+451
+00:21:08,440 --> 00:21:11,079
+This... this is the last day.
+
+452
+00:21:11,080 --> 00:21:12,979
+Think about those who you love.
+
+453
+00:21:12,980 --> 00:21:15,449
+Turn off the TV and be with them.
+
+454
+00:21:15,450 --> 00:21:17,276
+Thank you and good...
+
+455
+00:21:19,660 --> 00:21:21,154
+I'm sorry.
+
+456
+00:21:21,155 --> 00:21:23,129
+Were you listening to that?
+
+457
+00:21:23,130 --> 00:21:25,599
+It was so depressing.
+
+458
+00:21:25,600 --> 00:21:27,319
+Not really.
+
+459
+00:21:27,320 --> 00:21:28,739
+Hey, you okay?
+
+460
+00:21:28,740 --> 00:21:30,205
+Not really.
+
+461
+00:21:30,206 --> 00:21:32,299
+Me neither.
+
+462
+00:21:32,300 --> 00:21:33,709
+Cookie?
+
+463
+00:21:34,970 --> 00:21:36,309
+Yeah.
+
+464
+00:21:38,756 --> 00:21:40,609
+I have to admit...
+
+465
+00:21:40,610 --> 00:21:42,592
+I don't think their spell will work.
+
+466
+00:21:42,593 --> 00:21:45,512
+It won't.
+
+467
+00:21:45,513 --> 00:21:48,056
+Can't believe I'm about to die.
+
+468
+00:21:48,057 --> 00:21:51,359
+You are, but...
+
+469
+00:21:51,360 --> 00:21:54,647
+then you'll just start all over again.
+
+470
+00:21:56,440 --> 00:21:58,439
+We're in a time loop.
+
+471
+00:21:58,440 --> 00:22:00,629
+Shut up.
+
+472
+00:22:00,630 --> 00:22:01,863
+Seriously?
+
+473
+00:22:03,197 --> 00:22:04,499
+That's a relief.
+
+474
+00:22:04,500 --> 00:22:06,779
+Like, uh, "Groundhog Day"?
+
+475
+00:22:06,780 --> 00:22:09,039
+Or "Russian Doll"?
+
+476
+00:22:09,040 --> 00:22:11,839
+Or "Happy Death Day" or
+"Happy Death Day 2U"?
+
+477
+00:22:11,840 --> 00:22:14,203
+Or "Source Code"? Oh, that "X-Files".
+
+478
+00:22:14,204 --> 00:22:15,419
+The "Star Trek".
+
+479
+00:22:15,420 --> 00:22:17,399
+"Edge of Tomorrow" but really
+"All You Need Is Kill"
+
+480
+00:22:17,400 --> 00:22:20,339
+and it's, like, why change
+the title like that, right?
+
+481
+00:22:20,340 --> 00:22:21,859
+Wow.
+
+482
+00:22:21,860 --> 00:22:24,509
+You really love time
+loop stories, don't you?
+
+483
+00:22:24,510 --> 00:22:26,059
+And you're awake in the loop.
+
+484
+00:22:26,060 --> 00:22:28,513
+You're the hero. I am totally jealous.
+
+485
+00:22:32,530 --> 00:22:34,145
+Hey, you wanna get out of here?
+
+486
+00:22:35,200 --> 00:22:37,105
+I've got this place on my bucket list
+
+487
+00:22:37,106 --> 00:22:39,729
+and well, uh... it's gotta be now.
+
+488
+00:22:39,730 --> 00:22:43,160
+And to Sharon Cappanelli
+from ninth grade: I lied.
+
+489
+00:22:43,170 --> 00:22:44,759
+- Man.
+- It was my tampon,
+
+490
+00:22:44,760 --> 00:22:46,940
+- and that was your girlfriend.
+- Time loops.
+
+491
+00:22:46,949 --> 00:22:48,783
+Gnarly.
+
+492
+00:22:48,784 --> 00:22:51,078
+Extremely gnarly.
+
+493
+00:22:51,080 --> 00:22:52,412
+So you're talking to me about it.
+
+494
+00:22:52,413 --> 00:22:55,199
+Yeah.
+
+495
+00:22:55,200 --> 00:22:58,899
+As opposed to Alice, Julia, or Kady.
+
+496
+00:22:58,900 --> 00:23:00,759
+Or, to state the obvious,
+
+497
+00:23:00,760 --> 00:23:02,339
+Margo.
+
+498
+00:23:02,340 --> 00:23:05,425
+I kind of blew it beyond
+repair with Margo.
+
+499
+00:23:05,426 --> 00:23:07,139
+How is anything beyond repair
+
+500
+00:23:07,140 --> 00:23:09,263
+when you're stuck in a time loop?
+
+501
+00:23:09,264 --> 00:23:11,399
+Well,
+
+502
+00:23:11,400 --> 00:23:14,109
+she was awake with me
+for a while and then
+
+503
+00:23:14,110 --> 00:23:18,396
+she got kicked out somehow,
+and now I am utterly alone.
+
+504
+00:23:18,397 --> 00:23:21,039
+Well, if I'm learning anything
+
+505
+00:23:21,040 --> 00:23:23,379
+from these squishy pierogi tacos
+
+506
+00:23:23,380 --> 00:23:25,439
+is that not everything belongs together.
+
+507
+00:23:28,824 --> 00:23:31,118
+- How can we help?
+- Help save the world?
+
+508
+00:23:32,720 --> 00:23:35,589
+Honestly, I don't know.
+
+509
+00:23:35,590 --> 00:23:37,249
+It might not be possible.
+
+510
+00:23:38,630 --> 00:23:41,129
+This might be it.
+
+511
+00:23:41,130 --> 00:23:45,769
+Me, alone, in this particular 12 hours.
+
+512
+00:23:45,770 --> 00:23:48,769
+- Eternally.
+- Okay.
+
+513
+00:23:48,770 --> 00:23:51,579
+Sounds like a lot for you.
+
+514
+00:23:51,580 --> 00:23:56,184
+So, uh, anything I can do to help you?
+
+515
+00:23:56,185 --> 00:23:58,079
+I wish.
+
+516
+00:23:58,080 --> 00:24:00,759
+Because the longer this goes
+on, the more certain I am
+
+517
+00:24:00,760 --> 00:24:03,480
+that the Monster is inside
+of me and trying to get out.
+
+518
+00:24:03,484 --> 00:24:05,194
+Good metaphor.
+
+519
+00:24:05,920 --> 00:24:07,445
+I'm being literal.
+
+520
+00:24:07,446 --> 00:24:09,459
+Oh.
+
+521
+00:24:09,460 --> 00:24:10,532
+Shit.
+
+522
+00:24:12,160 --> 00:24:14,599
+It's worse every loop.
+
+523
+00:24:14,600 --> 00:24:16,169
+I hear its voice,
+
+524
+00:24:16,170 --> 00:24:18,579
+I see blood on the walls,
+
+525
+00:24:18,580 --> 00:24:21,399
+I... I see this door.
+
+526
+00:24:21,400 --> 00:24:22,586
+It wants out.
+
+527
+00:24:24,080 --> 00:24:25,503
+Have you tried letting it out?
+
+528
+00:24:25,504 --> 00:24:27,549
+Why in God's name would I do that?
+
+529
+00:24:27,550 --> 00:24:29,199
+I... I... I'm just spitballing.
+
+530
+00:24:29,200 --> 00:24:31,880
+A lot of the time in these movies
+
+531
+00:24:31,887 --> 00:24:33,879
+the solution of the problem
+
+532
+00:24:33,880 --> 00:24:37,409
+is facing the thing
+you're most afraid of.
+
+533
+00:24:37,410 --> 00:24:40,239
+What if I die?
+
+534
+00:24:40,240 --> 00:24:42,231
+What if you do?
+
+535
+00:24:49,580 --> 00:24:50,900
+Why?!
+
+536
+00:24:52,140 --> 00:24:54,452
+Anyway.
+
+537
+00:24:54,460 --> 00:24:56,745
+You're not upset you're about to die?
+
+538
+00:24:59,690 --> 00:25:02,859
+I don't love it.
+
+539
+00:25:02,860 --> 00:25:05,212
+But you'll figure out a way to fix this.
+
+540
+00:25:11,969 --> 00:25:13,599
+The world's greatest minds
+
+541
+00:25:13,600 --> 00:25:15,799
+are locked in a desperate
+race to save humanity.
+
+542
+00:25:15,800 --> 00:25:17,819
+Everything I'm seeing says
+the first chunk's gotta hit
+
+543
+00:25:17,820 --> 00:25:18,933
+around 10 p.m.
+
+544
+00:25:18,934 --> 00:25:21,437
+We have 12 hours.
+
+545
+00:25:23,200 --> 00:25:25,315
+What if we create a massive
+portal in the atmosphere?
+
+546
+00:25:25,316 --> 00:25:26,649
+We'd need a specialist.
+
+547
+00:26:27,400 --> 00:26:28,586
+Charlton?
+
+548
+00:26:28,587 --> 00:26:30,620
+Well, fuck!
+
+549
+00:26:37,000 --> 00:26:39,059
+How the hell are you here?
+
+550
+00:26:39,060 --> 00:26:41,979
+I was trapped wandering
+your Remembrances
+
+551
+00:26:41,980 --> 00:26:44,890
+when mercifully you decided
+not to sleep for five days
+
+552
+00:26:44,900 --> 00:26:46,499
+and broke your brain.
+
+553
+00:26:46,500 --> 00:26:48,929
+That gave me an opening to contact you.
+
+554
+00:26:48,930 --> 00:26:50,829
+That voice?
+
+555
+00:26:50,830 --> 00:26:52,199
+That was you?
+
+556
+00:26:52,200 --> 00:26:53,939
+Yes, of course.
+
+557
+00:26:53,940 --> 00:26:56,019
+When all the scary
+creatures were pulled out,
+
+558
+00:26:56,020 --> 00:26:58,070
+I held on tight as I could
+in your Happy Place,
+
+559
+00:26:58,075 --> 00:27:00,860
+and, well... here we are.
+
+560
+00:27:01,950 --> 00:27:04,419
+This place was so vivid in your mind,
+
+561
+00:27:04,420 --> 00:27:07,249
+but there is nothing like
+the real thing, is there?
+
+562
+00:27:07,250 --> 00:27:11,119
+The sights, the sounds, the...
+
+563
+00:27:11,120 --> 00:27:12,380
+smells!
+
+564
+00:27:12,381 --> 00:27:16,092
+Oh, I forgot about smells, Eliot.
+
+565
+00:27:16,093 --> 00:27:17,929
+They're overwhelmingly unpleasant.
+
+566
+00:27:17,930 --> 00:27:20,499
+Those messages? That was you, too?
+
+567
+00:27:20,500 --> 00:27:22,724
+"I'm still here"?
+
+568
+00:27:22,725 --> 00:27:24,349
+"Let me out"?
+
+569
+00:27:24,350 --> 00:27:25,399
+Yes.
+
+570
+00:27:25,400 --> 00:27:27,079
+I wanted you to know
+that I was still here
+
+571
+00:27:27,080 --> 00:27:28,469
+and I wanted to be let out.
+
+572
+00:27:28,470 --> 00:27:31,169
+In red paint?
+
+573
+00:27:31,170 --> 00:27:33,443
+Right, like strawberries
+and Santa Claus.
+
+574
+00:27:33,444 --> 00:27:35,111
+And blood, Charlton.
+
+575
+00:27:35,112 --> 00:27:36,738
+Well, perhaps it was a touch ominous.
+
+576
+00:27:36,739 --> 00:27:38,323
+As was the creepy whisper.
+
+577
+00:27:38,324 --> 00:27:40,367
+- I was trying to be polite.
+- Well...
+
+578
+00:27:43,340 --> 00:27:46,319
+It is nice to have a
+non-imaginary imaginary friend
+
+579
+00:27:46,320 --> 00:27:47,581
+for the end of the world, I guess.
+
+580
+00:27:47,583 --> 00:27:48,666
+Half-imaginary.
+
+581
+00:27:48,667 --> 00:27:51,836
+I was passenger in your unconscious.
+
+582
+00:27:51,837 --> 00:27:56,169
+Now, I'm still in your head.
+
+583
+00:27:56,170 --> 00:27:58,239
+But the conscious part?
+
+584
+00:27:58,240 --> 00:28:01,309
+I can't tell you how much
+of an improvement this is.
+
+585
+00:28:01,310 --> 00:28:03,060
+Your Happy Place is nice
+
+586
+00:28:03,070 --> 00:28:06,159
+and I was able to see
+everything you were doing here,
+
+587
+00:28:06,160 --> 00:28:07,979
+but...
+
+588
+00:28:07,980 --> 00:28:10,979
+well, there's no substitute
+for being heard.
+
+589
+00:28:10,980 --> 00:28:13,099
+Especially since I often
+disagree with your choices,
+
+590
+00:28:13,100 --> 00:28:14,480
+and I'd like to share my opinions.
+
+591
+00:28:14,485 --> 00:28:16,499
+Oh, that's peachy.
+
+592
+00:28:16,500 --> 00:28:18,040
+Well, let's start now.
+
+593
+00:28:19,920 --> 00:28:22,867
+Opinion on what to do next?
+
+594
+00:28:22,868 --> 00:28:24,744
+Oh, well, I'd think that's obvious.
+
+595
+00:28:24,745 --> 00:28:26,829
+Is it?
+
+596
+00:28:26,830 --> 00:28:28,079
+In case you didn't notice,
+
+597
+00:28:28,080 --> 00:28:30,759
+Margo was sort of driving
+the bus on this whole thing
+
+598
+00:28:30,760 --> 00:28:32,160
+before I screwed up and lost her.
+
+599
+00:28:32,169 --> 00:28:34,003
+You didn't lose her, Eliot.
+
+600
+00:28:34,004 --> 00:28:36,379
+She's out of the loops, Charlton.
+
+601
+00:28:36,380 --> 00:28:38,759
+No, I simply mean I don't
+think that's about you.
+
+602
+00:28:39,840 --> 00:28:43,550
+I think she got too close to the answer.
+
+603
+00:28:43,555 --> 00:28:45,199
+Perhaps that's why
+
+604
+00:28:45,200 --> 00:28:47,309
+she was thrown from your
+shared loop experience.
+
+605
+00:28:48,790 --> 00:28:51,604
+That does have the ring of logic to it.
+
+606
+00:28:51,605 --> 00:28:53,690
+Margo mentioned a beach, did she not?
+
+607
+00:28:53,691 --> 00:28:56,029
+Fisher Beach.
+
+608
+00:28:57,360 --> 00:29:00,359
+Okay.
+
+609
+00:29:00,360 --> 00:29:01,823
+Let's go.
+
+610
+00:29:01,824 --> 00:29:04,569
+Why is there no one here?
+
+611
+00:29:04,570 --> 00:29:08,746
+I think it's a cancel-your-beach-trip
+kind of day today.
+
+612
+00:29:08,747 --> 00:29:10,619
+Psst... keep your eyes peeled
+
+613
+00:29:10,620 --> 00:29:13,410
+for anyone or anything who
+might not want us here.
+
+614
+00:29:17,580 --> 00:29:20,339
+Is that phone wire?
+
+615
+00:29:25,190 --> 00:29:27,640
+Are phones generally used underwater?
+
+616
+00:29:32,938 --> 00:29:34,939
+I think we got a lead.
+
+617
+00:29:34,940 --> 00:29:36,879
+Lifeguard station 17.
+
+618
+00:29:36,880 --> 00:29:38,039
+That's the same track Margo was on.
+
+619
+00:29:38,040 --> 00:29:39,199
+This didn't go well for her,
+
+620
+00:29:39,200 --> 00:29:41,279
+so perhaps we should discuss
+before going in there, okay?
+
+621
+00:29:41,280 --> 00:29:43,190
+Ovary up, Charlton.
+
+622
+00:29:52,700 --> 00:29:56,319
+Uh...
+
+623
+00:29:56,320 --> 00:29:57,628
+I guess...
+
+624
+00:29:57,629 --> 00:30:00,507
+off and whales?
+
+625
+00:30:01,508 --> 00:30:04,178
+What is the purpose of this distraction?
+
+626
+00:30:04,179 --> 00:30:06,637
+With whom are we speaking?
+
+627
+00:30:06,638 --> 00:30:08,681
+We are the whales.
+
+628
+00:30:08,682 --> 00:30:12,769
+Like... all of them?
+
+629
+00:30:12,770 --> 00:30:14,479
+Of course.
+
+630
+00:30:14,480 --> 00:30:17,023
+Why do you speak through a TV?
+
+631
+00:30:17,024 --> 00:30:18,389
+Why do you?
+
+632
+00:30:18,390 --> 00:30:19,901
+What is the nature of your query?
+
+633
+00:30:19,902 --> 00:30:22,659
+Okay, I don't really know
+how to explain this.
+
+634
+00:30:22,660 --> 00:30:24,359
+Um...
+
+635
+00:30:24,360 --> 00:30:26,097
+okay, so you probably don't know this,
+
+636
+00:30:26,098 --> 00:30:28,242
+but we... we are in a time loop.
+
+637
+00:30:28,243 --> 00:30:30,620
+We are aware of the disturbance.
+
+638
+00:30:30,621 --> 00:30:32,509
+Oh, huh.
+
+639
+00:30:32,510 --> 00:30:35,599
+Whales grok time loops.
+
+640
+00:30:35,600 --> 00:30:37,759
+So do you happen to remember
+
+641
+00:30:37,760 --> 00:30:39,919
+if a woman named Margo came to see you?
+
+642
+00:30:39,920 --> 00:30:43,169
+Uh, brilliant, about yea high,
+maybe a little brusque.
+
+643
+00:30:43,170 --> 00:30:45,040
+A contemptuous creature.
+
+644
+00:30:45,050 --> 00:30:47,762
+We were compelled to wash
+away her temporal immunity.
+
+645
+00:30:47,763 --> 00:30:51,259
+You took her Permanence off.
+
+646
+00:30:51,260 --> 00:30:52,639
+Why?
+
+647
+00:30:52,640 --> 00:30:54,645
+Her manner was appalling.
+
+648
+00:30:55,530 --> 00:30:57,959
+That...
+
+649
+00:30:57,960 --> 00:31:00,369
+does sound like Margo, okay.
+
+650
+00:31:00,370 --> 00:31:03,320
+I apologize for her bedside
+manner, and I just...
+
+651
+00:31:03,330 --> 00:31:07,339
+I humbly and I respectfully
+ask, do you...
+
+652
+00:31:07,340 --> 00:31:10,576
+do you have any insight into
+this loop that we're in?
+
+653
+00:31:10,577 --> 00:31:12,578
+Our magic caused it.
+
+654
+00:31:13,680 --> 00:31:15,748
+You're... magicians?
+
+655
+00:31:15,749 --> 00:31:20,670
+Pay attention! We will explain once.
+
+656
+00:31:20,671 --> 00:31:23,359
+Our ancestors made a
+pact with the Old Gods
+
+657
+00:31:23,360 --> 00:31:24,760
+and so we spend our lives
+
+658
+00:31:24,770 --> 00:31:27,239
+tracing sigils into the ocean floor.
+
+659
+00:31:27,240 --> 00:31:29,680
+This task is crucial.
+
+660
+00:31:31,460 --> 00:31:33,049
+Why?
+
+661
+00:31:33,050 --> 00:31:37,299
+To ensure the Kraken stays dormant.
+
+662
+00:31:37,300 --> 00:31:40,299
+Like the... the Kraken-kraken?
+
+663
+00:31:40,300 --> 00:31:42,020
+What's a Kraken-kraken?
+
+664
+00:31:42,025 --> 00:31:43,759
+Should the Kraken ever awaken
+
+665
+00:31:43,760 --> 00:31:46,730
+it would soon consume the world.
+
+666
+00:31:46,738 --> 00:31:49,519
+Okay, got it.
+
+667
+00:31:49,520 --> 00:31:51,949
+So, the loops. Why?
+
+668
+00:31:51,950 --> 00:31:53,579
+The moon colliding with Earth
+
+669
+00:31:53,580 --> 00:31:55,359
+obliterated our protective sigils
+
+670
+00:31:55,360 --> 00:31:57,699
+causing the Kraken to rise.
+
+671
+00:31:59,430 --> 00:32:00,940
+Kinda seems like a hat on a hat
+
+672
+00:32:00,950 --> 00:32:02,628
+when you've already got
+a moon apocalypse.
+
+673
+00:32:02,629 --> 00:32:04,339
+A bit flippant for a creature
+
+674
+00:32:04,340 --> 00:32:07,170
+who caused said apocalypse.
+
+675
+00:32:07,176 --> 00:32:10,099
+Fortunately, our ancestors
+implemented a failsafe.
+
+676
+00:32:10,100 --> 00:32:12,959
+If the Kraken awakens,
+it sends Earth back 12 hours
+
+677
+00:32:12,960 --> 00:32:16,559
+to allow another chance
+to avert catastrophe.
+
+678
+00:32:16,560 --> 00:32:19,219
+Whereupon it'll all just keep happening
+
+679
+00:32:19,220 --> 00:32:21,230
+because the fucking moon is broken.
+
+680
+00:32:21,231 --> 00:32:23,099
+So it would seem.
+
+681
+00:32:23,100 --> 00:32:25,719
+Well... uh... well,
+if you're... if you're magicians,
+
+682
+00:32:25,720 --> 00:32:28,279
+then maybe you can help fix the moon?
+
+683
+00:32:28,280 --> 00:32:29,519
+We cannot.
+
+684
+00:32:29,520 --> 00:32:31,489
+We must maintain our sigils.
+
+685
+00:32:31,490 --> 00:32:33,129
+Okay.
+
+686
+00:32:33,130 --> 00:32:37,039
+If you don't fix the moon,
+the Kraken's just...
+
+687
+00:32:37,040 --> 00:32:38,369
+just gonna keep krakening.
+
+688
+00:32:38,370 --> 00:32:40,164
+This distraction has gone on too long.
+
+689
+00:32:40,165 --> 00:32:41,209
+Wait... no, no, no.
+
+690
+00:32:41,210 --> 00:32:42,619
+We must attend to the sigils.
+
+691
+00:32:42,620 --> 00:32:44,170
+- Hold on.
+- Do not contact us again.
+
+692
+00:32:44,171 --> 00:32:45,171
+No, no, no, no, no.
+
+693
+00:32:45,172 --> 00:32:46,631
+No!
+
+694
+00:32:46,632 --> 00:32:49,439
+Uh...
+
+695
+00:32:49,440 --> 00:32:50,950
+oh, shit.
+
+696
+00:32:55,960 --> 00:32:59,399
+Feeling the wrong kind
+of boned right now.
+
+697
+00:32:59,400 --> 00:33:01,209
+Oh, okay.
+
+698
+00:33:01,210 --> 00:33:02,648
+Bye, I guess.
+
+699
+00:33:07,090 --> 00:33:08,999
+What am I supposed to do?
+
+700
+00:33:09,000 --> 00:33:11,460
+I can't fix the moon. That won't work.
+
+701
+00:33:11,470 --> 00:33:14,199
+You can't help, you're non-corporeal.
+
+702
+00:33:14,200 --> 00:33:15,410
+True.
+
+703
+00:33:18,570 --> 00:33:21,279
+But...
+
+704
+00:33:21,280 --> 00:33:23,260
+you're not alone.
+
+705
+00:33:26,421 --> 00:33:29,840
+So whales really are powerful magicians.
+
+706
+00:33:29,841 --> 00:33:31,884
+I knew they did weird
+stuff on the ocean floor,
+
+707
+00:33:31,885 --> 00:33:34,175
+- I just didn't realize it was...
+- Wait. Yes, Alice...
+
+708
+00:33:34,176 --> 00:33:35,899
+tell me what else you know about whales.
+
+709
+00:33:35,900 --> 00:33:37,479
+Um...
+
+710
+00:33:37,480 --> 00:33:39,599
+their closest cousin is the hippo.
+
+711
+00:33:39,600 --> 00:33:42,009
+Um, their mating season is in the fall.
+
+712
+00:33:42,010 --> 00:33:43,719
+That is so sad for them.
+
+713
+00:33:43,720 --> 00:33:45,469
+What if they never get
+to make love again?
+
+714
+00:33:45,470 --> 00:33:46,479
+Though I am one to talk.
+
+715
+00:33:46,480 --> 00:33:47,899
+I mean, it's been over a thousand years.
+
+716
+00:33:47,900 --> 00:33:49,499
+That's not exactly what I needed.
+
+717
+00:33:49,500 --> 00:33:51,379
+Well, you asked me what I knew.
+
+718
+00:33:51,380 --> 00:33:53,299
+Is there any info about the Kraken
+
+719
+00:33:53,300 --> 00:33:54,699
+that might point us in a direction?
+
+720
+00:33:54,700 --> 00:33:56,499
+Whoa-ho-ho! Okay.
+
+721
+00:33:56,500 --> 00:34:00,899
+Well, you have your
+Lovecraftian god-Krakens.
+
+722
+00:34:00,900 --> 00:34:03,649
+Uh, and then there's the D&D Kraken
+
+723
+00:34:03,650 --> 00:34:04,869
+which is sort of six-of-one.
+
+724
+00:34:04,870 --> 00:34:08,419
+And then, of course,
+there's "Clash of the Titans",
+
+725
+00:34:08,420 --> 00:34:10,631
+- both the original and the remake.
+- Thank you.
+
+726
+00:34:10,632 --> 00:34:12,508
+With the very famous line...
+
+727
+00:34:12,509 --> 00:34:13,760
+Thank you, Josh.
+
+728
+00:34:15,100 --> 00:34:16,819
+Every time the Kraken awakens,
+
+729
+00:34:16,820 --> 00:34:18,260
+time jumps back 12 hours.
+
+730
+00:34:18,270 --> 00:34:19,739
+Which would be great if it took us back
+
+731
+00:34:19,740 --> 00:34:20,970
+to before the moon broke.
+
+732
+00:34:21,950 --> 00:34:25,239
+What if we get the time
+loop spell to trigger
+
+733
+00:34:25,240 --> 00:34:26,819
+a couple hours early?
+
+734
+00:34:26,820 --> 00:34:29,108
+Why don't we just kill
+all the damn whales?
+
+735
+00:34:29,109 --> 00:34:31,439
+Well, that's clearly
+what you tried to do
+
+736
+00:34:31,440 --> 00:34:32,820
+when they took away your Permanence.
+
+737
+00:34:32,821 --> 00:34:34,899
+But she's right.
+
+738
+00:34:34,900 --> 00:34:38,179
+Maybe we need to let out
+the thing that scares us.
+
+739
+00:34:38,180 --> 00:34:40,660
+Maybe we need to, uh, to...
+
+740
+00:34:40,662 --> 00:34:41,871
+Release the Kraken!
+
+741
+00:34:41,872 --> 00:34:44,289
+Exactly, yeah.
+
+742
+00:34:44,290 --> 00:34:45,339
+But earlier.
+
+743
+00:34:45,340 --> 00:34:49,670
+Early... early enough to
+a time before the heist.
+
+744
+00:34:49,671 --> 00:34:51,547
+Shit, we're almost out of time.
+
+745
+00:34:56,820 --> 00:34:58,290
+Look, if the whales have the power
+
+746
+00:34:58,300 --> 00:35:01,349
+to take away your Permanence,
+this could be your last shot.
+
+747
+00:35:01,350 --> 00:35:04,560
+No presh, but you're our only hope.
+
+748
+00:35:07,481 --> 00:35:09,482
+I will do my very best.
+
+749
+00:35:20,140 --> 00:35:22,244
+Surely, you jest.
+
+750
+00:35:22,245 --> 00:35:24,379
+I know, I know.
+
+751
+00:35:24,380 --> 00:35:26,979
+It goes against everything
+you've ever believed in,
+
+752
+00:35:26,980 --> 00:35:28,292
+and I fully respect that,
+
+753
+00:35:28,293 --> 00:35:30,169
+but the only way to fix this
+
+754
+00:35:30,170 --> 00:35:32,547
+is to release the Kraken right now.
+
+755
+00:35:34,630 --> 00:35:35,879
+Well, I don't think they liked that.
+
+756
+00:35:35,880 --> 00:35:37,959
+What? No.
+
+757
+00:35:37,960 --> 00:35:39,553
+Damn it!
+
+758
+00:35:39,554 --> 00:35:41,429
+Eliot?
+
+759
+00:35:41,430 --> 00:35:43,516
+Please be careful.
+
+760
+00:35:43,517 --> 00:35:44,969
+Uh, you don't know what they will do.
+
+761
+00:35:44,970 --> 00:35:46,420
+Hey!
+
+762
+00:35:47,970 --> 00:35:49,314
+You know I'm right!
+
+763
+00:35:50,565 --> 00:35:53,139
+I know you're listening.
+
+764
+00:35:53,140 --> 00:35:55,979
+You know, I have it on good authority
+
+765
+00:35:55,980 --> 00:35:59,049
+that mating season is in the fall.
+
+766
+00:35:59,050 --> 00:36:00,779
+Do you never wanna fuck again?
+
+767
+00:36:00,780 --> 00:36:02,911
+- Eliot, that was too personal.
+- Uh...
+
+768
+00:36:02,912 --> 00:36:05,621
+okay, uh, sorry.
+
+769
+00:36:05,622 --> 00:36:08,749
+Look, I get it.
+
+770
+00:36:08,750 --> 00:36:10,751
+Look, I get it... your
+ancestors made a deal,
+
+771
+00:36:10,752 --> 00:36:13,129
+but special circumstances, okay?
+
+772
+00:36:13,130 --> 00:36:15,599
+Just let it out for 30 seconds.
+
+773
+00:36:15,600 --> 00:36:18,209
+I will fix this and then, you know, uh,
+
+774
+00:36:18,210 --> 00:36:22,009
+the Kraken will be back in
+its safe little sea bed
+
+775
+00:36:22,010 --> 00:36:25,683
+and, uh, you can maintain
+your sigils for all of eternity.
+
+776
+00:36:25,684 --> 00:36:27,184
+You gotta trust me.
+
+777
+00:36:27,185 --> 00:36:30,271
+Just release the goddamn Kraken.
+
+778
+00:36:30,272 --> 00:36:33,692
+Please, please, please, please, please.
+
+779
+00:36:36,490 --> 00:36:37,569
+Look.
+
+780
+00:37:00,580 --> 00:37:01,844
+Hi there!
+
+781
+00:37:01,845 --> 00:37:04,449
+Uh...
+
+782
+00:37:04,450 --> 00:37:06,307
+are you the Kraken?
+
+783
+00:37:06,308 --> 00:37:08,049
+No.
+
+784
+00:37:15,317 --> 00:37:16,859
+Josh, Margo, Penny.
+
+785
+00:37:16,860 --> 00:37:18,759
+You guys go inside,
+loop all the cameras,
+
+786
+00:37:18,760 --> 00:37:20,150
+open the side door for Natasha.
+
+787
+00:37:20,155 --> 00:37:22,590
+I'll be outside waiting
+with Eliot and Alice.
+
+788
+00:37:22,600 --> 00:37:24,000
+Holy shit.
+
+789
+00:37:24,020 --> 00:37:26,040
+Holy shit.
+
+790
+00:37:26,060 --> 00:37:28,246
+Holy shit.
+
+791
+00:37:28,260 --> 00:37:30,582
+This is before the moon broke.
+
+792
+00:37:31,240 --> 00:37:32,876
+It worked.
+
+793
+00:37:32,880 --> 00:37:34,460
+- Okay, break.
+- Sorry.
+
+794
+00:37:38,450 --> 00:37:40,449
+Um, could you just, uh... could you...
+
+795
+00:37:40,450 --> 00:37:42,149
+You're freaking out, aren't you?
+
+796
+00:37:42,150 --> 00:37:43,919
+- No.
+- Look, you can pull the ripcord now.
+
+797
+00:37:43,920 --> 00:37:46,679
+- Get out, we'll handle this.
+- Margo.
+
+798
+00:37:46,680 --> 00:37:50,089
+Credenza.
+
+799
+00:37:50,090 --> 00:37:52,604
+Don't ask questions,
+just do what you say?
+
+800
+00:37:52,605 --> 00:37:53,929
+Mm-hmm.
+
+801
+00:37:53,930 --> 00:37:56,398
+Fine.
+
+802
+00:37:56,399 --> 00:37:58,199
+Okay.
+
+803
+00:37:58,200 --> 00:38:00,510
+Slight change of plans.
+
+804
+00:38:02,948 --> 00:38:04,679
+We are so close to saving everyone.
+
+805
+00:38:04,680 --> 00:38:06,439
+You can't take that away from us now.
+
+806
+00:38:06,440 --> 00:38:07,959
+Look, whatever it is you're after
+
+807
+00:38:07,960 --> 00:38:09,780
+what's the point if
+there's no world left?
+
+808
+00:38:09,788 --> 00:38:13,369
+There'll still be a world,
+just not as many people.
+
+809
+00:38:13,370 --> 00:38:14,829
+Have you met people?
+
+810
+00:38:14,830 --> 00:38:18,170
+I've met people, many people.
+
+811
+00:38:18,171 --> 00:38:19,923
+How many people have you met?
+
+812
+00:38:19,924 --> 00:38:22,809
+Because I bet I've met more people.
+
+813
+00:38:22,810 --> 00:38:25,209
+What the fuck is wrong with you?
+
+814
+00:38:25,210 --> 00:38:27,012
+Hi.
+
+815
+00:38:27,013 --> 00:38:28,515
+What the hell did...
+
+816
+00:38:30,400 --> 00:38:32,180
+Hell, yes.
+
+817
+00:38:35,605 --> 00:38:37,273
+What the... how did you...
+
+818
+00:38:37,274 --> 00:38:38,649
+Julia, now.
+
+819
+00:39:03,300 --> 00:39:04,419
+Hey!
+
+820
+00:39:04,420 --> 00:39:05,779
+Hot pizza!
+
+821
+00:39:05,780 --> 00:39:08,619
+That's one pizza we
+definitely can enjoy.
+
+822
+00:39:08,620 --> 00:39:11,319
+All right. Oh, nice pour right there.
+
+823
+00:39:12,790 --> 00:39:14,879
+Yes, cheers, cheers, yes.
+
+824
+00:39:14,880 --> 00:39:16,749
+Bam!
+
+825
+00:39:16,750 --> 00:39:18,314
+- All right, Emeril.
+- Fresco pizza!
+
+826
+00:39:18,315 --> 00:39:20,729
+Yes, cheers.
+
+827
+00:39:20,730 --> 00:39:21,920
+Whoo!
+
+828
+00:39:29,980 --> 00:39:32,409
+You don't want a drink?
+
+829
+00:39:34,650 --> 00:39:37,749
+Actually, I desperately do not.
+
+830
+00:39:37,750 --> 00:39:39,519
+That's concerning. Those time loops
+
+831
+00:39:39,520 --> 00:39:41,210
+must've really did a number on you.
+
+832
+00:39:42,720 --> 00:39:45,139
+So...
+
+833
+00:39:45,140 --> 00:39:47,636
+You're right, I have
+been pushing you away.
+
+834
+00:39:48,760 --> 00:39:50,347
+Yeah, no shit.
+
+835
+00:39:51,600 --> 00:39:53,750
+It's just...
+
+836
+00:39:59,040 --> 00:40:00,774
+I do remember the Monster.
+
+837
+00:40:01,670 --> 00:40:06,130
+It was bad and bloody and, um...
+
+838
+00:40:07,750 --> 00:40:10,049
+Those memories are, like, right here.
+
+839
+00:40:10,050 --> 00:40:13,259
+And, um...
+
+840
+00:40:13,260 --> 00:40:14,939
+you know, maybe I really
+do need that drink.
+
+841
+00:40:14,940 --> 00:40:17,790
+I don't get why you feel like
+you have to go it alone.
+
+842
+00:40:21,770 --> 00:40:22,921
+I don't either.
+
+843
+00:40:24,840 --> 00:40:26,989
+My logical brain knows without a doubt
+
+844
+00:40:26,990 --> 00:40:27,999
+that I'm better with you.
+
+845
+00:40:28,000 --> 00:40:29,669
+Yes, and same.
+
+846
+00:40:35,280 --> 00:40:37,959
+Tell your coping
+mechanisms to back off...
+
+847
+00:40:39,280 --> 00:40:40,981
+Or I'll punch 'em in the dick.
+
+848
+00:40:40,982 --> 00:40:44,799
+During the loops, we were in it together
+
+849
+00:40:44,800 --> 00:40:47,349
+and then you were gone, and...
+
+850
+00:40:47,350 --> 00:40:49,139
+shocking revelation...
+
+851
+00:40:49,140 --> 00:40:50,949
+I am utterly miserable
+when you're not around.
+
+852
+00:40:50,950 --> 00:40:53,489
+Yeah, I know.
+
+853
+00:40:53,490 --> 00:40:55,161
+I don't know if that's fair to you.
+
+854
+00:40:55,162 --> 00:40:56,788
+What are you talking about?
+
+855
+00:40:58,100 --> 00:40:59,179
+The other thing I learned
+
+856
+00:40:59,180 --> 00:41:02,769
+being in the loops with
+you for so long...
+
+857
+00:41:02,770 --> 00:41:05,713
+you're not exactly who you used to be.
+
+858
+00:41:05,714 --> 00:41:06,809
+You've...
+
+859
+00:41:06,810 --> 00:41:08,215
+Please don't say aged.
+
+860
+00:41:08,216 --> 00:41:12,209
+You've evolved, Margo Hanson.
+
+861
+00:41:12,210 --> 00:41:14,019
+You've become more of your true self.
+
+862
+00:41:14,020 --> 00:41:15,930
+You've earned it.
+
+863
+00:41:18,240 --> 00:41:21,289
+And I don't want to ask
+you to take a step back
+
+864
+00:41:21,290 --> 00:41:24,019
+just so I can try and catch up.
+
+865
+00:41:24,020 --> 00:41:25,107
+Oh.
+
+866
+00:41:25,108 --> 00:41:27,419
+I was a mess you had
+to untangle in there
+
+867
+00:41:27,420 --> 00:41:32,299
+just so you could soldier on,
+and... once you did,
+
+868
+00:41:32,300 --> 00:41:34,319
+you figured out how to fix all of this.
+
+869
+00:41:34,320 --> 00:41:35,759
+And then you picked up the baton
+
+870
+00:41:35,760 --> 00:41:37,037
+and actually did the thing.
+
+871
+00:41:37,038 --> 00:41:39,809
+- I got lucky.
+- No.
+
+872
+00:41:42,340 --> 00:41:47,349
+It's 'cause you understand
+me better than anyone.
+
+873
+00:41:47,350 --> 00:41:48,673
+Mm-hmm.
+
+874
+00:41:50,280 --> 00:41:53,900
+So quit acting like you're the
+screw-up and get on my level, El.
+
+875
+00:41:57,120 --> 00:41:59,329
+You did it.
+
+876
+00:41:59,330 --> 00:42:01,389
+You did when the world was on the line,
+
+877
+00:42:01,390 --> 00:42:03,029
+now do it for yourself.
+
+878
+00:42:12,580 --> 00:42:14,399
+I don't know if I want
+to get on your level
+
+879
+00:42:14,400 --> 00:42:16,069
+knowing that you jacked off Todd.
+
+880
+00:42:16,070 --> 00:42:18,745
+- I did not.
+- Yeah, you did.
+
+881
+00:42:19,788 --> 00:42:21,831
+I did not.
+
+882
+00:42:27,390 --> 00:42:28,462
+The hell?
+
+883
+00:42:28,463 --> 00:42:29,859
+Coming.
+
+884
+00:42:31,341 --> 00:42:33,229
+Oh, thank God!
+
+885
+00:42:33,230 --> 00:42:36,359
+I've tried every other magical
+Penthouse in the city and...
+
+886
+00:42:36,360 --> 00:42:39,279
+Todd. Wh... uh, what...
+
+887
+00:42:39,280 --> 00:42:40,549
+Why are you here?
+
+888
+00:42:40,550 --> 00:42:41,679
+I need your help.
+
+889
+00:42:41,680 --> 00:42:44,279
+Something just happened that
+feels way above my pay grade,
+
+890
+00:42:44,280 --> 00:42:45,679
+and you were the first
+person I thought of
+
+891
+00:42:45,680 --> 00:42:46,769
+who could help me handle it.
+
+892
+00:42:46,770 --> 00:42:49,441
+Okay, it's a weird one.
+Just hear me out, okay?
+
+893
+00:42:49,442 --> 00:42:53,599
+So this pig dude who kind of looks like
+
+894
+00:42:53,600 --> 00:42:55,419
+that one guy Paul Giamatti played
+
+895
+00:42:55,420 --> 00:42:56,849
+in that one show with all the wigs
+
+896
+00:42:56,850 --> 00:42:58,575
+told me I'm supposed to do a quest.
+
+897
+00:42:58,576 --> 00:43:00,189
+Seriously?
+
+898
+00:43:00,190 --> 00:43:02,162
+That asshole went to you?
+
+899
+00:43:02,163 --> 00:43:04,039
+Wow. Ha.
+
+900
+00:43:04,040 --> 00:43:06,667
+Yeah, he's extremely
+committed to finding a dude.
+
+901
+00:43:06,668 --> 00:43:09,753
+Yeah, it's fine, Todd. We fixed it.
+
+902
+00:43:09,754 --> 00:43:12,969
+- Are you sure?
+- Yeah, yes, I'm sure.
+
+903
+00:43:12,970 --> 00:43:15,169
+The Harmonic Convergence
+isn't happening anymore.
+
+904
+00:43:15,170 --> 00:43:16,677
+The who now?
+
+905
+00:43:16,678 --> 00:43:18,303
+The end of the world?
+
+906
+00:43:18,304 --> 00:43:19,839
+Uh, no.
+
+907
+00:43:19,840 --> 00:43:23,319
+He did say the end of
+something but not that.
+
+908
+00:43:23,320 --> 00:43:25,039
+He was talking about Fillory.
+
+909
+00:43:25,040 --> 00:43:27,149
+Remind me, is Fillory real?
+
+910
+00:43:29,150 --> 00:43:30,817
+The end of Fillory?
+
+911
+00:43:32,360 --> 00:43:33,679
+So...
+
+912
+00:43:33,680 --> 00:43:35,970
+so we saved the wrong world?
+
+913
+00:43:39,930 --> 00:43:42,040
+So we're not done.
+
+914
+00:43:44,830 --> 00:43:46,979
+Of course.
+
+915
+00:43:48,585 --> 00:43:53,584
+- Synced & corrected by<font color="#E83286"> MementMori </font>-
+-- <font color="#138CE9">www.addic7ed.com</font> --
