@@ -23,18 +23,48 @@ Some ideas!
 **** Why literate programming.
 ***** thinking through decisions carefully - have to defend them
 ***** documentation and source don't go out of sync... they are the same!
+***** good for 3 things:
+****** literate config files
+****** tutorials
+****** /possibly/ for executable memoirs
 ***** simple and relatable code example
+***** Literate Programming And ADHD and Emacs
 **** A quote from the show that will go in the final program.
 *** The Shape Of Data
+**** Big Data Is Big
+**** If You Aren't Paying, You're The Product
+***** Possibly relate it to "If you can't see the sucker at the table…"
+****** And talk about poker?
 **** Data and Its Bias
+**** Data and LLMs
+***** Cassandra
 **** The Shape Of Our Data
 ***** In The Form Of A Relevant Magicians Quote
+**** Looking For Data In All The Wrong Places
+***** knowing yourself
+****** ADD Without the H
+****** Anxiety
+****** robot
+****** ADHD:PI
+***** hyperfocusing
+****** hyperfocusing on the wrong things
+****** hyperfocusing as a superpower?
+***** making connections
 *** The Winding Path To The API
+**** Database Setup
+**** Queries
+***** Random Quote Of The Day
+***** Searches
+****** Quote
+****** Character
+****** Episode
+**** Potentially a Wiki Setup
 *** The Most Inefficient Efficiency Expert
 **** Emacs And Vim
 ***** A Way Of Life
 ***** Making Editing Fun
 ***** Text Editor Learning Curves
+***** ADHD and Configuration
 **** 55-Word Stories
 **** XKCD Comic about efficiency
 ***** the one about efficient walking routes
