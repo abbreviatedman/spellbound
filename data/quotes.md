@@ -84,7 +84,7 @@ Quentin: And I really don't want to be the guy who dies in the first ten minutes
 
 1
 00:00:01,080 --> 00:00:02,525
-<i>Previously on</i> The Magicians...
+<i>Previously on</i> The Magicians…
 
 2
 00:00:02,600 --> 00:00:05,001
@@ -124,7 +124,7 @@ Stop it!
 
 10
 00:00:24,760 --> 00:00:25,761
-Ah...
+Ah…
 
 11
 00:00:26,880 --> 00:00:28,609
@@ -203,7 +203,7 @@ that attacked you.
 
 28
 00:01:21,480 --> 00:01:22,481
-Uh...
+Uh…
 
 29
 00:01:24,960 --> 00:01:26,564
@@ -234,7 +234,7 @@ Yeah, it's a winner.
 
 35
 00:02:01,600 --> 00:02:04,080
-- Hey, that star on your arm...
+- Hey, that star on your arm…
 - I earned it.
 
 36
@@ -245,7 +245,7 @@ whole sleeve of 'em.
 37
 00:02:07,480 --> 00:02:09,050
 So what does it mean?
-Does it mean that...
+Does it mean that…
 
 38
 00:02:09,120 --> 00:02:11,202
@@ -267,11 +267,11 @@ Julia, my associates.
 
 42
 00:02:26,760 --> 00:02:27,807
-Holy shit, it's...
+Holy shit, it's…
 
 43
 00:02:27,880 --> 00:02:29,769
-And that is...
+And that is…
 
 44
 00:02:29,840 --> 00:02:31,205
@@ -324,7 +324,7 @@ We're hedge witches.
 
 55
 00:03:00,920 --> 00:03:02,524
-Jesus, how are you even...
+Jesus, how are you even…
 
 56
 00:03:02,600 --> 00:03:04,602
@@ -341,7 +341,7 @@ Keeps them safe.
 
 59
 00:03:10,120 --> 00:03:13,727
-- It's a...
+- It's a…
 - Meat locker, or it was, anyway.
 
 60
@@ -424,7 +424,7 @@ were disappearing.</i>
 
 78
 00:04:36,280 --> 00:04:37,691
-<i>Quentin...</i>
+<i>Quentin…</i>
 
 79
 00:04:39,400 --> 00:04:40,561
@@ -445,7 +445,7 @@ How did you know that spell?
 83
 00:04:59,200 --> 00:05:02,170
 Look, I know we're not supposed
-to fire off battle magic, but...
+to fire off battle magic, but…
 
 84
 00:05:02,280 --> 00:05:03,486
@@ -544,11 +544,11 @@ Alice.
 
 105
 00:06:33,160 --> 00:06:34,366
-Okay...
+Okay…
 
 106
 00:06:34,760 --> 00:06:35,807
-- Um...
+- Um…
 - Don't.
 
 107
@@ -562,7 +562,7 @@ You don't get to say,
 
 109
 00:06:39,480 --> 00:06:41,084
-If they find out...
+If they find out…
 
 110
 00:06:41,160 --> 00:06:43,049
@@ -609,7 +609,7 @@ it's cold.
 119
 00:07:08,560 --> 00:07:10,449
 We're stuck, and they're
-trying to kill us, so...
+trying to kill us, so…
 
 120
 00:07:10,520 --> 00:07:12,284
@@ -679,7 +679,7 @@ our signature cocktail.
 
 134
 00:08:02,400 --> 00:08:03,765
-I've got to...
+I've got to…
 
 135
 00:08:03,840 --> 00:08:05,365
@@ -749,7 +749,7 @@ Okay.
 
 150
 00:08:43,880 --> 00:08:45,006
-And if you confess...
+And if you confess…
 
 151
 00:08:45,080 --> 00:08:46,650
@@ -758,7 +758,7 @@ And if you confess...
 
 152
 00:08:49,400 --> 00:08:51,050
-Argh...
+Argh…
 
 153
 00:08:52,320 --> 00:08:54,084
@@ -767,7 +767,7 @@ I was in the hospital.
 
 154
 00:08:54,160 --> 00:08:56,891
-I have... Or I had...
+I have… Or I had…
 
 155
 00:08:56,960 --> 00:09:00,089
@@ -785,7 +785,7 @@ Uh, Why go on?
 
 158
 00:09:05,760 --> 00:09:10,926
-And then I got here, and...
+And then I got here, and…
 
 159
 00:09:11,960 --> 00:09:13,450
@@ -847,7 +847,7 @@ What?
 
 172
 00:09:49,440 --> 00:09:51,522
-I was 14. He was this...
+I was 14. He was this…
 
 173
 00:09:54,480 --> 00:09:55,527
@@ -902,7 +902,7 @@ discovered I was telekinetic.
 184
 00:10:35,000 --> 00:10:36,809
 If you're trying to tell
-me that it gets better...
+me that it gets better…
 
 185
 00:10:36,880 --> 00:10:38,120
@@ -947,7 +947,7 @@ since your family.
 
 194
 00:11:07,720 --> 00:11:11,008
-Yeah, no, my family's not...
+Yeah, no, my family's not…
 
 195
 00:11:11,080 --> 00:11:12,889
@@ -1025,7 +1025,7 @@ Hmm.
 
 212
 00:12:06,280 --> 00:12:07,281
-Um...
+Um…
 
 213
 00:12:07,880 --> 00:12:09,882
@@ -1041,7 +1041,7 @@ Curious.
 
 216
 00:12:18,360 --> 00:12:19,521
-Just 'cause...
+Just 'cause…
 
 217
 00:12:20,920 --> 00:12:22,365
@@ -1068,7 +1068,7 @@ There has to be something here.
 222
 00:12:42,000 --> 00:12:45,049
 Maybe the phone numbers
-are, like, a code or...
+are, like, a code or…
 
 223
 00:12:45,160 --> 00:12:46,650
@@ -1085,7 +1085,7 @@ Chop-chop.
 226
 00:13:11,680 --> 00:13:13,648
 There has to be something.
-I mean...
+I mean…
 
 227
 00:13:14,640 --> 00:13:15,641
@@ -1093,7 +1093,7 @@ Oh!
 
 228
 00:13:40,400 --> 00:13:42,448
-Is it...
+Is it…
 
 229
 00:13:42,520 --> 00:13:44,170
@@ -1116,7 +1116,7 @@ they're gonna kill us.
 233
 00:13:49,640 --> 00:13:51,483
 Why did I sign up for this?
-This is...
+This is…
 
 234
 00:13:51,600 --> 00:13:53,011
@@ -1324,7 +1324,7 @@ to do was read fantasy.
 
 280
 00:16:17,400 --> 00:16:19,721
-Okay. What if, um...
+Okay. What if, um…
 
 281
 00:16:20,880 --> 00:16:22,803
@@ -1471,7 +1471,7 @@ and the real kids, uh, vanished.
 312
 00:17:40,880 --> 00:17:42,564
 You're saying that
-Charlie vanished too...
+Charlie vanished too…
 
 313
 00:17:42,640 --> 00:17:44,244
@@ -1513,7 +1513,7 @@ what happened to him.
 
 321
 00:18:02,040 --> 00:18:05,010
-Yeah, I know, but...
+Yeah, I know, but…
 
 322
 00:18:05,080 --> 00:18:06,525
@@ -1522,7 +1522,7 @@ What if Fillory is real?
 323
 00:18:07,680 --> 00:18:10,923
 Jesus, you don't understand how
-mind-blowing that is. It's just like...
+mind-blowing that is. It's just like…
 
 324
 00:18:11,000 --> 00:18:12,604
@@ -1601,7 +1601,7 @@ as a fucking bell.
 340
 00:19:14,760 --> 00:19:16,250
 Says he's a Magician.
-That's...
+That's…
 
 341
 00:19:17,120 --> 00:19:19,043
@@ -1656,7 +1656,7 @@ No, there's no point now.
 
 352
 00:19:49,480 --> 00:19:51,687
-But don't... Penny, don't go.
+But don't… Penny, don't go.
 
 353
 00:19:51,760 --> 00:19:54,366
@@ -1720,7 +1720,7 @@ Go.
 
 367
 00:20:30,880 --> 00:20:32,006
-But...
+But…
 
 368
 00:20:33,320 --> 00:20:35,971
@@ -1802,11 +1802,11 @@ Okay.
 
 385
 00:21:28,040 --> 00:21:29,804
-And...
+And…
 
 386
 00:21:29,880 --> 00:21:33,771
-<i>"Graisse de l'animal...
+<i>"Graisse de l'animal…
 De préférence de mouton."</i>
 
 387
@@ -1890,7 +1890,7 @@ what do they expect, you know?
 404
 00:22:21,760 --> 00:22:24,889
 Magic is real and that's the thing,
-and once you know that, you can't...
+and once you know that, you can't…
 
 405
 00:22:24,960 --> 00:22:26,450
@@ -1902,7 +1902,7 @@ Exactly.
 
 407
 00:22:29,880 --> 00:22:30,927
-It's like...
+It's like…
 
 408
 00:22:32,760 --> 00:22:35,161
@@ -1996,7 +1996,7 @@ around here and watch anymore</i>
 428
 00:24:08,040 --> 00:24:09,041
 - Mmm.
-- Oh...
+- Oh…
 
 429
 00:24:10,960 --> 00:24:13,088
@@ -2021,7 +2021,7 @@ How do you know?
 
 434
 00:24:22,200 --> 00:24:26,888
-Like this place...
+Like this place…
 What? It's a gold mine.
 
 435
@@ -2032,7 +2032,7 @@ run away from you.
 436
 00:24:30,880 --> 00:24:33,645
 And, well, I'm here,
-and I'm amazing, so I mean...
+and I'm amazing, so I mean…
 
 437
 00:24:36,160 --> 00:24:38,925
@@ -2050,7 +2050,7 @@ No, leave us alone.
 440
 00:24:42,320 --> 00:24:44,163
 Gladly, we've got
-to discuss, um...
+to discuss, um…
 
 441
 00:24:44,240 --> 00:24:49,246
@@ -2091,11 +2091,11 @@ Yes, I mean, sure, I touched it.
 449
 00:25:21,120 --> 00:25:23,282
 We all touched it.
-I mean, I touched...
+I mean, I touched…
 
 450
 00:25:23,360 --> 00:25:26,170
-We were studying, so...
+We were studying, so…
 
 451
 00:25:26,240 --> 00:25:29,210
@@ -2122,7 +2122,7 @@ What did you say?
 
 456
 00:25:40,600 --> 00:25:41,681
-Nothing, I...
+Nothing, I…
 
 457
 00:25:51,440 --> 00:25:52,646
@@ -2183,7 +2183,7 @@ Hold On.
 
 470
 00:26:44,840 --> 00:26:45,887
-Uh...
+Uh…
 
 471
 00:26:46,000 --> 00:26:47,047
@@ -2280,7 +2280,7 @@ How, Eliot?
 
 491
 00:27:39,880 --> 00:27:41,484
-I go back there, and I'm...
+I go back there, and I'm…
 
 492
 00:27:42,680 --> 00:27:44,170
@@ -2340,7 +2340,7 @@ Hey, it's Q.
 504
 00:28:27,360 --> 00:28:29,567
 <i>Look, I know when
-we last met that, uh...</i>
+we last met that, uh…</i>
 
 505
 00:28:31,280 --> 00:28:33,521
@@ -2373,7 +2373,7 @@ guy is dead, and long story.
 
 511
 00:28:57,680 --> 00:28:59,011
-<i>Um...</i>
+<i>Um…</i>
 
 512
 00:29:01,000 --> 00:29:04,402
@@ -2397,7 +2397,7 @@ Oh, yeah. Yeah.
 516
 00:29:16,680 --> 00:29:19,206
 You know, without Brakebills,
-it's just...
+it's just…
 
 517
 00:29:19,280 --> 00:29:21,487
@@ -2423,7 +2423,7 @@ I can't help you,
 
 522
 00:29:32,520 --> 00:29:34,443
-and it's just...
+and it's just…
 
 523
 00:29:34,520 --> 00:29:37,410
@@ -2564,15 +2564,15 @@ That means level 50.
 
 553
 00:31:54,600 --> 00:31:55,601
-Um...
+Um…
 
 554
 00:31:56,640 --> 00:31:57,641
-Uh...
+Uh…
 
 555
 00:31:57,800 --> 00:31:59,802
-Wait, so you were...
+Wait, so you were…
 
 556
 00:31:59,880 --> 00:32:02,690
@@ -2581,7 +2581,7 @@ for starters.
 
 557
 00:32:02,760 --> 00:32:04,444
-Um, and this was...
+Um, and this was…
 
 558
 00:32:04,520 --> 00:32:07,046
@@ -2667,7 +2667,7 @@ you're not expelled.
 
 576
 00:33:08,680 --> 00:33:10,648
-That's actually...
+That's actually…
 
 577
 00:33:12,920 --> 00:33:13,921
@@ -2697,7 +2697,7 @@ You're welcome.
 
 583
 00:33:29,440 --> 00:33:32,011
-What is that? How did you...
+What is that? How did you…
 
 584
 00:33:32,080 --> 00:33:33,764
@@ -2810,7 +2810,7 @@ class in the morning.
 608
 00:35:23,360 --> 00:35:25,203
 - Hi.
-- Oh...
+- Oh…
 
 609
 00:35:25,280 --> 00:35:29,126
@@ -2842,7 +2842,7 @@ sure that you got here.
 
 615
 00:35:44,280 --> 00:35:45,281
-Oh...
+Oh…
 
 616
 00:35:45,760 --> 00:35:48,331
@@ -2854,7 +2854,7 @@ but I kind of screwed that up.
 
 618
 00:35:52,000 --> 00:35:53,001
-Uh...
+Uh…
 
 619
 00:35:53,280 --> 00:35:54,884
@@ -2867,11 +2867,11 @@ away like it never happened.
 
 621
 00:35:59,920 --> 00:36:01,490
-Mmm. That sounds...
+Mmm. That sounds…
 
 622
 00:36:01,920 --> 00:36:03,490
-Hmm...
+Hmm…
 
 623
 00:36:04,440 --> 00:36:08,411
@@ -2892,7 +2892,7 @@ Okay.
 
 627
 00:36:19,640 --> 00:36:22,530
-Um, just before, um, can I...
+Um, just before, um, can I…
 
 628
 00:36:22,960 --> 00:36:24,883
@@ -2917,7 +2917,7 @@ Guess I was wrong.
 
 633
 00:36:32,640 --> 00:36:34,642
-No, you're not, I...
+No, you're not, I…
 
 634
 00:36:34,720 --> 00:36:37,485
@@ -2940,7 +2940,7 @@ just forget it again?
 
 638
 00:36:47,280 --> 00:36:48,645
-The books, they're just...
+The books, they're just…
 
 639
 00:36:50,040 --> 00:36:52,361
@@ -3022,7 +3022,7 @@ like a warning?
 
 657
 00:37:47,200 --> 00:37:48,964
-Yeah, how did you...
+Yeah, how did you…
 
 658
 00:37:49,040 --> 00:37:50,530
@@ -3357,7 +3357,7 @@ like we have all day.
 
 1
 00:00:00,137 --> 00:00:01,359
-<i>Previously on The Magicians</i>...
+<i>Previously on The Magicians</i>…
 
 2
 00:00:01,479 --> 00:00:02,511
@@ -3472,7 +3472,7 @@ Yeah, I don't really do slow.
 
 26
 00:01:10,457 --> 00:01:11,788
-Hmm...
+Hmm…
 
 27
 00:01:20,618 --> 00:01:22,947
@@ -3503,7 +3503,7 @@ the elements.
 33
 00:01:35,275 --> 00:01:38,355
 The very world
-that exists around you...
+that exists around you…
 
 34
 00:01:38,441 --> 00:01:39,821
@@ -3537,7 +3537,7 @@ does not come cheaply.
 
 41
 00:01:56,346 --> 00:01:57,843
-<i>lack of guidance...</i>
+<i>lack of guidance…</i>
 
 42
 00:01:57,928 --> 00:02:00,675
@@ -3566,7 +3566,7 @@ They will consume you.
 
 47
 00:02:17,050 --> 00:02:18,914
-Change you...
+Change you…
 
 48
 00:02:18,966 --> 00:02:20,913
@@ -3668,7 +3668,7 @@ so busy with school.
 
 71
 00:03:46,414 --> 00:03:48,777
-Look...
+Look…
 
 72
 00:03:48,862 --> 00:03:51,075
@@ -3715,7 +3715,7 @@ I get a strong sense of blues
 
 82
 00:04:11,815 --> 00:04:15,011
-and...and pinks.
+and…and pinks.
 
 83
 00:04:15,063 --> 00:04:16,760
@@ -3959,7 +3959,7 @@ your light-bendy thing?
 
 138
 00:06:47,922 --> 00:06:51,252
-Like...yeah, we could use,
+Like…yeah, we could use,
 like, a magnifying glass.
 
 139
@@ -4060,7 +4060,7 @@ like, a million times.
 161
 00:08:37,191 --> 00:08:40,020
 Should have?
-You saying that like you...
+You saying that like you…
 
 162
 00:08:40,104 --> 00:08:42,019
@@ -4079,7 +4079,7 @@ that's all.
 165
 00:08:47,267 --> 00:08:50,847
 You know, the spell
-we did was, like...
+we did was, like…
 
 166
 00:08:50,899 --> 00:08:52,845
@@ -4136,7 +4136,7 @@ Ooh, oh. Yeah.
 
 178
 00:09:20,997 --> 00:09:22,378
-Um...
+Um…
 
 179
 00:09:22,463 --> 00:09:25,875
@@ -4407,7 +4407,7 @@ You're not.
 
 239
 00:12:33,135 --> 00:12:35,848
-Hey...
+Hey…
 
 240
 00:12:35,933 --> 00:12:37,880
@@ -4424,7 +4424,7 @@ I've been moody lately,
 
 243
 00:12:42,962 --> 00:12:44,043
-but...
+but…
 
 244
 00:12:44,178 --> 00:12:47,091
@@ -4545,7 +4545,7 @@ reached out to you
 
 270
 00:14:00,416 --> 00:14:01,712
-directly...
+directly…
 
 271
 00:14:04,630 --> 00:14:06,543
@@ -4692,7 +4692,7 @@ Maybe you need information,
 302
 00:15:26,380 --> 00:15:30,258
 and Margo's Discipline
-is gossip, so...
+is gossip, so…
 
 303
 00:15:40,255 --> 00:15:42,752
@@ -4749,7 +4749,7 @@ we're talking about here.
 
 315
 00:16:03,191 --> 00:16:05,521
-we have...
+we have…
 
 316
 00:16:05,656 --> 00:16:07,353
@@ -4775,7 +4775,7 @@ and that cannot happen, Quentin.
 321
 00:16:17,349 --> 00:16:20,179
 So you gonna tell me
-what's in the box or...
+what's in the box or…
 
 322
 00:16:24,594 --> 00:16:26,391
@@ -4787,7 +4787,7 @@ The missing book is Volume One.
 
 324
 00:16:28,143 --> 00:16:31,589
-That...is Volume Two.
+That…is Volume Two.
 
 325
 00:16:33,889 --> 00:16:37,169
@@ -4879,7 +4879,7 @@ and need to fall back.
 
 345
 00:17:29,056 --> 00:17:31,802
-All I know...
+All I know…
 you have to mean it
 
 346
@@ -4903,7 +4903,7 @@ without a net.
 
 350
 00:17:57,788 --> 00:18:00,452
-I...
+I…
 
 351
 00:18:00,587 --> 00:18:01,918
@@ -5061,7 +5061,7 @@ I'd actually prefer to go alone.
 
 387
 00:19:27,952 --> 00:19:31,114
-Oh, I know you would, but...
+Oh, I know you would, but…
 
 388
 00:19:31,233 --> 00:19:33,230
@@ -5144,7 +5144,7 @@ to practice.
 
 406
 00:20:27,949 --> 00:20:30,413
-So...
+So…
 
 407
 00:20:30,532 --> 00:20:31,662
@@ -5238,7 +5238,7 @@ I know how it sounds,
 
 428
 00:22:05,455 --> 00:22:08,317
-but I was young and...
+but I was young and…
 
 429
 00:22:08,453 --> 00:22:11,315
@@ -5255,7 +5255,7 @@ when you're that age.
 
 432
 00:22:17,398 --> 00:22:20,694
-You get...terrible ideas.
+You get…terrible ideas.
 
 433
 00:22:20,813 --> 00:22:23,276
@@ -5289,7 +5289,7 @@ make myself prettier.
 
 440
 00:22:41,516 --> 00:22:44,014
-Oh...God.
+Oh…God.
 
 441
 00:22:44,133 --> 00:22:46,295
@@ -5314,7 +5314,7 @@ to figure out how to do it,
 
 446
 00:22:59,672 --> 00:23:02,285
-and...
+and…
 
 447
 00:23:02,371 --> 00:23:04,751
@@ -5326,7 +5326,7 @@ and...
 
 449
 00:23:14,280 --> 00:23:16,944
-No...
+No…
 
 450
 00:23:24,607 --> 00:23:28,104
@@ -5376,7 +5376,7 @@ I'm gonna fix this.
 
 461
 00:24:09,714 --> 00:24:12,460
-He mashed a...
+He mashed a…
 
 462
 00:24:12,578 --> 00:24:13,910
@@ -5432,11 +5432,11 @@ totally out of control.
 
 474
 00:24:57,136 --> 00:24:59,432
-It burned...
+It burned…
 
 475
 00:24:59,551 --> 00:25:02,681
-right through him...
+right through him…
 
 476
 00:25:02,766 --> 00:25:07,177
@@ -5475,7 +5475,7 @@ you anymore.
 
 484
 00:25:26,367 --> 00:25:28,582
-You're...
+You're…
 
 485
 00:25:28,701 --> 00:25:31,530
@@ -5702,7 +5702,7 @@ would at least come
 536
 00:28:41,181 --> 00:28:44,127
 and try to take my memory
-again, and then...
+again, and then…
 
 537
 00:28:44,213 --> 00:28:46,793
@@ -5918,7 +5918,7 @@ you were just psychic,
 
 584
 00:31:32,246 --> 00:31:35,359
-but it...
+but it…
 it's more complicated.
 
 585
@@ -6239,7 +6239,7 @@ Look, they're not even alive.
 
 658
 00:35:07,805 --> 00:35:10,185
-Th--they're...
+Th--they're…
 something else.
 
 659
@@ -6276,7 +6276,7 @@ that can transmutate
 666
 00:35:22,464 --> 00:35:25,877
 certain meta-quantum energies
-into matter...in theory.
+into matter…in theory.
 
 667
 00:35:26,011 --> 00:35:27,708
@@ -6412,7 +6412,7 @@ give up everything.
 
 696
 00:36:47,079 --> 00:36:49,126
-Life, school...
+Life, school…
 
 697
 00:36:49,211 --> 00:36:52,957
@@ -6496,7 +6496,7 @@ I'm amazing.
 
 716
 00:38:21,823 --> 00:38:25,152
-Okay, so, we're here, and...
+Okay, so, we're here, and…
 
 717
 00:38:25,270 --> 00:38:27,818
@@ -6522,7 +6522,7 @@ something personal between us,
 
 722
 00:38:41,011 --> 00:38:43,391
-um...
+um…
 
 723
 00:38:43,476 --> 00:38:46,089
@@ -6890,7 +6890,7 @@ I can't go back.
 
 29
 00:02:11,639 --> 00:02:13,022
-Fuck...
+Fuck…
 
 30
 00:02:13,107 --> 00:02:14,940
@@ -6898,7 +6898,7 @@ Dude, you're in the wrong--
 
 31
 00:02:14,976 --> 00:02:18,027
-or I'm in the wrong, uh...
+or I'm in the wrong, uh…
 
 32
 00:02:40,835 --> 00:02:44,336
@@ -7086,7 +7086,7 @@ to be here?
 
 74
 00:04:32,113 --> 00:04:35,614
-The court? I don't...
+The court? I don't…
 
 75
 00:04:35,700 --> 00:04:37,866
@@ -7270,7 +7270,7 @@ You don't remember?
 116
 00:06:56,474 --> 00:07:00,259
 I--I was at school,
-I think, and...
+I think, and…
 
 117
 00:07:00,344 --> 00:07:02,144
@@ -7637,7 +7637,7 @@ Okay.
 
 199
 00:10:58,451 --> 00:11:00,451
-- Don't...
+- Don't…
 - What?
 
 200
@@ -7681,7 +7681,7 @@ Keep your voice down.
 208
 00:11:17,187 --> 00:11:21,139
 I'm sorry.
-It's my fault, um...
+It's my fault, um…
 
 209
 00:11:21,224 --> 00:11:22,690
@@ -7790,7 +7790,7 @@ I believe you, Quentin.
 
 234
 00:13:13,824 --> 00:13:16,909
-You are a magician...
+You are a magician…
 
 235
 00:13:19,864 --> 00:13:21,747
@@ -8191,7 +8191,7 @@ getting that out of your head.
 
 326
 00:17:49,022 --> 00:17:51,848
-<i>Doctor...</i>
+<i>Doctor…</i>
 
 327
 00:17:54,963 --> 00:17:57,628
@@ -8275,7 +8275,7 @@ Hello, Curly Q.
 
 345
 00:18:44,239 --> 00:18:46,823
-I...
+I…
 
 346
 00:18:56,418 --> 00:18:58,751
@@ -8283,7 +8283,7 @@ What happened to your face?
 
 347
 00:18:58,753 --> 00:19:01,254
-Did you run into a door or...
+Did you run into a door or…
 
 348
 00:19:04,092 --> 00:19:06,809
@@ -8362,7 +8362,7 @@ Do you remember that night?
 
 365
 00:19:57,612 --> 00:20:00,446
-Um...
+Um…
 
 366
 00:20:00,482 --> 00:20:02,649
@@ -8388,7 +8388,7 @@ to celebrate
 
 371
 00:20:13,411 --> 00:20:17,497
-when you got into Yale, and...
+when you got into Yale, and…
 
 372
 00:20:17,549 --> 00:20:19,165
@@ -8428,7 +8428,7 @@ And then you picked up a knife.
 380
 00:20:32,564 --> 00:20:35,848
 I grabbed you.
-I tried to stop you from...
+I tried to stop you from…
 
 381
 00:20:35,850 --> 00:20:38,184
@@ -8815,7 +8815,7 @@ Everyone gets stronger.
 
 466
 00:24:24,021 --> 00:24:26,772
-Um, I just, um...
+Um, I just, um…
 
 467
 00:24:26,857 --> 00:24:32,077
@@ -8917,11 +8917,11 @@ Sorry.
 
 489
 00:26:17,201 --> 00:26:20,282
-Ellsworth Downs, Ellsworth...
+Ellsworth Downs, Ellsworth…
 
 490
 00:26:21,072 --> 00:26:24,490
-Downs, Ellis...
+Downs, Ellis…
 
 491
 00:26:24,575 --> 00:26:26,292
@@ -9381,7 +9381,7 @@ even the will to live.
 
 593
 00:32:26,406 --> 00:32:27,772
-So this...
+So this…
 
 594
 00:32:29,993 --> 00:32:31,776
@@ -9442,7 +9442,7 @@ Stop listening.
 607
 00:33:01,528 --> 00:33:04,445
 There are only three things
-that are real: you, me, and...
+that are real: you, me, and…
 
 608
 00:33:10,703 --> 00:33:12,987
@@ -9534,7 +9534,7 @@ couldn't break.
 
 628
 00:34:15,768 --> 00:34:18,102
-Now...
+Now…
 
 629
 00:34:19,556 --> 00:34:22,557
@@ -9569,7 +9569,7 @@ Hey.
 
 636
 00:34:54,866 --> 00:34:56,399
-He's not gonna wake up...
+He's not gonna wake up…
 
 637
 00:34:56,484 --> 00:34:57,400
@@ -9644,7 +9644,7 @@ You're the spider and the fly,
 
 653
 00:36:21,569 --> 00:36:23,235
-just like...
+just like…
 
 654
 00:36:31,295 --> 00:36:32,661
@@ -9728,7 +9728,7 @@ I actually want to be,
 
 672
 00:37:19,460 --> 00:37:22,628
-and then realizing that I...
+and then realizing that I…
 
 673
 00:37:22,680 --> 00:37:25,848
@@ -9896,7 +9896,7 @@ I need to be taught magic
 710
 00:39:41,523 --> 00:39:45,475
 so that I can decide
-what it is or isn't...
+what it is or isn't…
 
 711
 00:39:45,561 --> 00:39:48,562
@@ -9912,7 +9912,7 @@ Good night, Quentin.
 
 714
 00:39:59,625 --> 00:40:02,325
-Oh, and Quentin...
+Oh, and Quentin…
 
 715
 00:40:02,411 --> 00:40:05,579
@@ -9934,7 +9934,7 @@ Wow.
 719
 00:40:25,567 --> 00:40:29,352
 I kind of can't believe
-I ever thought I knew...
+I ever thought I knew…
 
 720
 00:40:29,438 --> 00:40:32,572
@@ -9994,7 +9994,7 @@ You don't know cut off.
 
 733
 00:41:19,988 --> 00:41:22,322
-But, baby...
+But, baby…
 
 734
 00:41:24,576 --> 00:41:26,460
@@ -10009,7 +10009,7 @@ www.addic7ed.com</font>
 
 1
 00:00:00,200 --> 00:00:01,599
-Previously on "The Magicians"...
+Previously on "The Magicians"…
 
 2
 00:00:01,634 --> 00:00:02,934
@@ -10109,7 +10109,7 @@ Quentin.
 23
 00:00:48,345 --> 00:00:50,412
 - What?
-- Uh, I just, um...
+- Uh, I just, um…
 
 24
 00:00:50,447 --> 00:00:52,275
@@ -10133,11 +10133,11 @@ I'm going to kill her.
 
 29
 00:01:04,740 --> 00:01:05,703
-I, uh...
+I, uh…
 
 30
 00:01:08,898 --> 00:01:10,532
-I'm...
+I'm…
 
 31
 00:01:10,567 --> 00:01:13,235
@@ -10151,7 +10151,7 @@ to do anything to her.
 33
 00:01:16,163 --> 00:01:18,906
 I thought you would erase her
-memory or something... again.
+memory or something… again.
 
 34
 00:01:18,942 --> 00:01:22,376
@@ -10259,7 +10259,7 @@ Fuck, more.
 
 56
 00:02:11,393 --> 00:02:14,460
-- It was my friend that she used...
+- It was my friend that she used…
 - Your friend!
 
 57
@@ -10398,7 +10398,7 @@ I specialize in feet.
 
 86
 00:03:42,414 --> 00:03:46,549
-Broken bones, warts... I have some
+Broken bones, warts… I have some
 very interesting stuff
 
 87
@@ -10420,7 +10420,7 @@ Alice.
 
 91
 00:04:00,765 --> 00:04:02,222
-You're, uh...
+You're, uh…
 
 92
 00:04:03,434 --> 00:04:04,702
@@ -10461,15 +10461,15 @@ I mean that in the best way.
 100
 00:04:26,256 --> 00:04:28,394
 - Excuse me.
-- Wa...
+- Wa…
 
 101
 00:04:31,962 --> 00:04:35,230
-I feel really terrible about, um...
+I feel really terrible about, um…
 
 102
 00:04:35,265 --> 00:04:37,658
-I just thought... I wouldn't be
+I just thought… I wouldn't be
 standing here talking to me
 
 103
@@ -10478,7 +10478,7 @@ if I were you.
 
 104
 00:04:39,436 --> 00:04:41,141
-I don't...
+I don't…
 
 105
 00:04:41,971 --> 00:04:44,239
@@ -10491,7 +10491,7 @@ my brother died five years ago.
 
 107
 00:04:48,040 --> 00:04:49,477
-Still, I...
+Still, I…
 
 108
 00:04:49,513 --> 00:04:51,642
@@ -10805,7 +10805,7 @@ new therapies.
 
 179
 00:09:18,638 --> 00:09:20,444
-Um, do you...
+Um, do you…
 
 180
 00:09:22,007 --> 00:09:23,474
@@ -10813,7 +10813,7 @@ Uh, do you feel sick?
 
 181
 00:09:23,808 --> 00:09:25,800
-Eh, I feel...
+Eh, I feel…
 
 182
 00:09:26,145 --> 00:09:27,497
@@ -10835,7 +10835,7 @@ That's why I went in.
 
 186
 00:09:36,188 --> 00:09:37,933
-As yet, I, uh...
+As yet, I, uh…
 
 187
 00:09:38,791 --> 00:09:41,158
@@ -10844,7 +10844,7 @@ I suppose,
 
 188
 00:09:41,193 --> 00:09:43,159
-but the truth is, I just...
+but the truth is, I just…
 
 189
 00:09:43,198 --> 00:09:46,196
@@ -10932,7 +10932,7 @@ Go on. Dump it out.
 207
 00:10:41,018 --> 00:10:43,484
 I'll give you 20 bucks right now
-if there isn't a...
+if there isn't a…
 
 208
 00:10:43,520 --> 00:10:46,182
@@ -10975,7 +10975,7 @@ you're not taking them.
 216
 00:11:02,872 --> 00:11:05,540
 I don't need them.
-I am... I'm better.
+I am… I'm better.
 
 217
 00:11:05,575 --> 00:11:07,742
@@ -10984,7 +10984,7 @@ to pick a fight with you, son.
 
 218
 00:11:08,035 --> 00:11:10,066
-I'm just trying to...
+I'm just trying to…
 
 219
 00:11:10,480 --> 00:11:12,012
@@ -11062,7 +11062,7 @@ selected by a mentor.
 235
 00:11:59,027 --> 00:12:01,094
 We're such good friends,
-I just...
+I just…
 
 236
 00:12:01,129 --> 00:12:03,128
@@ -11139,7 +11139,7 @@ A happy housewife?
 
 253
 00:12:50,243 --> 00:12:52,625
-Better. Not, uh...
+Better. Not, uh…
 
 254
 00:12:52,809 --> 00:12:54,812
@@ -11228,18 +11228,18 @@ not to pursue treatment
 
 274
 00:14:04,248 --> 00:14:08,146
-- without talking...
+- without talking…
 - My doctors agree with me, Q.
 
 275
 00:14:08,652 --> 00:14:12,587
 The type of tumor it is,
-where it's located...
+where it's located…
 
 276
 00:14:12,816 --> 00:14:15,415
 the person who comes
-out of surgery...
+out of surgery…
 
 277
 00:14:16,793 --> 00:14:18,512
@@ -11338,7 +11338,7 @@ They match my 401k up to 6%.
 
 299
 00:15:37,838 --> 00:15:40,468
-- It's just... it's crazy.
+- It's just… it's crazy.
 - Dr. Meers?
 
 300
@@ -11406,7 +11406,7 @@ must have tried.
 315
 00:16:19,749 --> 00:16:21,449
 I mean, look, even
-if it's experimental, I...
+if it's experimental, I…
 
 316
 00:16:21,484 --> 00:16:24,785
@@ -11446,7 +11446,7 @@ Thank you.
 
 324
 00:16:43,438 --> 00:16:45,405
-Fair warning...
+Fair warning…
 
 325
 00:16:45,440 --> 00:16:48,408
@@ -11468,7 +11468,7 @@ I love you.
 
 329
 00:17:04,744 --> 00:17:06,558
-Oh...
+Oh…
 
 330
 00:17:06,594 --> 00:17:09,095
@@ -11578,7 +11578,7 @@ in the middle of the night,
 353
 00:19:02,473 --> 00:19:05,107
 never mind she's
-a little intense...
+a little intense…
 
 354
 00:19:07,311 --> 00:19:08,841
@@ -11821,7 +11821,7 @@ on you as a kid,
 408
 00:24:02,246 --> 00:24:04,645
 what happens now,
-like your dad...
+like your dad…
 
 409
 00:24:07,684 --> 00:24:11,052
@@ -11842,11 +11842,11 @@ What kind of system is that?
 
 413
 00:24:19,763 --> 00:24:21,953
-You know, why can't it run on...
+You know, why can't it run on…
 
 414
 00:24:22,164 --> 00:24:24,038
-love...
+love…
 
 415
 00:24:24,434 --> 00:24:27,301
@@ -11868,7 +11868,7 @@ Lie back and try and enjoy it.
 419
 00:24:50,759 --> 00:24:53,159
 - Pete sent me.
-- Uh...
+- Uh…
 
 420
 00:24:54,696 --> 00:24:57,697
@@ -11877,11 +11877,11 @@ Lie back and try and enjoy it.
 
 421
 00:25:02,738 --> 00:25:04,604
-Um...
+Um…
 
 422
 00:25:04,640 --> 00:25:06,440
-Uh, yeah. Um...
+Uh, yeah. Um…
 
 423
 00:25:06,663 --> 00:25:08,180
@@ -11889,11 +11889,11 @@ Welcome.
 
 424
 00:25:10,578 --> 00:25:13,272
-So... what's your name?
+So… what's your name?
 
 425
 00:25:17,218 --> 00:25:19,185
-Wa... this is it?
+Wa… this is it?
 
 426
 00:25:19,220 --> 00:25:21,687
@@ -11937,7 +11937,7 @@ You joining the navy?
 
 435
 00:26:01,461 --> 00:26:02,824
-Hey...
+Hey…
 
 436
 00:26:03,697 --> 00:26:05,437
@@ -11999,7 +11999,7 @@ I'm serious.
 
 449
 00:26:45,337 --> 00:26:47,653
-Hmm, well...
+Hmm, well…
 
 450
 00:26:48,040 --> 00:26:49,939
@@ -12241,7 +12241,7 @@ Hello?
 
 505
 00:30:03,594 --> 00:30:05,861
-No...
+No…
 
 506
 00:30:05,897 --> 00:30:07,530
@@ -12400,7 +12400,7 @@ Long Island iced tea, Alice.
 
 541
 00:32:07,500 --> 00:32:09,633
-Eliot, I... oh, sorry.
+Eliot, I… oh, sorry.
 
 542
 00:32:09,911 --> 00:32:11,235
@@ -12553,7 +12553,7 @@ for everyone else.
 
 576
 00:34:15,657 --> 00:34:17,491
-- I was just...
+- I was just…
 - The best magicians
 
 577
@@ -12609,7 +12609,7 @@ and the marble."
 
 588
 00:34:52,425 --> 00:34:54,526
-- I read it. I just...
+- I read it. I just…
 - But you didn't listen,
 
 589
@@ -12676,7 +12676,7 @@ Dad?
 603
 00:35:48,213 --> 00:35:50,053
 - Dad?
-- Yeah...
+- Yeah…
 
 604
 00:35:54,485 --> 00:35:56,518
@@ -12684,7 +12684,7 @@ Hmm? It's okay.
 
 605
 00:35:56,554 --> 00:35:58,921
-I'm just, uh...
+I'm just, uh…
 I'm just a little tired.
 
 606
@@ -12742,7 +12742,7 @@ You usually get me a scone too.
 
 619
 00:37:34,322 --> 00:37:35,314
-Um...
+Um…
 
 620
 00:37:35,349 --> 00:37:37,817
@@ -12755,7 +12755,7 @@ like, a lot. Uh, anyways,
 622
 00:37:40,221 --> 00:37:43,790
 listen, uh, 'cause this
-is important, so...
+is important, so…
 
 623
 00:37:43,825 --> 00:37:46,625
@@ -12875,7 +12875,7 @@ I tried to get into alumni week.
 
 649
 00:39:01,656 --> 00:39:03,222
-I just... I'm sorry.
+I just… I'm sorry.
 
 650
 00:39:03,257 --> 00:39:06,025
@@ -12889,7 +12889,7 @@ throwing huge parties.
 
 652
 00:39:10,798 --> 00:39:13,165
-Honestly...
+Honestly…
 What do you care about?
 
 653
@@ -12904,7 +12904,7 @@ the perfect place to be.
 
 655
 00:39:21,242 --> 00:39:22,474
-Oh...
+Oh…
 
 656
 00:39:22,510 --> 00:39:26,106
@@ -12963,7 +12963,7 @@ Sure.
 
 668
 00:40:03,465 --> 00:40:05,378
-Well...
+Well…
 
 669
 00:40:05,684 --> 00:40:07,985
@@ -13020,7 +13020,7 @@ Lab partners?
 
 681
 00:40:50,561 --> 00:40:52,234
-About your dad...
+About your dad…
 
 682
 00:40:53,498 --> 00:40:54,897
@@ -13045,11 +13045,11 @@ You can get through this.
 687
 00:41:18,055 --> 00:41:20,585
 I wasn't sure
-if you were gonna, um...
+if you were gonna, um…
 
 688
 00:41:21,558 --> 00:41:22,828
-I...
+I…
 
 689
 00:41:24,294 --> 00:41:26,244
@@ -13079,7 +13079,7 @@ Penny, they're involved.
 
 695
 00:41:52,644 --> 00:41:54,029
-Fu...
+Fu…
 
 696
 00:41:55,296 --> 00:41:58,559
@@ -13092,7 +13092,7 @@ This was on the walls.
 
 698
 00:42:00,963 --> 00:42:02,896
-It's a...
+It's a…
 
 699
 00:42:10,272 --> 00:42:12,405
@@ -13100,7 +13100,7 @@ That's Ember's seal.
 
 700
 00:42:18,579 --> 00:42:19,834
-Uh...
+Uh…
 
 701
 00:42:30,677 --> 00:42:32,841
@@ -13115,7 +13115,7 @@ www.addic7ed.com
 
 1
 00:00:00,059 --> 00:00:01,435
-Previously on <i>"The Magicians..."</i>
+Previously on <i>"The Magicians…"</i>
 
 2
 00:00:01,555 --> 00:00:02,988
@@ -13452,7 +13452,7 @@ Yeah.
 
 74
 00:02:54,834 --> 00:02:57,033
-As a kid...
+As a kid…
 
 75
 00:02:58,937 --> 00:03:00,670
@@ -13555,7 +13555,7 @@ They are good.
 
 98
 00:04:01,298 --> 00:04:02,631
-Just give them a try, but...
+Just give them a try, but…
 
 99
 00:04:02,732 --> 00:04:07,169
@@ -13587,7 +13587,7 @@ into ink spells in high school.
 
 105
 00:04:26,422 --> 00:04:28,022
-It's not the Mona Lisa, but...
+It's not the Mona Lisa, but…
 
 106
 00:04:28,124 --> 00:04:30,758
@@ -13629,7 +13629,7 @@ My mom died young.
 
 115
 00:04:53,582 --> 00:04:54,848
-And...
+And…
 
 116
 00:04:54,950 --> 00:04:58,451
@@ -13675,7 +13675,7 @@ I still hear her, though.
 
 125
 00:05:24,546 --> 00:05:26,746
-That girl from the dungeon...
+That girl from the dungeon…
 
 126
 00:05:26,848 --> 00:05:29,414
@@ -14077,7 +14077,7 @@ Why our team name is
 
 217
 00:11:16,403 --> 00:11:18,569
-I'm not a...
+I'm not a…
 [stuttering]
 
 218
@@ -14195,7 +14195,7 @@ want exactly?
 
 243
 00:12:28,772 --> 00:12:30,572
-Well...
+Well…
 
 244
 00:12:30,674 --> 00:12:34,309
@@ -14228,7 +14228,7 @@ can really do things,
 
 250
 00:12:49,259 --> 00:12:51,493
-if...
+if…
 
 251
 00:12:51,595 --> 00:12:54,996
@@ -14321,7 +14321,7 @@ I miss the feeling, you know.
 
 271
 00:13:48,249 --> 00:13:51,773
-Welcome...
+Welcome…
 à la Safe House Julia.
 
 272
@@ -14376,7 +14376,7 @@ I helped her do it.
 
 284
 00:14:45,404 --> 00:14:46,903
-She has...
+She has…
 
 285
 00:14:47,005 --> 00:14:50,173
@@ -14522,7 +14522,7 @@ Enough to know they're strong.
 317
 00:16:00,409 --> 00:16:02,176
 But not enough
-to break them, so...
+to break them, so…
 
 318
 00:16:02,278 --> 00:16:03,744
@@ -14568,7 +14568,7 @@ Here.
 
 328
 00:16:25,367 --> 00:16:28,368
-Mm, what we need...
+Mm, what we need…
 
 329
 00:16:28,470 --> 00:16:30,504
@@ -14838,7 +14838,7 @@ We're gonna start our own house.
 390
 00:19:54,654 --> 00:19:58,389
 Nothing crazy,
-but it'll be safe...
+but it'll be safe…
 
 391
 00:19:58,491 --> 00:20:00,357
@@ -15098,11 +15098,11 @@ to Fillory
 
 448
 00:22:42,082 --> 00:22:44,449
-"in the clock or the closet...
+"in the clock or the closet…
 
 449
 00:22:44,551 --> 00:22:46,578
-or my panties..."
+or my panties…"
 
 450
 00:22:48,481 --> 00:22:50,302
@@ -15177,7 +15177,7 @@ And he went there.
 
 467
 00:23:19,450 --> 00:23:21,016
-And...
+And…
 
 468
 00:23:21,119 --> 00:23:22,884
@@ -15255,7 +15255,7 @@ I just--I--
 
 484
 00:24:04,193 --> 00:24:06,260
-I find that...
+I find that…
 
 485
 00:24:06,362 --> 00:24:07,762
@@ -15392,7 +15392,7 @@ So, this is my next test?
 
 516
 00:25:49,256 --> 00:25:50,822
-I'm supposed to...
+I'm supposed to…
 
 517
 00:25:50,924 --> 00:25:52,390
@@ -15451,7 +15451,7 @@ Totally hilarious.
 
 530
 00:26:48,546 --> 00:26:51,881
-Oh, and to help you out...
+Oh, and to help you out…
 
 531
 00:26:53,318 --> 00:26:54,584
@@ -15863,7 +15863,7 @@ into firewood,
 625
 00:31:46,167 --> 00:31:47,900
 whip us up
-a little grilled salmon...
+a little grilled salmon…
 
 626
 00:31:48,003 --> 00:31:50,236
@@ -16152,7 +16152,7 @@ make things easier.
 691
 00:36:23,782 --> 00:36:25,617
 You know, I always thought
-when...
+when…
 
 692
 00:36:26,087 --> 00:36:29,134
@@ -16238,7 +16238,7 @@ Okay.
 
 710
 00:37:53,271 --> 00:37:55,972
-Ah...
+Ah…
 
 711
 00:37:56,075 --> 00:37:59,309
@@ -16302,7 +16302,7 @@ Penny, you don't have to.
 
 725
 00:38:42,676 --> 00:38:44,942
-Look, I'm not...
+Look, I'm not…
 scared to tell you this
 
 726
@@ -16423,7 +16423,7 @@ three,
 
 753
 00:39:55,389 --> 00:39:57,956
-two...
+two…
 
 754
 00:39:58,058 --> 00:40:00,992
@@ -16491,7 +16491,7 @@ I always hold back, Quentin.
 768
 00:40:46,438 --> 00:40:47,838
 Every single day.
-I mean...
+I mean…
 
 769
 00:40:47,940 --> 00:40:52,542
@@ -16518,7 +16518,7 @@ She's right.
 
 774
 00:41:08,659 --> 00:41:12,561
-I run and I...
+I run and I…
 
 775
 00:41:12,663 --> 00:41:15,731
@@ -16594,7 +16594,7 @@ Alice, I--
 
 1
 00:00:00,209 --> 00:00:02,078
-<i>Previously on "The Magicians"...</i>
+<i>Previously on "The Magicians"…</i>
 
 2
 00:00:02,079 --> 00:00:04,628
@@ -16625,7 +16625,7 @@ There you are.
 
 8
 00:00:19,077 --> 00:00:21,080
-All we can do is...
+All we can do is…
 
 9
 00:00:21,081 --> 00:00:24,854
@@ -16780,7 +16780,7 @@ Says she's your sister.
 
 44
 00:02:37,291 --> 00:02:41,298
-We flew...
+We flew…
 
 45
 00:02:41,333 --> 00:02:43,336
@@ -16814,7 +16814,7 @@ all of it, like-
 
 52
 00:03:01,240 --> 00:03:03,610
-Everything fit...
+Everything fit…
 
 53
 00:03:03,646 --> 00:03:05,882
@@ -16835,7 +16835,7 @@ I never shit so much in my life.
 57
 00:03:22,717 --> 00:03:26,724
 But at least I got
-to eat bugs, so...that.
+to eat bugs, so…that.
 
 58
 00:03:26,725 --> 00:03:31,434
@@ -17056,7 +17056,7 @@ Yes,
 
 108
 00:06:50,307 --> 00:06:53,813
-but this...
+but this…
 
 109
 00:06:53,848 --> 00:06:56,017
@@ -17064,7 +17064,7 @@ screams "Ibiza."
 
 110
 00:06:58,991 --> 00:07:00,961
-Hey, so Ibiza...
+Hey, so Ibiza…
 
 111
 00:07:00,995 --> 00:07:02,163
@@ -17090,7 +17090,7 @@ but you have to be invited
 
 116
 00:07:11,650 --> 00:07:13,153
-by people who've been...
+by people who've been…
 
 117
 00:07:13,154 --> 00:07:15,557
@@ -17220,7 +17220,7 @@ and for fun, someone-
 
 146
 00:08:29,909 --> 00:08:32,580
-- someone not us...
+- someone not us…
 - No, not us.
 
 147
@@ -17239,11 +17239,11 @@ Okay.
 
 150
 00:08:46,577 --> 00:08:49,014
-Well, I'm just gonna...
+Well, I'm just gonna…
 
 151
 00:08:49,048 --> 00:08:52,153
-I'm gonna...
+I'm gonna…
 
 152
 00:08:55,195 --> 00:08:59,702
@@ -17391,7 +17391,7 @@ You should just throw it out.
 
 186
 00:12:25,571 --> 00:12:27,341
-Okay, thanks...
+Okay, thanks…
 
 187
 00:12:30,782 --> 00:12:34,221
@@ -17586,7 +17586,7 @@ up to speed.
 
 231
 00:15:58,171 --> 00:16:01,543
-James doesn't remember me...
+James doesn't remember me…
 at all.
 
 232
@@ -17776,7 +17776,7 @@ Mind control.
 
 274
 00:18:06,971 --> 00:18:09,342
-And these...
+And these…
 
 275
 00:18:11,481 --> 00:18:13,941
@@ -17784,7 +17784,7 @@ Are your first subjects.
 
 276
 00:18:15,188 --> 00:18:17,392
-Uh...
+Uh…
 
 277
 00:18:17,426 --> 00:18:19,362
@@ -18049,7 +18049,7 @@ In one case, surprising.
 
 337
 00:22:12,672 --> 00:22:13,932
-The other...
+The other…
 
 338
 00:22:21,757 --> 00:22:24,829
@@ -18078,7 +18078,7 @@ of sentient life.
 
 344
 00:22:40,461 --> 00:22:43,467
-I deem that...
+I deem that…
 
 345
 00:22:43,502 --> 00:22:45,638
@@ -18259,7 +18259,7 @@ to tell you anything.
 
 387
 00:25:03,236 --> 00:25:06,075
-I just have to drop my wards...
+I just have to drop my wards…
 
 388
 00:25:06,076 --> 00:25:08,112
@@ -18275,11 +18275,11 @@ Come on in.
 
 391
 00:25:34,968 --> 00:25:37,104
-Your mom...
+Your mom…
 
 392
 00:25:41,413 --> 00:25:43,283
-Jesus, she...
+Jesus, she…
 
 393
 00:25:46,992 --> 00:25:49,763
@@ -18388,7 +18388,7 @@ to get to know each other.
 416
 00:27:20,682 --> 00:27:23,287
 We'll give it a whirl
-after Ibiza...
+after Ibiza…
 
 417
 00:27:23,288 --> 00:27:26,761
@@ -18497,7 +18497,7 @@ Do it.
 
 441
 00:30:09,417 --> 00:30:10,851
-Being out there without fur...
+Being out there without fur…
 
 442
 00:30:10,852 --> 00:30:12,172
@@ -18510,7 +18510,7 @@ It's brutal.
 
 444
 00:30:39,176 --> 00:30:41,214
-Uh...
+Uh…
 
 445
 00:30:41,248 --> 00:30:43,017
@@ -18592,7 +18592,7 @@ God damn it, Margo.
 
 463
 00:31:27,174 --> 00:31:28,743
-Okay, just...
+Okay, just…
 
 464
 00:31:28,778 --> 00:31:31,816
@@ -18610,7 +18610,7 @@ What does that even mean?
 467
 00:31:36,760 --> 00:31:41,369
 It would be the place where
-you first saw him...maybe?
+you first saw him…maybe?
 
 468
 00:31:41,370 --> 00:31:46,246
@@ -18711,7 +18711,7 @@ You don't have to say anything.
 
 491
 00:32:41,893 --> 00:32:43,529
-Just...
+Just…
 
 492
 00:32:43,564 --> 00:32:46,469
@@ -18829,7 +18829,7 @@ through the school
 518
 00:34:46,413 --> 00:34:50,655
 and only just now realized
-who she was...to you.
+who she was…to you.
 
 519
 00:34:50,656 --> 00:34:53,176
@@ -18841,7 +18841,7 @@ You are now free of Marina.
 
 521
 00:35:00,843 --> 00:35:03,614
-But also...
+But also…
 
 522
 00:35:03,649 --> 00:35:07,589
@@ -18869,7 +18869,7 @@ than their punishment,
 
 527
 00:35:22,153 --> 00:35:24,357
-which would be...
+which would be…
 
 528
 00:35:24,391 --> 00:35:27,463
@@ -18949,7 +18949,7 @@ I mean yes, but that's not why.
 546
 00:37:02,384 --> 00:37:06,058
 I-Mike-Ibiza's not
-really his thing, so...
+really his thing, so…
 
 547
 00:37:06,059 --> 00:37:07,093
@@ -19022,7 +19022,7 @@ so don't talk.
 
 564
 00:37:41,364 --> 00:37:43,668
-Um...
+Um…
 
 565
 00:37:43,702 --> 00:37:45,572
@@ -19052,7 +19052,7 @@ Come back to bed.
 
 571
 00:39:20,065 --> 00:39:22,068
-Be right there...
+Be right there…
 
 572
 00:39:31,890 --> 00:39:34,527
@@ -19123,7 +19123,7 @@ You're welcome.
 
 588
 00:40:19,987 --> 00:40:21,322
-Quentin...
+Quentin…
 
 589
 00:40:21,357 --> 00:40:23,426
@@ -19144,7 +19144,7 @@ The fox knows
 
 593
 00:40:31,377 --> 00:40:34,716
-and I knew...
+and I knew…
 
 594
 00:40:34,751 --> 00:40:37,321
@@ -19161,7 +19161,7 @@ but to be happy.
 
 597
 00:40:42,500 --> 00:40:44,736
-I was...
+I was…
 
 598
 00:40:44,771 --> 00:40:46,340
@@ -19196,7 +19196,7 @@ www.addic7ed.com</font>
 
 1
 00:00:00,211 --> 00:00:01,625
-<i>Previously on "The Magicians"...</i>
+<i>Previously on "The Magicians"…</i>
 
 2
 00:00:01,745 --> 00:00:04,094
@@ -19490,7 +19490,7 @@ but not the next four.
 
 67
 00:03:24,348 --> 00:03:27,683
-- You were...counting?
+- You were…counting?
 - Of course I was counting.
 
 68
@@ -19553,7 +19553,7 @@ I know it wasn't really you.
 
 81
 00:03:58,849 --> 00:04:02,051
-I think that we need to...
+I think that we need to…
 spend some time apart,
 
 82
@@ -19691,7 +19691,7 @@ with me?
 
 111
 00:05:20,664 --> 00:05:23,366
-You teach me...
+You teach me…
 
 112
 00:05:23,467 --> 00:05:26,736
@@ -19820,7 +19820,7 @@ study group?
 
 140
 00:07:03,767 --> 00:07:06,068
-Hell is real...
+Hell is real…
 
 141
 00:07:06,169 --> 00:07:09,038
@@ -19869,7 +19869,7 @@ I just came here to talk.
 151
 00:09:11,473 --> 00:09:15,042
 I'd say let's grab a drink
-and hash shit out, but...
+and hash shit out, but…
 
 152
 00:09:15,143 --> 00:09:16,744
@@ -19918,7 +19918,7 @@ I don't let in a lot of people.
 
 162
 00:09:46,608 --> 00:09:48,876
-And the ones I do...
+And the ones I do…
 
 163
 00:09:48,977 --> 00:09:53,614
@@ -20479,7 +20479,7 @@ And, I mean, I feel like
 286
 00:16:00,048 --> 00:16:03,016
 I should be doing stuff
-like this for you, but...
+like this for you, but…
 
 287
 00:16:03,117 --> 00:16:07,574
@@ -20524,7 +20524,7 @@ Not when you're from Texas.
 
 296
 00:16:27,049 --> 00:16:29,175
-Um...
+Um…
 
 297
 00:16:30,378 --> 00:16:32,412
@@ -20562,11 +20562,11 @@ Um, that was a joke.
 
 305
 00:17:00,663 --> 00:17:03,665
-I was...
+I was…
 
 306
 00:17:03,766 --> 00:17:06,601
-born in Indiana...
+born in Indiana…
 
 307
 00:17:06,703 --> 00:17:08,904
@@ -20595,7 +20595,7 @@ creative project of my life.
 
 313
 00:17:25,221 --> 00:17:26,988
-So...
+So…
 
 314
 00:17:27,090 --> 00:17:29,825
@@ -20609,7 +20609,7 @@ my secret partner in the Trials.
 
 316
 00:17:34,063 --> 00:17:36,732
-Everyone else, I...
+Everyone else, I…
 
 317
 00:17:36,833 --> 00:17:38,533
@@ -20634,7 +20634,7 @@ Just you.
 
 322
 00:17:56,586 --> 00:17:58,954
-Um, well...
+Um, well…
 
 323
 00:18:01,758 --> 00:18:03,658
@@ -20859,7 +20859,7 @@ but Fogg wouldn't let us
 
 372
 00:20:51,064 --> 00:20:52,398
-leave the building until...
+leave the building until…
 
 373
 00:20:52,499 --> 00:20:54,934
@@ -20915,7 +20915,7 @@ but it will do.
 
 384
 00:21:28,301 --> 00:21:30,636
-Where is the weapon...
+Where is the weapon…
 
 385
 00:21:30,737 --> 00:21:32,638
@@ -21144,7 +21144,7 @@ How do you fix it?
 
 435
 00:23:28,189 --> 00:23:30,824
-Without seeing the knife I...
+Without seeing the knife I…
 
 436
 00:23:30,925 --> 00:23:32,492
@@ -21334,13 +21334,13 @@ You heard of it?
 
 479
 00:25:56,704 --> 00:26:00,039
-Yeah. Well...
+Yeah. Well…
 I sort of checked myself
 
 480
 00:26:00,141 --> 00:26:02,876
 in here to get away
-from magic, so...
+from magic, so…
 
 481
 00:26:02,977 --> 00:26:05,945
@@ -21427,7 +21427,7 @@ Right.
 
 500
 00:26:53,127 --> 00:26:56,362
-But...
+But…
 
 501
 00:26:56,463 --> 00:26:58,565
@@ -21474,7 +21474,7 @@ who wasn't a Healing Student.
 
 511
 00:27:34,869 --> 00:27:36,836
-And since Kady's not here...
+And since Kady's not here…
 
 512
 00:27:38,472 --> 00:27:40,473
@@ -21521,7 +21521,7 @@ ripcord at a moment's notice.
 521
 00:27:59,193 --> 00:28:01,961
 Like if you're messing around
-with some loser who...
+with some loser who…
 
 522
 00:28:02,062 --> 00:28:06,032
@@ -21777,7 +21777,7 @@ to blind people.
 578
 00:30:54,688 --> 00:30:57,557
 My glasses only show me
-your outline...vaguely.
+your outline…vaguely.
 
 579
 00:30:57,658 --> 00:31:00,560
@@ -21787,7 +21787,7 @@ by wolves for a time.
 580
 00:31:00,661 --> 00:31:03,730
 The knife
-that Penny was stabbed with...
+that Penny was stabbed with…
 
 581
 00:31:03,831 --> 00:31:05,431
@@ -21815,7 +21815,7 @@ much sooner.
 586
 00:31:17,244 --> 00:31:20,446
 Quentin's the most at risk,
-but if Penny dies...
+but if Penny dies…
 
 587
 00:31:20,548 --> 00:31:23,316
@@ -21956,7 +21956,7 @@ of where it came from.
 
 617
 00:32:36,423 --> 00:32:39,325
-<i>Jane's mother gave it to her...</i>
+<i>Jane's mother gave it to her…</i>
 
 618
 00:32:39,426 --> 00:32:41,427
@@ -22029,7 +22029,7 @@ I beseech and devote myself.
 
 633
 00:33:52,366 --> 00:33:55,968
-I plead and promise myself...
+I plead and promise myself…
 
 634
 00:33:56,070 --> 00:33:57,837
@@ -22314,7 +22314,7 @@ It felt good.
 
 697
 00:37:12,348 --> 00:37:14,917
-It felt...dangerous.
+It felt…dangerous.
 
 698
 00:37:17,921 --> 00:37:20,923
@@ -22509,7 +22509,7 @@ what are you waiting for?
 
 740
 00:39:15,538 --> 00:39:18,507
-Oh, I was waiting...
+Oh, I was waiting…
 
 741
 00:39:18,608 --> 00:39:19,975
@@ -22617,7 +22617,7 @@ www.addic7ed.com</font>
 
 1
 00:00:00,258 --> 00:00:01,909
-<i>Previously on "The Magicians..."</i>
+<i>Previously on "The Magicians…"</i>
 
 2
 00:00:01,915 --> 00:00:05,645
@@ -22725,7 +22725,7 @@ to avoid that.
 
 26
 00:00:57,061 --> 00:01:00,417
-Did you... Okay, come on.
+Did you… Okay, come on.
 
 27
 00:01:00,424 --> 00:01:03,718
@@ -22866,7 +22866,7 @@ No.
 
 60
 00:02:40,481 --> 00:02:42,377
-I... I know what it is.
+I… I know what it is.
 
 61
 00:02:43,445 --> 00:02:44,759
@@ -22919,7 +22919,7 @@ What?
 
 73
 00:03:20,182 --> 00:03:21,973
-No, I just didn't know that you had...
+No, I just didn't know that you had…
 
 74
 00:03:21,981 --> 00:03:23,730
@@ -23182,7 +23182,7 @@ this is a no-rules zone,
 
 136
 00:06:07,894 --> 00:06:10,929
-except one... You
+except one… You
 gotta be the vibe.
 
 137
@@ -23200,7 +23200,7 @@ I have no idea what you just said.
 
 140
 00:06:22,238 --> 00:06:24,569
-Good to see you, uh...
+Good to see you, uh…
 
 141
 00:06:24,575 --> 00:06:26,618
@@ -23243,7 +23243,7 @@ There's no door.
 
 150
 00:06:44,138 --> 00:06:50,313
-True, but the trade-off...
+True, but the trade-off…
 Is this.
 
 151
@@ -23282,7 +23282,7 @@ Whoo-hoo.
 
 159
 00:07:13,627 --> 00:07:17,420
-How? I... Two words...
+How? I… Two words…
 who cares?
 
 160
@@ -23291,7 +23291,7 @@ who cares?
 
 161
 00:07:33,125 --> 00:07:36,356
-Oh, my gosh, this feels...
+Oh, my gosh, this feels…
 
 162
 00:07:36,359 --> 00:07:43,318
@@ -23363,7 +23363,7 @@ You know, it's obviously different here.
 
 178
 00:08:32,390 --> 00:08:36,558
-Maybe... maybe they're different.
+Maybe… maybe they're different.
 
 179
 00:08:38,442 --> 00:08:41,641
@@ -23438,7 +23438,7 @@ There is some good news.
 
 196
 00:09:21,442 --> 00:09:23,341
-You are free...
+You are free…
 
 197
 00:09:24,501 --> 00:09:27,530
@@ -23468,7 +23468,7 @@ Let's see.
 
 203
 00:09:42,318 --> 00:09:43,559
-The serrated spoon... [GASPS]...
+The serrated spoon… [GASPS]…
 
 204
 00:09:43,566 --> 00:09:44,840
@@ -23519,7 +23519,7 @@ The one with the word "infinite" in it.
 
 215
 00:10:07,388 --> 00:10:09,816
-A lot of time to...
+A lot of time to…
 
 216
 00:10:09,821 --> 00:10:12,859
@@ -23527,8 +23527,8 @@ Think on our royal sins and repent.
 
 217
 00:10:12,863 --> 00:10:17,467
-Plan on how best to...
-Meet death...
+Plan on how best to…
+Meet death…
 
 218
 00:10:17,474 --> 00:10:19,646
@@ -23586,7 +23586,7 @@ None of my locator spells are working.
 
 231
 00:10:48,756 --> 00:10:50,028
-I... I don't know where we are.
+I… I don't know where we are.
 
 232
 00:10:50,036 --> 00:10:51,791
@@ -23595,11 +23595,11 @@ a hole in the wall?
 
 233
 00:10:51,797 --> 00:10:54,906
-Sure, go ahead, but...
+Sure, go ahead, but…
 
 234
 00:10:56,568 --> 00:10:58,241
-The only magic that works here is...
+The only magic that works here is…
 
 235
 00:10:58,248 --> 00:10:59,754
@@ -23664,11 +23664,11 @@ so why don't we have a drink?
 
 248
 00:11:27,433 --> 00:11:29,252
-Wait a bit. Wh...
+Wait a bit. Wh…
 
 249
 00:11:29,258 --> 00:11:31,045
-Whoa, whoa, whoa, take it e...
+Whoa, whoa, whoa, take it e…
 
 250
 00:11:31,051 --> 00:11:34,153
@@ -23680,11 +23680,11 @@ Ah. No, no, no, no, no.
 
 252
 00:11:39,589 --> 00:11:41,313
-No, no, no, no. I'm not...
+No, no, no, no. I'm not…
 
 253
 00:11:42,409 --> 00:11:45,599
-♪ Ha... ha... happy birthday to you ♪
+♪ Ha… ha… happy birthday to you ♪
 
 254
 00:11:45,924 --> 00:11:48,981
@@ -23693,7 +23693,7 @@ No, no, no, no. I'm not...
 255
 00:11:49,080 --> 00:11:54,837
 BOTH: [OUT OF TUNE]
-♪ Happy birthday, dear... ♪
+♪ Happy birthday, dear… ♪
 
 256
 00:11:54,925 --> 00:11:58,601
@@ -23772,7 +23772,7 @@ Ah.
 
 274
 00:13:10,249 --> 00:13:13,763
-Here. Here, I...
+Here. Here, I…
 [GASPS] Who are you?
 
 275
@@ -23793,7 +23793,7 @@ You're Skye.
 
 279
 00:13:20,731 --> 00:13:22,966
-Um, my... my friend Fen,
+Um, my… my friend Fen,
 she told me about you,
 
 280
@@ -23900,7 +23900,7 @@ Deal?
 
 304
 00:14:36,102 --> 00:14:37,408
-♪ Got my hair... ♪
+♪ Got my hair… ♪
 
 305
 00:14:37,412 --> 00:14:39,200
@@ -23925,7 +23925,7 @@ We like it in E.
 
 310
 00:14:50,033 --> 00:14:54,186
-That's... an excellent idea. [CHUCKLES]
+That's… an excellent idea. [CHUCKLES]
 
 311
 00:14:54,187 --> 00:14:55,268
@@ -24123,7 +24123,7 @@ we actually saw each other?
 
 357
 00:17:07,691 --> 00:17:09,798
-A couple of weeks ago? I...
+A couple of weeks ago? I…
 
 358
 00:17:09,802 --> 00:17:11,717
@@ -24177,7 +24177,7 @@ you think about me, right?
 
 370
 00:17:43,731 --> 00:17:47,634
-♪ Got my silk net... ♪
+♪ Got my silk net… ♪
 
 371
 00:17:47,635 --> 00:17:49,903
@@ -24197,7 +24197,7 @@ You really contacted a lot.
 
 375
 00:17:56,533 --> 00:17:58,416
-Um, uh, sorry, we were just so...
+Um, uh, sorry, we were just so…
 
 376
 00:17:58,421 --> 00:18:00,048
@@ -24206,7 +24206,7 @@ Narcissistically up your own asses?
 377
 00:18:00,054 --> 00:18:02,866
 Look, you ditched us
-in Fillory, so it's not...
+in Fillory, so it's not…
 
 378
 00:18:02,870 --> 00:18:05,138
@@ -24302,7 +24302,7 @@ You pickpocketed the key?
 
 399
 00:18:58,529 --> 00:19:01,147
-I did... not.
+I did… not.
 
 400
 00:19:01,156 --> 00:19:02,937
@@ -24491,7 +24491,7 @@ You might as well just undo these.
 
 443
 00:20:38,741 --> 00:20:40,211
-I shall...
+I shall…
 
 444
 00:20:41,207 --> 00:20:42,999
@@ -24512,11 +24512,11 @@ How is this not a terrible idea?
 448
 00:21:06,439 --> 00:21:09,347
 Fen, whatever they did,
-they don't deserve to...
+they don't deserve to…
 
 449
 00:21:09,393 --> 00:21:14,355
-I mean, nobody deserves to...
+I mean, nobody deserves to…
 [DOOR SQUEAKS SOFTLY]
 
 450
@@ -24545,7 +24545,7 @@ So after I couldn't find Kady,
 
 456
 00:21:31,958 --> 00:21:34,675
-I called and called and called...
+I called and called and called…
 
 457
 00:21:34,684 --> 00:21:37,465
@@ -24669,7 +24669,7 @@ Not my dick. I gotta crash.
 
 484
 00:22:41,067 --> 00:22:46,605
-Hey, uh... Let you in
+Hey, uh… Let you in
 on a little secret?
 
 485
@@ -24682,7 +24682,7 @@ Get the fuck out.
 
 487
 00:22:52,093 --> 00:22:55,964
-Okay... one, if I'm tripping,
+Okay… one, if I'm tripping,
 keep me on a molly drip.
 
 488
@@ -24708,7 +24708,7 @@ Two, everyone who needs to know.
 
 493
 00:23:10,844 --> 00:23:13,304
-- And three...
+- And three…
 - [CHUCKLES]
 
 494
@@ -24725,7 +24725,7 @@ Well, let's get it.
 
 497
 00:23:19,532 --> 00:23:24,300
-Well... The key
+Well… The key
 
 498
 00:23:24,307 --> 00:23:26,864
@@ -24755,12 +24755,12 @@ if you have one of the keys?
 
 504
 00:23:36,808 --> 00:23:40,326
-And why are they...
+And why are they…
 Yes, we lived it.
 
 505
 00:23:40,334 --> 00:23:43,275
-Uh, have a blast or... all: Adios.
+Uh, have a blast or… all: Adios.
 
 506
 00:23:43,283 --> 00:23:45,454
@@ -24817,7 +24817,7 @@ else you know other than Todd?
 
 518
 00:24:17,548 --> 00:24:19,623
-And I'll get a campus tour as soon as...
+And I'll get a campus tour as soon as…
 
 519
 00:24:19,632 --> 00:24:21,868
@@ -24834,7 +24834,7 @@ bossy with a prancing army
 
 522
 00:24:29,505 --> 00:24:33,157
-that turns psycho the m...
+that turns psycho the m…
 Oh, no.
 
 523
@@ -24853,7 +24853,7 @@ for Todd's pleasure.
 
 526
 00:24:45,403 --> 00:24:47,189
-- Uh...
+- Uh…
 - Wait, that's it.
 
 527
@@ -24863,7 +24863,7 @@ for Todd's pleasure.
 
 528
 00:24:49,795 --> 00:24:50,907
-I think... [POUNDING ON DOOR]
+I think… [POUNDING ON DOOR]
 
 529
 00:24:50,916 --> 00:24:52,133
@@ -25069,7 +25069,7 @@ had the Fifth Key here.
 
 576
 00:27:11,744 --> 00:27:13,307
-The book brought us here, so the...
+The book brought us here, so the…
 
 577
 00:27:13,313 --> 00:27:17,024
@@ -25082,11 +25082,11 @@ Ugh, boy, not working in E.
 579
 00:27:19,974 --> 00:27:22,756
 - What?
-- Uh, just the... the song.
+- Uh, just the… the song.
 
 580
 00:27:22,762 --> 00:27:26,825
-- Not Todd has a fetish for...
+- Not Todd has a fetish for…
 - E.
 
 581
@@ -25325,7 +25325,7 @@ Stop right now.
 
 636
 00:30:19,490 --> 00:30:21,327
-My first Royal Proclamation...
+My first Royal Proclamation…
 
 637
 00:30:21,334 --> 00:30:23,231
@@ -25397,7 +25397,7 @@ It kills them when they use magic.
 
 654
 00:31:30,114 --> 00:31:32,991
-- How could I not...
+- How could I not…
 - Your eyes.
 
 655
@@ -25482,7 +25482,7 @@ Oh, my God, Penny, where are you?
 
 674
 00:32:18,760 --> 00:32:21,252
-I'm... I'm in the Underworld Library.
+I'm… I'm in the Underworld Library.
 
 675
 00:32:21,256 --> 00:32:23,395
@@ -25494,7 +25494,7 @@ I don't know, but we can all hear you.
 
 677
 00:32:25,160 --> 00:32:27,396
-Yeah, can you... can you hear all of us?
+Yeah, can you… can you hear all of us?
 
 678
 00:32:27,400 --> 00:32:29,155
@@ -25503,7 +25503,7 @@ Yeah, can you... can you hear all of us?
 
 679
 00:32:29,160 --> 00:32:32,484
-Um... - Eliot, Margo? - Quentin?
+Um… - Eliot, Margo? - Quentin?
 
 680
 00:32:32,489 --> 00:32:34,276
@@ -25516,7 +25516,7 @@ that must be what it does.
 
 682
 00:32:36,970 --> 00:32:38,884
-It... it links us all up.
+It… it links us all up.
 
 683
 00:32:38,890 --> 00:32:43,466
@@ -25546,7 +25546,7 @@ about to go over a waterfall.
 689
 00:32:57,100 --> 00:32:59,881
 Yeah, complete
-with lacerating rocks, so...
+with lacerating rocks, so…
 
 690
 00:32:59,885 --> 00:33:01,447
@@ -25554,7 +25554,7 @@ Oh, shit, the Infinite Waterfall.
 
 691
 00:33:01,452 --> 00:33:04,041
-Not helping...
+Not helping…
 wait, you guys have magic.
 
 692
@@ -25576,8 +25576,8 @@ Hey, everybody out of my head.
 
 696
 00:33:11,310 --> 00:33:14,123
-Josh... oh, wait, wait,
-wait, wait, I think, um...
+Josh… oh, wait, wait,
+wait, wait, I think, um…
 
 697
 00:33:14,127 --> 00:33:15,689
@@ -25586,7 +25586,7 @@ Look, look, we go back to Brakebills.
 698
 00:33:15,694 --> 00:33:17,469
 And then we get the Time
-Key, and we reverse...
+Key, and we reverse…
 
 699
 00:33:17,476 --> 00:33:18,937
@@ -25604,11 +25604,11 @@ listening to each other.
 702
 00:33:21,808 --> 00:33:24,624
 We're speaking to each other.
-All eight of us. That...
+All eight of us. That…
 
 703
 00:33:25,329 --> 00:33:27,683
-That's what it is, it's unity. Uh...
+That's what it is, it's unity. Uh…
 
 704
 00:33:27,695 --> 00:33:30,894
@@ -25617,7 +25617,7 @@ made for the Quester
 
 705
 00:33:30,896 --> 00:33:32,908
-who always feels left behind. The key...
+who always feels left behind. The key…
 
 706
 00:33:32,913 --> 00:33:34,414
@@ -25625,7 +25625,7 @@ The key needs us to work together.
 
 707
 00:33:34,420 --> 00:33:36,082
-- Um...
+- Um…
 - Oh, bullshit!
 
 708
@@ -25656,7 +25656,7 @@ You know what? Fuck the rule.
 
 714
 00:33:47,063 --> 00:33:49,274
-No, Josh, uh, Josh, just calm down, I...
+No, Josh, uh, Josh, just calm down, I…
 
 715
 00:33:49,279 --> 00:33:50,674
@@ -26065,7 +26065,7 @@ Well, he said you'd ace it.
 
 812
 00:38:20,626 --> 00:38:21,835
-Who said... what?
+Who said… what?
 
 813
 00:38:21,843 --> 00:38:23,917
@@ -26129,7 +26129,7 @@ I need a little me time at the ashram.
 
 827
 00:38:57,622 --> 00:39:03,380
-So... <i>Auf Weidersen.
+So… <i>Auf Weidersen.
 Congratulations.</i>
 
 828
@@ -26192,7 +26192,7 @@ Yep.
 
 1
 00:00:00,175 --> 00:00:01,597
-<i>Previously on "The Magicians"...</i>
+<i>Previously on "The Magicians"…</i>
 
 2
 00:00:01,632 --> 00:00:03,989
@@ -26370,7 +26370,7 @@ Okay, where are we exactly?
 40
 00:02:28,811 --> 00:02:31,562
 - The Neitherlands.
-- And that is...
+- And that is…
 
 41
 00:02:31,597 --> 00:02:34,098
@@ -26640,7 +26640,7 @@ Your lifelong crush.
 100
 00:05:40,452 --> 00:05:42,452
 Dreams are weird.
-People are...
+People are…
 
 101
 00:05:42,454 --> 00:05:44,504
@@ -26921,7 +26921,7 @@ I kept that offline.
 
 161
 00:09:16,351 --> 00:09:20,187
-Uh, so...
+Uh, so…
 what do I call you?
 
 162
@@ -27009,7 +27009,7 @@ Wow.
 
 180
 00:09:59,228 --> 00:10:01,778
-"The," um...
+"The," um…
 
 181
 00:10:01,813 --> 00:10:04,531
@@ -27597,7 +27597,7 @@ in a custodial function,
 311
 00:16:09,482 --> 00:16:12,784
 but labor relations
-have become somewhat...
+have become somewhat…
 
 312
 00:16:12,819 --> 00:16:14,485
@@ -27789,7 +27789,7 @@ It's not gonna bring him back,
 
 354
 00:17:55,471 --> 00:17:57,922
-so I don't want to know...
+so I don't want to know…
 
 355
 00:18:00,844 --> 00:18:02,476
@@ -27816,8 +27816,8 @@ Then what do you want from me?
 
 360
 00:18:11,187 --> 00:18:14,989
-How about...
-hmm...
+How about…
+hmm…
 
 361
 00:18:15,024 --> 00:18:18,326
@@ -27861,7 +27861,7 @@ Excuse me.
 370
 00:18:58,066 --> 00:18:59,986
 Evert second I spend in
-this place, it's just...
+this place, it's just…
 
 371
 00:19:00,185 --> 00:19:02,319
@@ -28035,11 +28035,11 @@ Why can't we just ask?
 
 408
 00:20:38,819 --> 00:20:40,102
-I mean...
+I mean…
 
 409
 00:20:40,104 --> 00:20:41,903
-Okay, so...
+Okay, so…
 
 410
 00:20:43,857 --> 00:20:47,075
@@ -28137,7 +28137,7 @@ if she hadn't come around.
 
 430
 00:21:41,665 --> 00:21:42,831
-Well...
+Well…
 
 431
 00:21:46,253 --> 00:21:48,503
@@ -28384,7 +28384,7 @@ This way, no books get hurt.
 
 485
 00:24:46,900 --> 00:24:49,901
-Ff...
+Ff…
 
 486
 00:24:49,937 --> 00:24:51,653
@@ -28490,11 +28490,11 @@ You said that it was this way.
 508
 00:25:39,282 --> 00:25:41,282
 Yeah, yeah.
-Uh, well...
+Uh, well…
 
 509
 00:25:44,621 --> 00:25:46,621
-Stephanie...
+Stephanie…
 
 510
 00:25:46,623 --> 00:25:48,623
@@ -28806,7 +28806,7 @@ Okay, so how do we cast it?
 578
 00:28:37,844 --> 00:28:41,179
 Well, there are some
-specific requirements...
+specific requirements…
 
 579
 00:28:41,214 --> 00:28:43,765
@@ -28877,7 +28877,7 @@ That gonna be a problem?
 594
 00:29:19,002 --> 00:29:21,336
 - No.
-- Well...
+- Well…
 
 595
 00:29:21,388 --> 00:29:23,671
@@ -29041,7 +29041,7 @@ I wanted a relationship.
 
 632
 00:31:07,033 --> 00:31:08,983
-Margo...
+Margo…
 
 633
 00:31:08,985 --> 00:31:10,618
@@ -29120,7 +29120,7 @@ shitting rainbows of candy.
 
 650
 00:31:58,584 --> 00:32:00,368
-I'll, um...
+I'll, um…
 
 651
 00:32:00,420 --> 00:32:03,754
@@ -29159,7 +29159,7 @@ trying to do a thing here.
 
 659
 00:32:28,564 --> 00:32:30,531
-I...
+I…
 
 660
 00:32:30,566 --> 00:32:34,452
@@ -29205,7 +29205,7 @@ when we're having sex.
 669
 00:32:56,092 --> 00:32:57,975
 I thought I was.
-I don't...
+I don't…
 
 670
 00:32:58,010 --> 00:32:59,477
@@ -29267,7 +29267,7 @@ I mean it.
 
 683
 00:33:28,841 --> 00:33:31,175
-It's just sometimes...
+It's just sometimes…
 
 684
 00:33:31,210 --> 00:33:34,628
@@ -29604,7 +29604,7 @@ a fucking miracle.
 760
 00:37:32,042 --> 00:37:34,126
 - The divine.
-- You're trying to...
+- You're trying to…
 
 761
 00:37:36,297 --> 00:37:38,931
@@ -29879,7 +29879,7 @@ www.addic7ed.com</font>
 
 1
 00:00:00,059 --> 00:00:01,493
-<i>Previously on "The Magicians"...</i>
+<i>Previously on "The Magicians"…</i>
 
 2
 00:00:01,536 --> 00:00:04,784
@@ -30102,7 +30102,7 @@ on an enchanted knife, the Leo.
 
 51
 00:01:47,275 --> 00:01:49,076
-Uh...
+Uh…
 
 52
 00:01:49,111 --> 00:01:50,811
@@ -30142,7 +30142,7 @@ and the guy said,
 
 60
 00:02:07,362 --> 00:02:09,330
-uh...
+uh…
 
 61
 00:02:09,364 --> 00:02:12,066
@@ -30597,7 +30597,7 @@ there is.
 
 164
 00:08:12,225 --> 00:08:16,128
-At least they were, question being...
+At least they were, question being…
 
 165
 00:08:16,163 --> 00:08:17,697
@@ -31063,7 +31063,7 @@ Yeah? Well, what's the plan?
 
 272
 00:13:05,118 --> 00:13:09,488
-Watch...and trust me.
+Watch…and trust me.
 
 273
 00:13:09,522 --> 00:13:12,157
@@ -31118,7 +31118,7 @@ Oh, okay.
 
 285
 00:13:42,253 --> 00:13:44,020
-Uh...
+Uh…
 
 286
 00:13:44,055 --> 00:13:45,622
@@ -31330,7 +31330,7 @@ to talk to you, actually.
 
 334
 00:16:41,265 --> 00:16:42,599
-Okay. Um...
+Okay. Um…
 
 335
 00:16:44,135 --> 00:16:47,937
@@ -31458,11 +31458,11 @@ Hey.
 
 363
 00:18:26,170 --> 00:18:27,503
-Look, um...
+Look, um…
 
 364
 00:18:29,039 --> 00:18:32,675
-So...
+So…
 
 365
 00:18:32,710 --> 00:18:36,346
@@ -31525,7 +31525,7 @@ Okay, now you--is he okay?
 
 378
 00:19:14,985 --> 00:19:18,021
-Yeah, he's extra broody, but...
+Yeah, he's extra broody, but…
 
 379
 00:19:18,055 --> 00:19:19,355
@@ -32076,7 +32076,7 @@ I'm not an idiot, Julia.
 
 504
 00:26:45,247 --> 00:26:47,848
-Julia...
+Julia…
 
 505
 00:26:47,883 --> 00:26:50,051
@@ -32176,7 +32176,7 @@ want--
 
 527
 00:27:51,413 --> 00:27:55,449
-to be whole...
+to be whole…
 
 528
 00:27:55,484 --> 00:27:58,352
@@ -32391,7 +32391,7 @@ for five seconds, please?
 
 577
 00:30:54,629 --> 00:30:57,131
-Honestly...
+Honestly…
 
 578
 00:30:57,165 --> 00:30:58,799
@@ -32526,7 +32526,7 @@ I am trying as hard as I can.
 609
 00:32:43,248 --> 00:32:45,850
 Okay.
-Uh...
+Uh…
 
 610
 00:32:48,821 --> 00:32:52,824
@@ -32618,7 +32618,7 @@ to pull you closer to me.
 
 631
 00:35:13,198 --> 00:35:17,201
-Find me...
+Find me…
 
 632
 00:35:17,269 --> 00:35:19,670
@@ -32919,7 +32919,7 @@ www.addic7ed.com</font>
 
 1
 00:00:00,157 --> 00:00:01,434
-<i>Previously on "The Magicians"...</i>
+<i>Previously on "The Magicians"…</i>
 
 2
 00:00:01,476 --> 00:00:02,476
@@ -33037,7 +33037,7 @@ some serious battle magic.</i>
 
 28
 00:00:43,842 --> 00:00:45,676
-Bottling our emotions...
+Bottling our emotions…
 
 29
 00:00:45,678 --> 00:00:47,511
@@ -33134,15 +33134,15 @@ Just passing the time.
 
 51
 00:02:04,590 --> 00:02:05,756
-So...
+So…
 
 52
 00:02:05,758 --> 00:02:07,924
-Uh, yeah, um...
+Uh, yeah, um…
 
 53
 00:02:07,976 --> 00:02:10,093
-We bring forsythia...
+We bring forsythia…
 
 54
 00:02:10,145 --> 00:02:11,845
@@ -33307,7 +33307,7 @@ Faith.
 
 93
 00:03:53,115 --> 00:03:54,698
-Okay, so...
+Okay, so…
 
 94
 00:03:54,700 --> 00:03:55,699
@@ -33389,7 +33389,7 @@ No, no, no.
 
 112
 00:04:35,707 --> 00:04:37,657
-Magicians...
+Magicians…
 
 113
 00:04:37,709 --> 00:04:40,327
@@ -33496,7 +33496,7 @@ Okay.
 
 137
 00:06:10,035 --> 00:06:12,335
-Look...
+Look…
 
 138
 00:06:17,092 --> 00:06:19,559
@@ -33535,7 +33535,7 @@ try to go get the knife.
 
 146
 00:06:38,330 --> 00:06:40,330
-So...
+So…
 
 147
 00:06:41,617 --> 00:06:43,366
@@ -33775,7 +33775,7 @@ Everything is, um,
 
 202
 00:08:49,244 --> 00:08:50,994
-about to change...
+about to change…
 
 203
 00:08:51,046 --> 00:08:53,329
@@ -33898,7 +33898,7 @@ anyone for triple sec.
 
 231
 00:10:10,575 --> 00:10:13,243
-And...
+And…
 [chuckles]
 
 232
@@ -34000,7 +34000,7 @@ Yeah.
 
 255
 00:11:23,782 --> 00:11:25,148
-Just like...
+Just like…
 [snaps fingers]
 
 256
@@ -34017,7 +34017,7 @@ about Our Lady Underground.
 
 259
 00:11:30,739 --> 00:11:32,322
-Tonight...
+Tonight…
 
 260
 00:11:32,374 --> 00:11:34,157
@@ -34034,7 +34034,7 @@ Dionysus, okay.
 
 263
 00:11:38,914 --> 00:11:40,496
-You, uh...
+You, uh…
 
 264
 00:11:40,498 --> 00:11:43,333
@@ -34701,7 +34701,7 @@ and, oh, much, much more experienced.
 
 421
 00:19:34,148 --> 00:19:36,815
-But...
+But…
 
 422
 00:19:36,817 --> 00:19:39,068
@@ -34734,7 +34734,7 @@ but you haven't.
 
 428
 00:19:52,917 --> 00:19:55,334
-Eliza...
+Eliza…
 
 429
 00:19:55,336 --> 00:19:56,719
@@ -34746,7 +34746,7 @@ Eliza's real name is Jane Chatwin.
 
 431
 00:20:00,808 --> 00:20:03,559
-Oh...
+Oh…
 
 432
 00:20:03,594 --> 00:20:05,594
@@ -34755,7 +34755,7 @@ in the dark with that one.
 
 433
 00:20:05,646 --> 00:20:09,181
-Uh...
+Uh…
 
 434
 00:20:09,233 --> 00:20:11,567
@@ -34808,7 +34808,7 @@ Okay.
 
 445
 00:20:36,377 --> 00:20:38,377
-Uh...
+Uh…
 
 446
 00:20:38,379 --> 00:20:41,630
@@ -35165,7 +35165,7 @@ The whole time, I was right.
 
 529
 00:24:30,124 --> 00:24:32,744
-I don't know what to say, Jules. I...
+I don't know what to say, Jules. I…
 
 530
 00:24:34,048 --> 00:24:35,381
@@ -35174,11 +35174,11 @@ I should have believed you, Jules.
 531
 00:24:35,433 --> 00:24:39,051
 I should have known,
-and I'm--I'm...
+and I'm--I'm…
 
 532
 00:24:39,103 --> 00:24:41,220
-Um...
+Um…
 
 533
 00:24:41,272 --> 00:24:45,057
@@ -35244,12 +35244,12 @@ Okay, all right.
 
 548
 00:25:38,079 --> 00:25:39,445
-Uh...
+Uh…
 [clears throat]
 
 549
 00:25:39,447 --> 00:25:42,031
-So...
+So…
 [sighs]
 
 550
@@ -35604,7 +35604,7 @@ then we could follow 'em in.
 
 631
 00:29:17,215 --> 00:29:18,714
-Uh...
+Uh…
 
 632
 00:29:18,749 --> 00:29:22,668
@@ -36311,7 +36311,7 @@ You can take us.
 
 793
 00:35:31,992 --> 00:35:34,993
-I...
+I…
 
 794
 00:35:35,045 --> 00:35:37,912
@@ -36993,7 +36993,7 @@ She granted every petition.</i>
 26
 00:00:58,121 --> 00:01:00,488
 There was one time
-we didn't all die...
+we didn't all die…
 
 27
 00:01:00,541 --> 00:01:01,873
@@ -37047,7 +37047,7 @@ I was out of my mind.</i>
 
 39
 00:01:21,511 --> 00:01:23,345
-<i>My friends, I just...</i>
+<i>My friends, I just…</i>
 
 40
 00:01:23,347 --> 00:01:25,180
@@ -37193,7 +37193,7 @@ Ah!
 
 73
 00:03:33,643 --> 00:03:35,360
-<i>and it... it was amazing.</i>
+<i>and it… it was amazing.</i>
 
 74
 00:03:35,395 --> 00:03:37,979
@@ -37333,13 +37333,13 @@ to get you to love a place,</i>
 
 105
 00:05:30,560 --> 00:05:33,478
-<i>Oh, uh, oh, so...
+<i>Oh, uh, oh, so…
 if you're a real fan,</i>
 
 106
 00:05:33,513 --> 00:05:35,346
 <i>you totally recognize this
-from the books...</i>
+from the books…</i>
 
 107
 00:05:35,398 --> 00:05:37,182
@@ -37377,7 +37377,7 @@ Iconic.
 114
 00:05:57,838 --> 00:06:01,005
 How are The Witch and The Fool
-supposed to see her...
+supposed to see her…
 
 115
 00:06:04,211 --> 00:06:07,045
@@ -37399,7 +37399,7 @@ Don't.
 
 119
 00:06:18,358 --> 00:06:19,974
-It's... it's enchanted.
+It's… it's enchanted.
 
 120
 00:06:19,976 --> 00:06:21,309
@@ -37459,7 +37459,7 @@ How'd you know the answer?
 
 133
 00:06:57,180 --> 00:06:59,898
-I, uh... read it.
+I, uh… read it.
 
 134
 00:07:01,318 --> 00:07:04,068
@@ -37472,7 +37472,7 @@ Ta-ta!
 
 136
 00:07:07,073 --> 00:07:09,691
-Okay...
+Okay…
 go.
 
 137
@@ -37595,7 +37595,7 @@ given your reputation.
 164
 00:08:27,153 --> 00:08:28,653
 Though if you think it may be
-too difficult...
+too difficult…
 
 165
 00:08:28,688 --> 00:08:30,772
@@ -37604,7 +37604,7 @@ about a blade?
 
 166
 00:08:30,774 --> 00:08:33,941
-- Well, this one...
+- Well, this one…
 - Has to kill a Master Magician.
 
 167
@@ -37705,7 +37705,7 @@ can only be from Earth.
 
 188
 00:09:36,005 --> 00:09:38,339
-So he thinks we're...
+So he thinks we're…
 
 189
 00:09:38,341 --> 00:09:41,342
@@ -37718,7 +37718,7 @@ But years, it'll take him years.
 
 191
 00:09:43,513 --> 00:09:45,063
-How...
+How…
 
 192
 00:09:50,854 --> 00:09:52,520
@@ -37833,7 +37833,7 @@ Right.
 
 217
 00:11:08,431 --> 00:11:10,264
-So there have been 39 others...
+So there have been 39 others…
 
 218
 00:11:10,316 --> 00:11:13,017
@@ -37868,7 +37868,7 @@ Okay.
 
 225
 00:11:27,534 --> 00:11:32,119
-So, okay... I'm the tomato.
+So, okay… I'm the tomato.
 
 226
 00:11:32,172 --> 00:11:34,455
@@ -37880,7 +37880,7 @@ Why is this the last one?
 
 228
 00:11:36,876 --> 00:11:38,342
-Oh...
+Oh…
 
 229
 00:11:40,046 --> 00:11:44,298
@@ -37993,8 +37993,8 @@ No, it's there for a reason.
 
 254
 00:12:58,541 --> 00:13:03,544
-<i>Covering something... recent,
-something tragic...</i>
+<i>Covering something… recent,
+something tragic…</i>
 
 255
 00:13:03,546 --> 00:13:06,964
@@ -38023,7 +38023,7 @@ Julia.
 
 261
 00:13:39,382 --> 00:13:41,332
-If you still care about her...
+If you still care about her…
 
 262
 00:13:41,384 --> 00:13:42,416
@@ -38056,7 +38056,7 @@ could you zoom us forward
 
 269
 00:14:00,486 --> 00:14:02,436
-to the present... our present?
+to the present… our present?
 
 270
 00:14:05,775 --> 00:14:07,608
@@ -38072,7 +38072,7 @@ _
 
 273
 00:14:15,292 --> 00:14:16,292
-Jesus...
+Jesus…
 
 274
 00:14:16,336 --> 00:14:18,619
@@ -38129,7 +38129,7 @@ Come on.
 286
 00:14:52,655 --> 00:14:54,822
 <i>to a world ruled by
-the worst kind of predator...</i>
+the worst kind of predator…</i>
 
 287
 00:14:54,874 --> 00:14:59,543
@@ -38176,7 +38176,7 @@ We worked it out.
 
 297
 00:15:26,689 --> 00:15:28,439
-I wouldn't be here without her, so...
+I wouldn't be here without her, so…
 
 298
 00:15:28,491 --> 00:15:30,858
@@ -38214,7 +38214,7 @@ a bulldog named Bristlycoat.
 305
 00:15:50,430 --> 00:15:53,764
 It's a kind of Phosphoromancy.
-Alice, you could explain it...
+Alice, you could explain it…
 
 306
 00:15:53,800 --> 00:15:56,467
@@ -38304,7 +38304,7 @@ the two of you.
 
 326
 00:17:06,475 --> 00:17:08,008
-Um...
+Um…
 
 327
 00:17:08,060 --> 00:17:11,094
@@ -38356,7 +38356,7 @@ and the only people from Earth
 338
 00:17:45,798 --> 00:17:48,298
 left here now not locked
-in a dungeon...
+in a dungeon…
 
 339
 00:17:48,350 --> 00:17:50,634
@@ -38384,7 +38384,7 @@ No, thank God.
 344
 00:18:00,646 --> 00:18:04,731
 He wants one of us
-to marry her... his daughter.
+to marry her… his daughter.
 
 345
 00:18:04,733 --> 00:18:06,950
@@ -38469,7 +38469,7 @@ or something, right?</i>
 
 363
 00:18:54,283 --> 00:18:57,500
-So what exactly is supposed to...
+So what exactly is supposed to…
 
 364
 00:18:57,536 --> 00:19:00,287
@@ -38542,7 +38542,7 @@ literally for the rest of your life.
 
 380
 00:19:44,499 --> 00:19:47,050
-Here, but when I go back, I can...
+Here, but when I go back, I can…
 
 381
 00:19:50,222 --> 00:19:53,340
@@ -38566,7 +38566,7 @@ I'm doing this.
 
 386
 00:20:09,691 --> 00:20:11,908
-- Eliot...
+- Eliot…
 - Margo.
 
 387
@@ -38605,7 +38605,7 @@ and my thoughts, and my feelings.
 
 395
 00:20:32,764 --> 00:20:35,548
-- Something...
+- Something…
 - Bigger.
 
 396
@@ -38618,7 +38618,7 @@ Queen Margo The Destroyer.
 
 398
 00:20:47,980 --> 00:20:49,562
-Um...
+Um…
 
 399
 00:20:52,567 --> 00:20:57,320
@@ -38766,7 +38766,7 @@ Are none of you Masters?
 432
 00:22:32,624 --> 00:22:34,324
 Okay, I found the castle.
-We can...
+We can…
 
 433
 00:22:34,376 --> 00:22:35,742
@@ -38835,7 +38835,7 @@ Why don't we use a Magician
 447
 00:23:10,105 --> 00:23:11,238
 who's actually been around
-The Beast...
+The Beast…
 
 448
 00:23:11,273 --> 00:23:12,739
@@ -38973,7 +38973,7 @@ Victoria.
 
 478
 00:24:45,784 --> 00:24:47,701
-Whoa... hey, hey.
+Whoa… hey, hey.
 
 479
 00:24:47,753 --> 00:24:50,120
@@ -38982,8 +38982,8 @@ Okay, we're here to get you out.
 
 480
 00:24:50,172 --> 00:24:52,172
-The cuffs...
-I can't...
+The cuffs…
+I can't…
 
 481
 00:24:52,207 --> 00:24:53,457
@@ -39045,7 +39045,7 @@ Have you brought me little cakes?
 495
 00:25:37,086 --> 00:25:39,336
 - No.
-- Uh...
+- Uh…
 
 496
 00:25:39,338 --> 00:25:41,838
@@ -39112,7 +39112,7 @@ What happened?
 
 511
 00:26:21,430 --> 00:26:23,880
-What are you...
+What are you…
 what are you doing here?
 
 512
@@ -39202,7 +39202,7 @@ But you're not a nymph.
 
 532
 00:27:17,569 --> 00:27:20,237
-No, I'm...
+No, I'm…
 
 533
 00:27:21,907 --> 00:27:24,274
@@ -39229,7 +39229,7 @@ kind of a whiny bitch.
 
 538
 00:27:33,619 --> 00:27:34,668
-Q, maybe don't insult...
+Q, maybe don't insult…
 
 539
 00:27:34,703 --> 00:27:37,337
@@ -39314,7 +39314,7 @@ Julia stopped.
 558
 00:28:32,811 --> 00:28:35,345
 I mean, maybe in college,
-but now I totally...
+but now I totally…
 
 559
 00:28:35,347 --> 00:28:39,065
@@ -39348,7 +39348,7 @@ Yes, you need my strength.
 
 566
 00:28:57,169 --> 00:28:59,452
-I will infuse you with...
+I will infuse you with…
 
 567
 00:28:59,505 --> 00:29:02,539
@@ -39400,13 +39400,13 @@ A shroud.
 
 579
 00:29:38,160 --> 00:29:39,492
-- No...
+- No…
 - What?
 
 580
 00:29:39,545 --> 00:29:41,578
 - Crudely made.
-- Ember, no, it's okay...
+- Ember, no, it's okay…
 
 581
 00:29:41,630 --> 00:29:43,914
@@ -39437,17 +39437,17 @@ _
 
 587
 00:29:58,455 --> 00:30:00,456
-- Jules...
+- Jules…
 - Please.
 
 588
 00:30:00,458 --> 00:30:01,583
-Please, don't...
+Please, don't…
 
 589
 00:30:01,703 --> 00:30:03,626
 please don't touch me,
-please don't...
+please don't…
 
 590
 00:30:03,678 --> 00:30:05,461
@@ -39513,7 +39513,7 @@ I wanted to help you so badly.
 
 605
 00:30:50,317 --> 00:30:51,900
-I'm sorry I...
+I'm sorry I…
 
 606
 00:30:51,902 --> 00:30:53,568
@@ -39689,7 +39689,7 @@ to drink from it,</i>
 
 647
 00:33:10,257 --> 00:33:12,541
-<i>it killed...</i>
+<i>it killed…</i>
 
 648
 00:33:12,543 --> 00:33:15,210
@@ -39792,7 +39792,7 @@ had been building up to,</i>
 
 671
 00:34:19,076 --> 00:34:20,642
-<i>And then...</i>
+<i>And then…</i>
 
 672
 00:34:20,728 --> 00:34:23,278
@@ -39805,7 +39805,7 @@ actually happened.</i>
 
 674
 00:34:53,177 --> 00:34:56,311
-It's so insignificant...
+It's so insignificant…
 
 675
 00:34:56,347 --> 00:34:58,013
@@ -39891,7 +39891,7 @@ Almost none of us are the one.
 
 694
 00:35:58,659 --> 00:36:00,125
-Ember said...
+Ember said…
 
 695
 00:36:00,211 --> 00:36:03,662
@@ -39929,7 +39929,7 @@ I do.
 
 703
 00:36:26,854 --> 00:36:29,104
-It's just...
+It's just…
 
 704
 00:36:29,189 --> 00:36:30,656
@@ -39942,7 +39942,7 @@ how magic works,
 
 706
 00:36:32,860 --> 00:36:34,910
-it just... it just keeps screaming
+it just… it just keeps screaming
 
 707
 00:36:34,945 --> 00:36:36,695
@@ -39993,7 +39993,7 @@ Alice?
 
 718
 00:37:57,695 --> 00:38:00,829
-Q, uh, can I...
+Q, uh, can I…
 can I talk to you?
 
 719
@@ -40099,7 +40099,7 @@ the very stupid.
 
 742
 00:39:42,433 --> 00:39:44,132
-Richard...
+Richard…
 
 743
 00:39:46,970 --> 00:39:48,854
@@ -40107,7 +40107,7 @@ No, no!
 
 744
 00:39:54,311 --> 00:39:56,111
-Kady...
+Kady…
 
 745
 00:39:56,146 --> 00:39:58,363
@@ -40128,7 +40128,7 @@ Don't you fucking touch her.
 
 749
 00:40:06,573 --> 00:40:08,957
-When you address me...
+When you address me…
 
 750
 00:40:08,992 --> 00:40:11,243
@@ -40172,7 +40172,7 @@ pleasure of your life.
 
 759
 00:40:49,616 --> 00:40:52,167
-I can make you...
+I can make you…
 
 760
 00:40:52,202 --> 00:40:54,836
@@ -40193,7 +40193,7 @@ Thank you for coming.
 
 764
 00:41:32,075 --> 00:41:34,159
-- Whoa...
+- Whoa…
 - I got you. I got you.
 
 765
@@ -40273,7 +40273,7 @@ Yeah, but what about everyone else?
 
 783
 00:42:27,881 --> 00:42:29,381
-You know, what...
+You know, what…
 
 784
 00:42:35,355 --> 00:42:37,272
@@ -40360,7 +40360,7 @@ Poor Martin.
 
 804
 00:44:27,332 --> 00:44:29,248
-Okay, so...
+Okay, so…
 
 805
 00:44:35,924 --> 00:44:37,423
@@ -40455,7 +40455,7 @@ Jane gave me a message for you,
 
 827
 00:45:40,155 --> 00:45:42,872
-a... a gift.
+a… a gift.
 
 828
 00:45:42,907 --> 00:45:44,407
@@ -40463,7 +40463,7 @@ She said that you would want it,
 
 829
 00:45:44,459 --> 00:45:47,493
-that... that you would
+that… that you would
 understand.
 
 830
@@ -40501,7 +40501,7 @@ while you're bleeding out?
 837
 00:46:19,411 --> 00:46:23,112
 Oh, for the love of Christ,
-children...
+children…
 
 838
 00:46:29,788 --> 00:46:30,788
@@ -40509,7 +40509,7 @@ Aah!
 
 839
 00:46:33,675 --> 00:46:35,425
-Now...
+Now…
 
 840
 00:46:38,096 --> 00:46:40,463
@@ -40521,7 +40521,7 @@ Wait.
 
 842
 00:46:57,982 --> 00:46:59,315
-I need...
+I need…
 
 843
 00:46:59,367 --> 00:47:01,484
@@ -40807,7 +40807,7 @@ Well, the cottage is mostly wood,
 
 57
 00:02:43,756 --> 00:02:46,390
-and I'm more of a healer and...
+and I'm more of a healer and…
 
 58
 00:02:46,426 --> 00:02:48,259
@@ -40823,12 +40823,12 @@ I need your help.
 
 61
 00:02:52,840 --> 00:02:55,207
-And you're offering...?
+And you're offering…?
 
 62
 00:02:55,243 --> 00:02:58,377
 - Offering? Um--
-- Gold...is always good.
+- Gold…is always good.
 
 63
 00:02:58,412 --> 00:03:00,880
@@ -40874,7 +40874,7 @@ We were so worried.
 
 73
 00:03:25,540 --> 00:03:27,673
-You're, uh...
+You're, uh…
 
 74
 00:03:31,145 --> 00:03:35,181
@@ -41255,7 +41255,7 @@ Mm.
 
 160
 00:08:00,915 --> 00:08:04,083
-His...name
+His…name
 is Reynard the Fox.
 
 161
@@ -41556,7 +41556,7 @@ that Rupert secretly--
 
 227
 00:10:57,224 --> 00:10:59,725
-I'm saying, uh...
+I'm saying, uh…
 
 228
 00:10:59,760 --> 00:11:04,129
@@ -41579,7 +41579,7 @@ Where is it?
 232
 00:11:12,339 --> 00:11:15,974
 Castle Whitespire.
-Accessible to...
+Accessible to…
 
 233
 00:11:16,010 --> 00:11:16,975
@@ -41602,7 +41602,7 @@ in a continuous circle, uh,
 237
 00:11:24,518 --> 00:11:27,085
 also at the disposal
-of the King, so...
+of the King, so…
 
 238
 00:11:27,121 --> 00:11:30,555
@@ -41736,7 +41736,7 @@ into Whitespire
 266
 00:12:53,440 --> 00:12:55,407
 until you've been crowned
-High King, so...
+High King, so…
 
 267
 00:12:55,442 --> 00:12:58,844
@@ -41745,7 +41745,7 @@ to get you crowned.
 
 268
 00:12:58,879 --> 00:13:01,513
-Uh...
+Uh…
 
 269
 00:13:01,548 --> 00:13:03,949
@@ -42290,7 +42290,7 @@ It'll hold for a few seconds.
 
 392
 00:19:54,761 --> 00:19:57,662
-So...
+So…
 
 393
 00:19:57,698 --> 00:19:59,798
@@ -42692,7 +42692,7 @@ We are becoming kings and queens,
 
 483
 00:25:27,359 --> 00:25:33,063
-so...it's important
+so…it's important
 and we should honor it.
 
 484
@@ -42781,7 +42781,7 @@ Thank you.
 
 503
 00:26:45,704 --> 00:26:48,471
-By the power vested in me by...
+By the power vested in me by…
 
 504
 00:26:48,507 --> 00:26:51,608
@@ -42901,7 +42901,7 @@ honest about what you love.
 
 531
 00:28:44,556 --> 00:28:47,090
-And underneath it all, that's...
+And underneath it all, that's…
 
 532
 00:28:47,125 --> 00:28:49,526
@@ -43084,7 +43084,7 @@ this epic spell, great.
 
 573
 00:31:33,892 --> 00:31:38,228
-But I'm afraid I'm just gonna...
+But I'm afraid I'm just gonna…
 
 574
 00:31:38,263 --> 00:31:40,330
@@ -43164,7 +43164,7 @@ Let's see what you can do now.
 591
 00:32:39,791 --> 00:32:44,694
 Oh.
-That feels...
+That feels…
 
 592
 00:32:44,729 --> 00:32:48,898
@@ -43346,7 +43346,7 @@ As you do now.
 
 634
 00:35:56,667 --> 00:35:58,800
-You know...
+You know…
 
 635
 00:36:02,039 --> 00:36:05,374
@@ -43759,7 +43759,7 @@ I plan on inventing it.
 
 728
 00:41:43,134 --> 00:41:44,967
-I'd like to be known as...
+I'd like to be known as…
 
 729
 00:41:45,002 --> 00:41:48,504
@@ -43841,7 +43841,7 @@ to touch a king without permission.
 
 747
 00:42:49,033 --> 00:42:52,835
-But, um, I think you should...
+But, um, I think you should…
 
 748
 00:42:52,870 --> 00:42:56,004
@@ -43991,12 +43991,12 @@ www.addic7ed.com</font>
 
 1
 00:00:00,297 --> 00:00:02,297
-Previously on "The Magicians"...
+Previously on "The Magicians"…
 
 2
 00:00:02,298 --> 00:00:04,135
 I hesitated, but The Beast,
-I should have...
+I should have…
 
 3
 00:00:04,160 --> 00:00:06,617
@@ -44022,7 +44022,7 @@ You know how to fuck up their shit.
 
 8
 00:00:15,322 --> 00:00:18,061
-No, guys, she... she's not sane.
+No, guys, she… she's not sane.
 
 9
 00:00:18,086 --> 00:00:20,404
@@ -44076,7 +44076,7 @@ I'm Marina.
 
 20
 00:00:44,959 --> 00:00:47,965
-- So you were...
+- So you were…
 - Top bitch in New York for starters.
 
 21
@@ -44110,7 +44110,7 @@ with anyone else, literally.
 
 27
 00:01:02,414 --> 00:01:04,982
-But when I go back...
+But when I go back…
 
 28
 00:01:05,017 --> 00:01:07,184
@@ -44154,11 +44154,11 @@ so we need a new something,
 
 37
 00:01:27,706 --> 00:01:29,173
-especially while Alice is still...
+especially while Alice is still…
 
 38
 00:01:29,208 --> 00:01:31,308
-Watch your step...
+Watch your step…
 wait, this is something.
 
 39
@@ -44201,7 +44201,7 @@ What a lovely surprise.
 
 48
 00:02:37,009 --> 00:02:38,811
-Okay, so...
+Okay, so…
 
 49
 00:02:39,006 --> 00:02:44,092
@@ -44228,7 +44228,7 @@ was in Fillory over a hundred years ago.
 54
 00:02:55,661 --> 00:02:58,128
 And the only humans that had
-access to the armory were...
+access to the armory were…
 
 55
 00:02:58,163 --> 00:03:01,565
@@ -44260,7 +44260,7 @@ magic dies in Fillory.
 
 61
 00:03:15,481 --> 00:03:19,082
-- It dies there...
+- It dies there…
 - It dies here.
 
 62
@@ -44295,7 +44295,7 @@ There's a spell that seems strong enough
 
 69
 00:03:35,701 --> 00:03:37,400
-called the Rhinemann Ultra...
+called the Rhinemann Ultra…
 
 70
 00:03:37,436 --> 00:03:39,436
@@ -44427,7 +44427,7 @@ stoned on sugar,
 100
 00:05:12,064 --> 00:05:13,863
 but if you could just
-dial down the chipper...
+dial down the chipper…
 
 101
 00:05:15,033 --> 00:05:18,101
@@ -44537,7 +44537,7 @@ drunk on self-love and power-lust.
 125
 00:06:34,279 --> 00:06:38,081
 Yes, I thought of it
-as a kind of royal test...
+as a kind of royal test…
 
 126
 00:06:38,116 --> 00:06:39,949
@@ -44601,7 +44601,7 @@ No.
 
 140
 00:07:13,736 --> 00:07:16,040
-You do as I say or this...
+You do as I say or this…
 
 141
 00:07:18,575 --> 00:07:20,296
@@ -44626,7 +44626,7 @@ or undermine your efforts.
 
 146
 00:07:28,520 --> 00:07:30,825
-And my dear, I assure you...
+And my dear, I assure you…
 
 147
 00:07:31,913 --> 00:07:34,394
@@ -44663,7 +44663,7 @@ Uh, wait, the cottage was here, right?
 
 155
 00:08:19,217 --> 00:08:22,418
-It's not invisible, it's just... not.
+It's not invisible, it's just… not.
 
 156
 00:08:22,454 --> 00:08:25,355
@@ -44680,7 +44680,7 @@ I should've remembered, it was my idea.
 
 159
 00:08:32,114 --> 00:08:33,557
-Are you...
+Are you…
 
 160
 00:08:33,885 --> 00:08:35,581
@@ -44746,11 +44746,11 @@ I do want to serve you and Fillory,
 
 174
 00:09:28,153 --> 00:09:30,053
-but...
+but…
 
 175
 00:09:30,489 --> 00:09:32,428
-But...?
+But…?
 
 176
 00:09:33,859 --> 00:09:37,227
@@ -44923,7 +44923,7 @@ Strongly. She was fired,
 215
 00:11:49,127 --> 00:11:52,195
 and as she was escorted
-off campus, she said that...
+off campus, she said that…
 
 216
 00:11:52,220 --> 00:11:54,210
@@ -45008,7 +45008,7 @@ and a couple of Ativans.
 234
 00:12:45,684 --> 00:12:48,588
 Might make you a little woozy,
-but it could do the trick...
+but it could do the trick…
 
 235
 00:12:52,557 --> 00:12:56,492
@@ -45025,7 +45025,7 @@ It is good to see you guys, though.
 
 238
 00:13:14,012 --> 00:13:16,476
-This one...
+This one…
 
 239
 00:13:17,132 --> 00:13:20,350
@@ -45099,7 +45099,7 @@ he was gonna find you.
 
 255
 00:14:07,848 --> 00:14:10,582
-- We need someone...
+- We need someone…
 - Else, Julia.
 
 256
@@ -45143,7 +45143,7 @@ the less time we have.
 
 265
 00:14:44,418 --> 00:14:45,951
-If it hurts, then...
+If it hurts, then…
 
 266
 00:14:45,986 --> 00:14:48,920
@@ -45270,11 +45270,11 @@ It's fairly difficult for me to confess.
 295
 00:16:41,535 --> 00:16:45,807
 And it brings me nothing but
-waves of aching nausea, but...
+waves of aching nausea, but…
 
 296
 00:16:47,085 --> 00:16:48,416
-I grew up...
+I grew up…
 
 297
 00:16:49,343 --> 00:16:50,842
@@ -45298,7 +45298,7 @@ And the feel of an udder.
 
 302
 00:17:01,622 --> 00:17:04,446
-The taste of fresh...
+The taste of fresh…
 
 303
 00:17:04,892 --> 00:17:06,324
@@ -45339,7 +45339,7 @@ Mm.
 311
 00:17:27,441 --> 00:17:30,282
 So then, if I just needed
-one little thing from you to...
+one little thing from you to…
 
 312
 00:17:30,317 --> 00:17:33,043
@@ -45467,7 +45467,7 @@ What's next?
 
 340
 00:18:44,291 --> 00:18:47,625
-"Last Hope Options" is an anagram for...
+"Last Hope Options" is an anagram for…
 
 341
 00:18:50,330 --> 00:18:52,506
@@ -45503,7 +45503,7 @@ Pixie puzzles.
 
 348
 00:19:41,417 --> 00:19:44,384
-Penny, what's... what's happened
+Penny, what's… what's happened
 to your hands?
 
 349
@@ -45653,7 +45653,7 @@ your last name again?
 
 383
 00:21:37,371 --> 00:21:39,668
-I would, but...
+I would, but…
 
 384
 00:21:40,621 --> 00:21:42,500
@@ -45665,7 +45665,7 @@ You said anything.
 
 386
 00:22:08,814 --> 00:22:11,483
-But this is... this is...
+But this is… this is…
 
 387
 00:22:15,415 --> 00:22:17,584
@@ -45677,11 +45677,11 @@ You're great.
 
 389
 00:22:21,788 --> 00:22:24,288
-For... who you are.
+For… who you are.
 
 390
 00:22:24,324 --> 00:22:27,885
-It's just... I already told you.
+It's just… I already told you.
 My life was different before.
 
 391
@@ -45733,7 +45733,7 @@ You're their king.
 402
 00:22:59,092 --> 00:23:01,291
 They will do as you wish,
-no matter how...
+no matter how…
 
 403
 00:23:01,316 --> 00:23:03,594
@@ -45759,11 +45759,11 @@ I don't know what that means,
 
 408
 00:23:13,440 --> 00:23:15,130
-but...
+but…
 
 409
 00:23:15,923 --> 00:23:18,333
-if it's what you desire...
+if it's what you desire…
 
 410
 00:23:22,340 --> 00:23:25,408
@@ -45786,7 +45786,7 @@ is about new experiences,
 414
 00:23:42,097 --> 00:23:44,081
 and, uh, I've never been
-pussy-whipped, so...
+pussy-whipped, so…
 
 415
 00:23:51,077 --> 00:23:52,507
@@ -45808,7 +45808,7 @@ And for what?
 419
 00:24:01,087 --> 00:24:03,809
 Because no matter what,
-I'm going to hold on to my...
+I'm going to hold on to my…
 
 420
 00:24:03,834 --> 00:24:05,645
@@ -45840,7 +45840,7 @@ and hopping on one leg.
 
 426
 00:24:25,132 --> 00:24:28,734
-If... if I took just a smidgen
+If… if I took just a smidgen
 of your Shade,
 
 427
@@ -45894,7 +45894,7 @@ it's set. "Summer is set."
 
 438
 00:25:16,763 --> 00:25:19,089
-"Somer... Somerset. Somerset."
+"Somer… Somerset. Somerset."
 
 439
 00:25:19,114 --> 00:25:20,284
@@ -45953,7 +45953,7 @@ Marina.
 
 452
 00:26:29,452 --> 00:26:32,593
-What else can you tell me about this...
+What else can you tell me about this…
 
 453
 00:26:32,848 --> 00:26:34,624
@@ -46069,7 +46069,7 @@ Are you blind?
 
 478
 00:28:09,886 --> 00:28:12,436
-And your... your hair.
+And your… your hair.
 Henry, you look ancient.
 
 479
@@ -46087,7 +46087,7 @@ positively mauled by something.
 
 482
 00:28:19,250 --> 00:28:20,698
-Bigby, let me intro...
+Bigby, let me intro…
 
 483
 00:28:21,469 --> 00:28:24,026
@@ -46184,7 +46184,7 @@ It would burn anyone else to a crisp.
 
 505
 00:29:26,596 --> 00:29:29,958
-I can feel your power. It's almost...
+I can feel your power. It's almost…
 
 506
 00:29:30,233 --> 00:29:33,769
@@ -46227,7 +46227,7 @@ You of all people know that.
 
 515
 00:29:52,817 --> 00:29:54,519
-So...
+So…
 
 516
 00:29:54,816 --> 00:29:57,112
@@ -46261,7 +46261,7 @@ the wondrous memory fields
 
 523
 00:30:21,851 --> 00:30:24,185
-of my agrarian childhood...
+of my agrarian childhood…
 
 524
 00:30:24,647 --> 00:30:27,069
@@ -46269,7 +46269,7 @@ sprinkling shit.
 
 525
 00:30:28,457 --> 00:30:30,631
-Sprinkling... shit?
+Sprinkling… shit?
 
 526
 00:30:30,656 --> 00:30:33,394
@@ -46281,7 +46281,7 @@ Sorry.
 
 528
 00:30:34,930 --> 00:30:37,624
-Sprinkling it on... what?
+Sprinkling it on… what?
 
 529
 00:30:38,352 --> 00:30:40,552
@@ -46354,7 +46354,7 @@ at night and,
 
 545
 00:31:26,453 --> 00:31:29,650
-- oh, for hours we would...
+- oh, for hours we would…
 - Bigby, please.
 
 546
@@ -46434,7 +46434,7 @@ Boys, the shit.
 563
 00:32:38,393 --> 00:32:41,192
 Um, Sire, I do not wish
-to appear ungrateful...
+to appear ungrateful…
 
 564
 00:32:41,217 --> 00:32:44,063
@@ -46443,11 +46443,11 @@ to trust your king on this one.
 
 565
 00:32:53,177 --> 00:32:57,726
-Come on, lads. Many a farm to grace...
+Come on, lads. Many a farm to grace…
 
 566
 00:32:57,953 --> 00:33:01,218
-with... our royal dung.
+with… our royal dung.
 
 567
 00:33:03,024 --> 00:33:04,960
@@ -46467,7 +46467,7 @@ The time is 10:58 p.m.
 
 571
 00:33:27,942 --> 00:33:31,127
-Alice, you're getting it, but...
+Alice, you're getting it, but…
 
 572
 00:33:31,221 --> 00:33:33,012
@@ -46540,11 +46540,11 @@ but take away a lot of the discomfort.
 
 588
 00:34:16,391 --> 00:34:18,898
-Wait, that feels... ah!
+Wait, that feels… ah!
 
 589
 00:34:21,817 --> 00:34:24,747
-O... kay.
+O… kay.
 
 590
 00:34:26,568 --> 00:34:30,330
@@ -46612,7 +46612,7 @@ Hey.
 
 605
 00:36:02,026 --> 00:36:04,038
-Hey, um...
+Hey, um…
 
 606
 00:36:04,226 --> 00:36:07,726
@@ -46630,7 +46630,7 @@ Okay, fine. Don't.
 
 609
 00:36:13,641 --> 00:36:15,878
-I just... I-I have to warn you.
+I just… I-I have to warn you.
 
 610
 00:36:17,278 --> 00:36:19,178
@@ -46658,12 +46658,12 @@ No, we can't wait.
 
 615
 00:36:29,323 --> 00:36:31,557
-- You won't...
+- You won't…
 - No, Jules, we can't.
 
 616
 00:36:31,592 --> 00:36:33,859
-I-I know that you're hurting. I just...
+I-I know that you're hurting. I just…
 
 617
 00:36:33,895 --> 00:36:36,662
@@ -46687,7 +46687,7 @@ Do you think that that's less important?
 621
 00:36:41,710 --> 00:36:44,838
 No, I just think that what
-you want here is revenge and...
+you want here is revenge and…
 
 622
 00:36:44,863 --> 00:36:46,624
@@ -46714,7 +46714,7 @@ and you're threatening me.
 
 627
 00:37:07,728 --> 00:37:10,144
-Look, I did what I had to do. I...
+Look, I did what I had to do. I…
 
 628
 00:37:10,298 --> 00:37:12,363
@@ -46727,7 +46727,7 @@ There's something.
 630
 00:37:16,293 --> 00:37:19,471
 About the castle.
-He... he made some kind of joke.
+He… he made some kind of joke.
 
 631
 00:37:19,507 --> 00:37:21,040
@@ -46771,7 +46771,7 @@ Sure.
 
 641
 00:37:43,760 --> 00:37:45,598
-This is...
+This is…
 
 642
 00:37:48,169 --> 00:37:50,102
@@ -46813,7 +46813,7 @@ to hold off The Beast.
 
 651
 00:39:20,696 --> 00:39:22,577
-Step one...
+Step one…
 
 652
 00:39:22,831 --> 00:39:25,092
@@ -46963,7 +46963,7 @@ tales to tell.
 
 685
 00:41:51,947 --> 00:41:54,812
-I give you the reign of...
+I give you the reign of…
 
 686
 00:41:55,384 --> 00:41:57,002
@@ -46972,7 +46972,7 @@ King Shit.
 687
 00:42:01,288 --> 00:42:04,495
 I figured you'd pretty much
-be dead without me, so...
+be dead without me, so…
 
 688
 00:42:08,893 --> 00:42:11,019
@@ -47057,7 +47057,7 @@ Are we three going to kill a god?
 
 1
 00:00:00,008 --> 00:00:01,808
-<i>Previously on "The Magicians"...</i>
+<i>Previously on "The Magicians"…</i>
 
 2
 00:00:04,156 --> 00:00:06,101
@@ -47148,7 +47148,7 @@ they'll keep The Beast plenty busy.
 
 22
 00:00:43,295 --> 00:00:45,462
-<i>Please... fix...</i>
+<i>Please… fix…</i>
 
 23
 00:00:45,497 --> 00:00:46,596
@@ -47156,7 +47156,7 @@ my hands.
 
 24
 00:00:46,632 --> 00:00:48,932
-<i>Go... fuck... yourself?</i>
+<i>Go… fuck… yourself?</i>
 
 25
 00:00:48,967 --> 00:00:50,267
@@ -47292,7 +47292,7 @@ What do you have to show for yourself?
 
 55
 00:01:50,929 --> 00:01:56,233
-Ta... fucking... da.
+Ta… fucking… da.
 
 56
 00:01:57,369 --> 00:01:59,603
@@ -47335,7 +47335,7 @@ we could be doing right now?
 65
 00:02:16,154 --> 00:02:19,105
 I mean, The Beast is still out there
-waiting for us...
+waiting for us…
 
 66
 00:02:19,130 --> 00:02:20,660
@@ -47372,7 +47372,7 @@ I'm gonna kill you in your sleep.
 
 74
 00:02:45,083 --> 00:02:47,651
-El... El... El, you okay?
+El… El… El, you okay?
 
 75
 00:02:47,686 --> 00:02:49,753
@@ -47380,7 +47380,7 @@ Totally fine, why?
 
 76
 00:02:49,788 --> 00:02:50,887
-It's just...
+It's just…
 
 77
 00:02:50,923 --> 00:02:52,166
@@ -47416,7 +47416,7 @@ You've been planning without me?
 
 85
 00:03:03,802 --> 00:03:05,335
-Yeah... when we were on Earth.
+Yeah… when we were on Earth.
 
 86
 00:03:05,370 --> 00:03:06,690
@@ -47466,7 +47466,7 @@ Do I?
 
 97
 00:03:37,609 --> 00:03:40,937
-Because I promise you...
+Because I promise you…
 I will not go down easily.
 
 98
@@ -47516,7 +47516,7 @@ Something The Beast said.
 
 108
 00:04:10,168 --> 00:04:13,169
-Uh... God, of course. It makes sense.
+Uh… God, of course. It makes sense.
 
 109
 00:04:13,205 --> 00:04:15,080
@@ -47537,7 +47537,7 @@ So you think Eliot might be cursed?
 
 113
 00:04:23,448 --> 00:04:25,215
-I mean, she was vague, but I mean...
+I mean, she was vague, but I mean…
 
 114
 00:04:27,455 --> 00:04:28,518
@@ -47586,7 +47586,7 @@ Nope. Nothing.
 
 125
 00:04:55,596 --> 00:04:57,666
-I'm fine... Penny.
+I'm fine… Penny.
 
 126
 00:05:03,424 --> 00:05:06,089
@@ -47627,7 +47627,7 @@ He's High King. He's cursed.
 
 135
 00:05:22,535 --> 00:05:25,642
-- We have no choice but...
+- We have no choice but…
 - We have to kill him.
 
 136
@@ -47660,7 +47660,7 @@ For Fillory.
 
 143
 00:05:48,532 --> 00:05:50,166
-But don't tell Quentin...
+But don't tell Quentin…
 
 144
 00:05:50,306 --> 00:05:52,235
@@ -47715,7 +47715,7 @@ Exactly. For the poison.
 
 156
 00:06:24,636 --> 00:06:25,946
-For the... what?
+For the… what?
 
 157
 00:06:27,063 --> 00:06:28,548
@@ -47742,11 +47742,11 @@ I sat on mine, and I'm totally fine.
 
 162
 00:06:42,079 --> 00:06:43,290
-You sat on your...
+You sat on your…
 
 163
 00:06:44,022 --> 00:06:45,221
-Fuck...
+Fuck…
 
 164
 00:06:45,257 --> 00:06:46,649
@@ -47967,7 +47967,7 @@ I make maps, Your Majesty.
 
 215
 00:09:12,301 --> 00:09:15,458
-Well,... surely, someone has
+Well,… surely, someone has
 snuck into your office
 
 216
@@ -47977,7 +47977,7 @@ into a map to make a point, no?
 
 217
 00:09:19,770 --> 00:09:20,955
-The other Kings and Queens who died...
+The other Kings and Queens who died…
 
 218
 00:09:20,979 --> 00:09:23,746
@@ -48051,7 +48051,7 @@ Our Lady Underground.
 
 234
 00:10:01,601 --> 00:10:04,226
-As a child of the Earth...
+As a child of the Earth…
 
 235
 00:10:05,242 --> 00:10:08,453
@@ -48234,7 +48234,7 @@ miss you from this range.
 277
 00:12:30,429 --> 00:12:34,337
 Well, if you use that arrow
-as good as you use your dick...
+as good as you use your dick…
 
 278
 00:12:38,054 --> 00:12:39,562
@@ -48250,7 +48250,7 @@ Margo says go free.
 
 281
 00:12:49,954 --> 00:12:51,171
-Oh, fuck...
+Oh, fuck…
 
 282
 00:12:52,835 --> 00:12:54,248
@@ -48356,7 +48356,7 @@ and now we've lost Marina.
 306
 00:14:02,742 --> 00:14:04,171
 I don't even know how
-we're supposed to do...
+we're supposed to do…
 
 307
 00:14:04,195 --> 00:14:05,494
@@ -48436,11 +48436,11 @@ Settle in. This may take a bit.
 
 325
 00:15:28,129 --> 00:15:31,340
-Bad news... you're cursed.
+Bad news… you're cursed.
 
 326
 00:15:31,762 --> 00:15:34,411
-Good news... I think there's a way out.
+Good news… I think there's a way out.
 
 327
 00:15:34,583 --> 00:15:36,184
@@ -48587,7 +48587,7 @@ please just stand in your corners
 
 360
 00:16:54,149 --> 00:16:55,869
-and just quietly...
+and just quietly…
 
 361
 00:16:57,118 --> 00:17:00,196
@@ -48664,7 +48664,7 @@ It's hot. It really is.
 
 378
 00:17:50,158 --> 00:17:51,954
-But just get it over with and kill me...
+But just get it over with and kill me…
 
 379
 00:17:54,149 --> 00:17:55,662
@@ -48682,7 +48682,7 @@ likes to prey on chicks
 382
 00:18:01,503 --> 00:18:04,985
 is compensating for
-a lack of... something.
+a lack of… something.
 
 383
 00:18:06,349 --> 00:18:07,935
@@ -48739,7 +48739,7 @@ You're all alone, aren't you?
 
 395
 00:18:45,981 --> 00:18:48,519
-There's... no else in your life.
+There's… no else in your life.
 
 396
 00:18:48,917 --> 00:18:50,042
@@ -48771,7 +48771,7 @@ Hmm
 
 403
 00:19:03,204 --> 00:19:04,449
-Ah...
+Ah…
 
 404
 00:19:06,768 --> 00:19:08,446
@@ -48936,7 +48936,7 @@ Do you want me to get that?
 
 443
 00:21:32,449 --> 00:21:33,671
-Aah...
+Aah…
 
 444
 00:21:39,437 --> 00:21:40,562
@@ -48965,7 +48965,7 @@ Does it require me playing Rachmaninoff?
 
 450
 00:21:54,304 --> 00:21:57,472
-If not... we're fine.
+If not… we're fine.
 
 451
 00:21:57,507 --> 00:21:59,018
@@ -48979,7 +48979,7 @@ take the bracelets off?
 453
 00:22:00,777 --> 00:22:02,521
 - That's a bad idea.
-- Well, then, how are you...
+- Well, then, how are you…
 
 454
 00:22:02,545 --> 00:22:03,956
@@ -49026,7 +49026,7 @@ of it being trapped in there.
 464
 00:22:23,066 --> 00:22:25,099
 It's not like you
-have yours. I do, so...
+have yours. I do, so…
 
 465
 00:22:25,135 --> 00:22:26,512
@@ -49199,7 +49199,7 @@ your face. It's priceless.
 
 505
 00:24:02,465 --> 00:24:03,465
-So why don't you and I...
+So why don't you and I…
 
 506
 00:24:08,671 --> 00:24:10,271
@@ -49244,7 +49244,7 @@ With pleasure.
 
 516
 00:25:36,142 --> 00:25:37,608
-No! No...
+No! No…
 
 517
 00:25:58,114 --> 00:25:59,114
@@ -49354,13 +49354,13 @@ Duck!
 
 543
 00:27:18,352 --> 00:27:20,460
-- Shit...
+- Shit…
 - What the hell?
 
 544
 00:27:20,641 --> 00:27:23,053
 The chain was the only thing
-keeping my hand from fucking...
+keeping my hand from fucking…
 
 545
 00:27:23,077 --> 00:27:24,445
@@ -49369,7 +49369,7 @@ keeping my hand from fucking...
 
 546
 00:27:24,470 --> 00:27:26,178
-It's a ritual, and I don't have any...
+It's a ritual, and I don't have any…
 
 547
 00:27:26,945 --> 00:27:27,911
@@ -49377,7 +49377,7 @@ Oh, no.
 
 548
 00:27:27,946 --> 00:27:28,946
-Get...
+Get…
 
 549
 00:27:30,813 --> 00:27:31,779
@@ -49389,7 +49389,7 @@ Yeah. No problem.
 
 551
 00:27:36,553 --> 00:27:38,531
-- You fucking...
+- You fucking…
 - Sorry.
 
 552
@@ -49412,7 +49412,7 @@ get there in under an hour.
 
 556
 00:27:53,769 --> 00:27:55,169
-Okay, but if he can just blip in...
+Okay, but if he can just blip in…
 
 557
 00:27:55,204 --> 00:27:56,870
@@ -49476,7 +49476,7 @@ so just go and petition him for a re-up.
 
 571
 00:28:26,089 --> 00:28:27,167
-Just in case Alice and I...
+Just in case Alice and I…
 
 572
 00:28:27,191 --> 00:28:28,667
@@ -49496,7 +49496,7 @@ Hey. Thought exercise.
 
 576
 00:28:51,636 --> 00:28:56,323
-Say we kill The Beast. Ahh... what then?
+Say we kill The Beast. Ahh… what then?
 
 577
 00:28:58,261 --> 00:28:59,542
@@ -49504,7 +49504,7 @@ Quentin, I don't know.
 
 578
 00:28:59,820 --> 00:29:02,019
-It's just... it's a distraction.
+It's just… it's a distraction.
 
 579
 00:29:02,522 --> 00:29:03,761
@@ -49512,11 +49512,11 @@ Come on.
 
 580
 00:29:07,464 --> 00:29:09,105
-Um...
+Um…
 
 581
 00:29:11,019 --> 00:29:12,409
-I would...
+I would…
 
 582
 00:29:15,144 --> 00:29:17,167
@@ -49524,7 +49524,7 @@ I'd eat an ice cream sundae.
 
 583
 00:29:18,752 --> 00:29:20,308
-With whipped cream and...
+With whipped cream and…
 
 584
 00:29:21,386 --> 00:29:23,275
@@ -49532,7 +49532,7 @@ those fake rainbow-colored sprinkles
 
 585
 00:29:23,310 --> 00:29:26,089
-and... gummy bears on top.
+and… gummy bears on top.
 
 586
 00:29:27,808 --> 00:29:29,748
@@ -49587,7 +49587,7 @@ heavy emotional shit
 
 598
 00:29:53,214 --> 00:29:54,606
-when all I can handle right now...
+when all I can handle right now…
 
 599
 00:29:54,641 --> 00:29:57,353
@@ -49622,7 +49622,7 @@ You are amazing.
 606
 00:30:10,133 --> 00:30:12,657
 And not that you weren't
-amazing before, but...
+amazing before, but…
 
 607
 00:30:13,751 --> 00:30:15,460
@@ -49649,7 +49649,7 @@ just</i> that guy anymore,
 
 612
 00:30:26,306 --> 00:30:29,218
-and I think that you...
+and I think that you…
 I hope that you give me
 
 613
@@ -49660,7 +49660,7 @@ and actually deserve you.
 614
 00:30:33,954 --> 00:30:36,414
 And I know that that
-sounds stupid, but I just...
+sounds stupid, but I just…
 
 615
 00:30:36,450 --> 00:30:39,050
@@ -49745,7 +49745,7 @@ Fine. Give me your hand.
 
 634
 00:31:35,575 --> 00:31:36,674
-Just...
+Just…
 
 635
 00:31:38,485 --> 00:31:40,165
@@ -49844,12 +49844,12 @@ planning to drink from it.
 657
 00:32:44,455 --> 00:32:47,743
 - It's hardly potable.
-- You... what?
+- You… what?
 
 658
 00:32:48,313 --> 00:32:53,579
-Left my leavings... a
-godly floater... behind.
+Left my leavings… a
+godly floater… behind.
 
 659
 00:32:54,826 --> 00:32:56,593
@@ -49874,7 +49874,7 @@ I know your true game.
 664
 00:33:05,977 --> 00:33:10,594
 I know exactly every twist,
-you... you stinking man-sheep!
+you… you stinking man-sheep!
 
 665
 00:33:10,630 --> 00:33:12,229
@@ -50008,7 +50008,7 @@ Well, yes.
 
 697
 00:35:08,449 --> 00:35:12,551
-We have come to beseech your uhm... aid.
+We have come to beseech your uhm… aid.
 
 698
 00:35:12,587 --> 00:35:15,198
@@ -50043,8 +50043,8 @@ Cheerio! Happy ruling!
 
 705
 00:35:26,801 --> 00:35:28,424
-- No...
-- Ember, we...
+- No…
+- Ember, we…
 
 706
 00:35:29,416 --> 00:35:32,087
@@ -50102,7 +50102,7 @@ Alice, what are you doing?
 
 719
 00:36:29,145 --> 00:36:31,604
-No. Alice, don't. Stop, it'll...
+No. Alice, don't. Stop, it'll…
 
 720
 00:36:31,629 --> 00:36:32,895
@@ -50191,7 +50191,7 @@ Think of the fun we could have together.
 
 741
 00:37:53,697 --> 00:37:54,846
-You don't have to...
+You don't have to…
 
 742
 00:37:54,871 --> 00:37:55,937
@@ -50225,7 +50225,7 @@ mean something to me.
 
 749
 00:38:48,894 --> 00:38:50,511
-Okay. Just...
+Okay. Just…
 
 750
 00:38:52,415 --> 00:38:54,048
