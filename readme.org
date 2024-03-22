@@ -1,10 +1,10 @@
-* The Magicians Fan App - An Executable Memoir
+* Spellbound
 
-** An Exercise In Literate Programming
+** A Story In Magical Code
 
 by Colin Jaffe
 
-*** Chapter 1 - Wait, What Am I Reading Again?
+*** Chapter 1 - Unauthorized Magic
 
 #+name: epigraph
 #+begin_src json
@@ -78,7 +78,11 @@ Welcome to /The Magicians Fan App/.
 
 *** Appendix 1 - The Rest Of The Code
 
-Here is the code for the app that I didn't (or haven't yet) discussed. It's the quotes I didn't find a use for but that still need to be in the app, or uninteresting parts of the code that didn't merit discussion, or whose discussion didn't quite fit in the story, or just stuff I haven't found time to write about yet but still want to /code/.
+Here is the code for the app that I don't plan to discuss—or haven't yet. It's the Magicians quotes that make up the app but aren't relevant to the story, or uninteresting parts of the code that didn't merit discussion, or a part whose discussion didn't /quite/ fit in the story, or just code I've written for the app that I haven't figured out how to weave in yet.
+
+This section is really just for those coders curious about the rest of the code.
+
+Enjoy?
 
 #+name: other-quotes
 #+begin_src json
