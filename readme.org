@@ -4,6 +4,6 @@
 
 *** What Is "Spellbound"?
 
-Coming soon!
+An overall project description is coming soon, in addition to the first real chapter of this crazy book.
 
 In the meantime, you can read what I have so far in book/readme.org
