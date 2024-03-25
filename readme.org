@@ -4,6 +4,6 @@
 
 *** What Is "Spellbound"?
 
-An overall project description is coming soon, in addition to the first real chapter of this crazy book.
+Spellbound is a creative non-fiction work mixing memoir, executable code, and a close reading of the TV show The Magicians.
 
-In the meantime, you can read what I have so far in [[book/readme.org]].
+The first chapter is still being worked on, but in the meantime, you can read what I have so far in [[book/readme.org]].
