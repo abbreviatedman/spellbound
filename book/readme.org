@@ -478,10 +478,7 @@ What you'll see this as is titles of code blocks, surrounded by ~<<~ and ~>>~ sy
 
 #+name: quotes.json
 #+begin_src json :tangle data/quotes.json :noweb tangle
-  [
-    <<epigraph>>,
-    <<phosphoromancy-bitches>>
-  ]
+  []
 #+end_src
 
 #+name: other-quotes.json
