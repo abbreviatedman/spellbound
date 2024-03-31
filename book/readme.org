@@ -70,6 +70,34 @@ Enjoy?
         ]
       },
       {
+        "season": 1,
+        "episode": 1,
+        "explicit": true,
+        "id": 3,
+        "lines": [
+          {
+            "speaker": "Henry Fogg",
+            "line": "You want to go back to Columbia? That pointless, miasmic march to death you call life? Family that never calls and friends that don't really get you and feeling alone and wrong until it crushes you?"
+          },
+          {
+            "speaker": "Quentin",
+            "line": "No."
+          },
+          {
+            "speaker": "Henry Fogg",
+            "line": "Then quit dicking around!"
+          },
+          {
+            "speaker": "Quentin",
+            "line": "Stop it."
+          },
+          {
+            "speaker": "Henry Fogg",
+            "line": "Do some goddamn magic!"
+          }
+        ]
+      },
+      {
         "episode": "Unauthorized Magic",
         "explicit": false,
         "id": 4,
@@ -270,6 +298,18 @@ Enjoy?
           }
         ]
       },
+
+        "season": 1,
+        "episode": 3,
+        "explicit": true,
+        "id": 16,
+        "lines": [
+          {
+            "speaker": "Quentin",
+            "line": "Phosphoromancy, bitches."
+          }
+        ]
+      }
       {
         "episode": "Consequences of Advanced Spellcasting",
         "explicit": false,
