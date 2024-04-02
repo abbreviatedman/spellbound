@@ -22,7 +22,7 @@ We'll get back to The Magicians soon. But first: imagine a montage.
 
 -----
 
-***** Sections Remaining
+***** Sections Remaining (in some order)
 
 - IMing.
 - Coding RoboWar.
