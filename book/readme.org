@@ -4,9 +4,7 @@
 
 by Colin Jaffe
 
-*** Chapter 1 - Unauthorized Magic
-
-**** Previously, On "Me"
+*** Previously, On "Me"
 
 This is a story of the magic of computers, the study of magic, and what happens when brains can't and won't. It's a true story, all of it, except for the parts from TV.
 
@@ -67,6 +65,8 @@ We have selective memory—we humans, and especially those with ADD. While I rem
 What I /have/ sometimes been good at is figuring out what people want to hear, so maybe that was all I was doing—appealing to that particular cultural sense of the '90s, the sense that maybe we were overmedicating kids for being /kids/.
 
 Whether it was what I said or the salient fact that my grades weren't improving from the B-D range, I was taken off Ritalin not too long after that.
+
+*** Chapter 1 - Unauthorized Magic
 
 *** Appendix 1 - The Rest Of The Code
 
