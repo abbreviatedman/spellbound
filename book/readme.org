@@ -11,6 +11,16 @@ by Colin Jaffe
 ***** "Unauthorized Magic" as something you do when you're not supposed to.
 - Letting in The Beast in The Magicians
   - but just a costly opportunity cost for me
+- My examples:
+  - RoboWar
+  - poker
+  - balloon art
+  - 55-word stories
+  - Emacs
+  - a system for checking for student plagiarism
+  - a system for making slide shows
+  - a system for code assignment formatting
+  - a system for getting code feedback in the browser
 
 ***** The Four Tendencies
 - long line of Questioners
