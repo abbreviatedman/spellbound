@@ -6,7 +6,7 @@ by Colin Jaffe
 
 *** Previously, On "Me"
 
-This is a story of the magic of computers, the study of magic, and what happens when brains can't and won't. It's a true story, all of it, except for the parts from TV.
+This is a story of the magic of computers, the study of magic, and what happens when people can't or won't or both. It's a true story, all of it, except for the parts from books and TV.
 
 Let's start with some TV to frame things for us.
 
@@ -14,9 +14,9 @@ Let's start with some TV to frame things for us.
 *Penny:* What?
 *Josh:* Just imagine a montage.
 
-That's how Episode 12 of Season 3 of the TV show The Magicians opens. The character of Josh gets to give the "Previously, On The Magicians" recap, which he proceeds to do as most of us would: making himself the main character of the story (he's not, and we're not), while throwing in some weird digressions the audience doesn't care about.
+That's how Episode 12 of Season 3 of the TV show The Magicians opens. The character of Josh gets to give the recap of what's happened so far, the Previously, On "The Magicians" part, which he proceeds to do as most of us would: making himself the main character of the story while throwing in some weird digressions only he would care about.
 
-We'll get back to The Magicians soon. But first: imagine a montage.
+We'll get back to The Magicians soon. But first: Previously, on "Me". (Imagine a montage.)
 
 -----
 
@@ -24,7 +24,6 @@ We'll get back to The Magicians soon. But first: imagine a montage.
 
 - IMing.
 - Ritalin
-- Coding RoboWar.
 - Jenny
 - Learning to code.
 - Watching The Magicians.
@@ -40,17 +39,19 @@ Jenny's father died when she was a teen—this was who she was talking about, th
 
 /I can't blame her for feeling that way,/ I thought. I had not made her feel loved lately—that was clear even before the scene at hand. I sat there, frozen, shut down; eventually I would come to describe that feeling I get sometimes in even more robotic terms, as "my gears grinding". A feeling of heat in my head, my thoughts slowing, somehow stopping.
 
+Now, she had /practically/ screamed it, but she hadn't actually screamed. As two nerdy white people who grew up middle-class-plus, by the time we were adults we had internalized that you do /not/ cause a scene. And she might of course have been feeding off my non-energy—it's hard to scream when you're accustomed to not talking much at all.
+
 "I'm sorry," I managed, eventually. It felt like acceptance, an acknowledgement that this relationship was ending, or had already ended and was now being properly categorized.
 
-I had spent the entirety of the years I was with Jenny in a series of jobs I took as they presented themselves to me (as jobs did more frequently in the U.S. before 2008's financial crisis), filling in any gaps with online poker, a game I was just good enough at to make a meager and stressful living playing it. Poker was good to me in that I answered to no one—a good thing since I was and remain very poor at following directions, meeting deadlines, being on time, and doing things I'm not 100% sold on. These, it turns out, are rather important for functioning within a group of people, which is why I often saved up enough money during jobs to weather any small series of bad poker luck. When I had enough money, I would either quit or wait for the job to tire of my shtick and fire me, only to end up looking for another job when a series of bad poker luck went on for longer than I could budget for.
+I had spent the entirety of the years I was with Jenny in a series of jobs I took as they presented themselves to me (as jobs did more frequently in the U.S. before 2008's financial crisis), filling in any gaps with online poker, a game I was just good enough at to make a meager and stressful living playing it. Poker always paid the bills except when it didn't. The game was good for me in that I answered to no one—a good thing since I was and remain very poor at following directions, meeting deadlines, being on time, and doing things I'm not 100% sold on. These, it turns out, are rather important for functioning within a group of people, which is why I spent time when I was working at a more /job/ type of job saving up money. When I had enough saved, I would either quit or wait for the job to tire of my shtick and fire me, and then start using that money to make more money in poker, always leaving that saved-up money as a cushion for small runs of bad luck. I could /usually/ get back to winning and paying rent before the cushion ran out. Like I said, it was a meager and stressful living, and that was when things went well. I would always end up looking for a job again when a bad poker luck run went on for longer than usual.
 
-So: not exactly the breadwinner, here. Jenny herself didn't make a ton of money, as she was living on loans to get herself through a pair of graduate degrees that started esoteric (Classical Music Composition) and moved to academic-but-at-least-financially-viable (Library Science). What's more, I was making even less money at the time than usual, as I was heavily into computer gaming. Or, rather, one particular game—Jenny had gotten me hooked on World of Warcraft, an endless online game, a bit like Dungeons and Dragons if you took out all social interaction except what you need to satisfy that part of your brain, and then took out all the creative storytelling of D&D as well. Jenny had thought I could handle the game; I'd gone along with her insistence I play with her even though I knew better.
+So: not exactly the breadwinner, here. Jenny herself didn't make a ton of money, as she was living on loans to get herself through a pair of graduate degrees that started esoteric (Classical Music Composition) and moved to academic-but-at-least-eventually-financially-viable (Library Science). What's more, I was playing even less poker at the time and thus making even less money, as I was heavily into computer gaming. Or, rather, one particular game—Jenny had gotten me hooked on World of Warcraft, an endless online game, a bit like Dungeons and Dragons if you took out all social interaction except what you need to satisfy that part of your brain, and then took out all the creative storytelling of D&D as well. Jenny had thought I could handle the game; I'd gone along with her insistence I join her World of Warcraft guild even though I knew I couldn't. She probably thought it would bring us closer together. Maybe I believed this too, despite myself, but I just went from the laser-sharp focus of playing poker to the laser-sharp focus of gaming.
 
-So when she screamed at me that I didn't love her, I felt like I couldn't disagree. The evidence was against me. I /felt/ like I loved her, but I had spent the time since we'd gotten engaged doing less and less to prove it every day. Was it just a game to me, to see what I could get away with? What she'd stick with me through?
+So when she almost-screamed at me that I didn't love her, I felt like I couldn't disagree. The evidence was against me. I /felt/ like I loved her, but I had spent the time since we'd gotten engaged doing less and less to prove it every day. Was that itself just another game to me, to see what I could get away with? What she'd stick with me through?
 
 Was I lazy, or neglectful bordering on abusive, or thoughtless, or nihilistic, or depressive?
 
-I could only answer that question with a big "Yes". I apologized for the hurt I'd caused and moved back in with my parents.
+I could only answer that question with a big "Yes". I apologized for the hurt I'd caused and moved back in with my parents. The wedding wasn't called off quite yet, but when she realized how much happier she was without me around, it was. Or had, in a sense, never truly been on the docket to begin with.
 
 ***** Ritalin
 
@@ -58,13 +59,13 @@ I could only answer that question with a big "Yes". I apologized for the hurt I'
 
 Picture a young man at 15. Short, with a poorly maintained goatee. You can picture the type, I'm sure.
 
-We were discussing whether Ritalin was helping me. I had been taking it for a good while at that point. I had been diagnosed with ADD, which was what doctors then called the type of ADHD without Hyperactivity. I focused, sure, just… on the wrong things. During most classes, I would write computer code in my notebook, putting pencil to paper in those innocent days before laptops in schools. Most of the time, the teachers trusted that I was taking notes. All of the time, I wasn't.
+My mom and I were discussing whether Ritalin was helping me—I had been taking it for a good while at that point. The doctors said I had ADD, which was what people back then called the type of ADHD without Hyperactivity. This is the type of ADD that is harder to pinpoint, since I wasn't doing the highly-visible thing of constantly moving my body everywhere. I was quite able to focus in fact, I simply focused on the wrong things. During most classes that year I would write computer code in my notebook, putting pencil to paper in those innocent days before laptops in schools. Most of the time, the teachers trusted that I was taking notes. All of the time, I wasn't.
 
-We have selective memory—we humans, and especially those with ADD. While I remember quite a lot of the code I wrote at the time, I do /not/ remember whether Ritalin was, in fact, affecting my state of mind at all, and definitely not if it made me feel like I wasn't "thinking enough". I don't remember my state of mind, then, at all. Never been good at even knowing my /current/ state of mind.
+We have selective memory—we humans, and especially those with ADD. While I remember quite a lot of the code I wrote at the time, I do /not/ remember whether Ritalin was, in fact, affecting my state of mind at all, and definitely not if it made me feel, as I told my mom, that I wasn't "thinking enough". Do people sometimes think at different speeds or amounts? Knowing this would take a certain kind of metacognition, of noticing your own thinking, that I've never been good at.
 
-What I /have/ sometimes been good at is figuring out what people want to hear, so maybe that was all I was doing—appealing to that particular cultural sense of the '90s, the sense that maybe we were overmedicating kids for being /kids/.
+What I /am/ good at, at least sometimes, if figuring out what people want to hear, so maybe that was all I was doing—appealing to that particular cultural sense of the '90s, the sense that maybe we were overmedicating kids for being /kids/. Ritalin, I was arguing, was turning me into a robot instead of letting me be myself, and boy /howdy/ did we eat up that trope in the '90s.
 
-Whether it was what I said or the salient fact that my grades weren't improving from the B-D range, I was taken off Ritalin not too long after that.
+Whether it was what I said or the salient fact that my grades weren't improving from the B-D range, my parents took me off Ritalin not too long after that.
 
 *** Chapter 1 - Unauthorized Magic
 
