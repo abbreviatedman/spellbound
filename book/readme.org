@@ -1,13 +1,8 @@
 * Spellbound
-
 ** A Story In Magical Code
-
 by Colin Jaffe
-
 *** Chapter 1 - Unauthorized Magic
-
 **** Questioner
-
 ***** "Unauthorized Magic" as something you do when you're not supposed to.
 - Letting in The Beast in The Magicians
   - but just a costly opportunity cost for me
@@ -21,7 +16,6 @@ by Colin Jaffe
   - a system for making slide shows
   - a system for code assignment formatting
   - a system for getting code feedback in the browser
-
 ***** The Four Tendencies
 - long line of Questioners
   - my brother
@@ -29,9 +23,7 @@ by Colin Jaffe
   - my uncle
   - my grandfather
 - obliger Sarah
-
 **** Our Story Begins
-
 - In my life: Colin Jaffe getting dumped by Megan.
   - Possibly followed by "Do I love anything?", what I /do/ love, and what I do for it.
   - Or some other in-media-res thing, like maybe:
