@@ -16,20 +16,45 @@ So we could do:
 
 - computers
   - IMing
-  - coding
-  -
--
+  - Website for Marathon
+  - RoboWar
+  - Fullstack
+  - Emacs
+- ADD
+  - Ritalin
+  - Discovering Poker
+  - Leaving Pursuit
+  - Alice's Appointment
+- Jobs
+  - First Job
+  - Poker?
+  - Losing Jobs
+- Relationships
+  - Jenny
+  - Sarah
 
-- [ ] IMing.
-- [X] Ritalin
+- Jenny
+- Leaving Pursuit
+- Ritalin & RoboWar & ADD Without The H
+- First Job
+- Other Jobs
+- Emacs
+- Poker at Hampshire
+- Poker
+- Fullstack
+- Sarah
+- Alice's Appointment
+
 - [X] Jenny
-- [X] My First Job
-- [X] Poker at Hampshire
-- [ ] Learning to code.
-- [ ] Watching The Magicians.
-- [ ] Reconfiguring Emacs
 - [ ] Leaving Pursuit.
-- [ ] Taking Alice to her appointment.
+- [X] Ritalin & RoboWar & ADD Without The H
+- [X] My First Job
+- [ ] Other Jobs
+- [X] Poker at Hampshire
+- [ ] Poker (probably part of the same section as above)
+- [ ] Emacs & Literate Programming and Sarah and ADD
+- [ ] The Magicians
+- [ ] Taking Alice to her appointment
 
 *** Chapter 1 - Unauthorized Magic
 **** Questioner
