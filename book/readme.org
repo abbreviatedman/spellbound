@@ -22,31 +22,19 @@ We'll get back to The Magicians soon. But first: Previously, on "Me".
 
 -----
 
-***** Sections
-
-- IMing.
-- Ritalin
-- Jenny
-- Jobs
-- Learning to code.
-- Watching The Magicians.
-- Reconfiguring Emacs
-- Leaving Pursuit.
-- Taking Alice to her appointment.
-
 ***** Ritalin
 
 "I just feel /too/ focused," I told my mom. "I feel boring, like I'm not thinking enough. I don't like it."
 
 Picture a young man at 15. Short, with a poorly maintained goatee. You know the type, I'm sure.
 
-My mom and I were discussing whether Ritalin was helping me—I had been taking it for a good while at that point. The doctors said I had ADD, which was what people back then called the type of ADHD without Hyperactivity. This is the type of ADD that is harder to pinpoint, since I wasn't doing the highly-visible thing of constantly moving my body everywhere. I was quite able to focus in fact—I simply focused on the wrong things. During most classes that year I would write computer code in my notebook, putting pencil to paper in those innocent days before laptops in schools. Most of the time, the teachers trusted that I was taking notes. All of the time, I wasn't.
+My mom and I were discussing whether Ritalin was helping me—I had been taking it for a good while at that point. The doctors said I had ADD, which was what people back then called the type of ADHD without Hyperactivity. This is the type of ADD that is harder to pinpoint, since I wasn't doing the highly-visible thing of constantly moving my body everywhere. I was quite able to focus in fact—I simply focused on the wrong things. During most classes that year I would write computer code in my notebook, putting pencil to paper in those innocent days before laptops in schools. Most of the time, the teachers trusted that I was taking notes. All of the time, I wasn't. I wasn't even chastened or ashamed to be spoken to when caught—just frustrated at having to temporarily stop.
 
-We have selective memory—we humans, and especially those with ADD. While I remember quite a lot of the code I wrote at the time, I do /not/ remember whether Ritalin was, in fact, affecting my state of mind at all, and definitely not if it made me feel, as I told my mom, that I wasn't "thinking enough". Do people sometimes think at different speeds or amounts? Knowing this would take a certain kind of metacognition, of noticing your own thinking, that I've never been good at.
+We have selective memory—we humans, and especially those with ADD. While I remember a silly amount of the code I wrote at the time, I do /not/ remember whether Ritalin was, in fact, affecting my state of mind at all, and definitely not if it made me feel, as I told my mom, that I wasn't "thinking enough". Do people sometimes think at different speeds or amounts? Knowing this would take a certain kind of metacognition, of noticing your own thinking, that I've never been good at.
 
-What I /am/ good at, at least sometimes, is figuring out what people want to hear, so maybe that was all I was doing—appealing to that particular cultural concept of the '90s, the sense that maybe we were overmedicating kids for just being /kids/. Ritalin, I was arguing, was turning me into a robot instead of letting me be myself, and boy /howdy/ did we eat up that trope in the '90s.
+What I /am/ good at, at least sometimes, is figuring out what people want to hear, so maybe that was all I was doing when talking about my experience with Ritalin—appealing to that peculiar cultural concept of the '90s, the sense that maybe we were overmedicating kids for just being /kids/. Ritalin, I was arguing, was turning me into a robot instead of letting me be myself, and boy /howdy/ did we gobble up that trope in the '90s.
 
-Whether it was what I said or the salient fact that my grades weren't improving from the B-D range, my parents took me off Ritalin not too long after that.
+Whether it was what I said or the rather salient fact that my grades weren't improving from the B-D range, my parents took me off Ritalin not too long after.
 
 ***** Jenny
 
@@ -62,7 +50,7 @@ Now, of course, she had /practically/ screamed it, but she hadn't /actually/ scr
 
 I moved in with my parents while she thought things through. Before too long, the wedding was off, the relationship over, and my 20s near an end.
 
-***** Jobs
+***** My First Job
 
 "You're hired!" my boss-to-be at the Computer Museum said to the teenage Colin Jaffe. Or he said something much like that—this was near 30 years ago, and my memory is hazy at best. Since this was the heyday of hiring of the mid '90s, when they handed out jobs like candy, imagine instead that they poked their head out the window and said, "Who wants to work here?", and I was the only one within earshot who needed a summer job. That's not how it happened, but, you know. It might as well have been.
 
@@ -76,11 +64,15 @@ I might still be executing commands in that presentation if The Computer Museum 
 
 It was the last job I would not be fired from for a long, long time.
 
-***** Poker
+***** Poker At Hampshire
 
-The World Series of Poker was on TV, and it's estimated that 100% of the students I knew at my school were watching it. Mostly because the only students I knew were the ones in our almost-off-campus little house, and whenever poker was on I would watch it on the only TV in the place.
+The World Series of Poker was on TV, and it's estimated that 100% of the students I knew at Hampshire College were watching it. Mostly because the only students I knew were the ones in our almost-off-campus little house, and whenever poker was on, I would watch it on the only TV in the place. It was the Fall of 2003, and poker was a really big deal elsewhere in America, too. ESPN greatly expanded their coverage of the World Series of Poker, and it led to a rise in online poker—by the time the 2004 event rolled around, the number of participants had tripled.
 
-In 2003, poker really was a really big deal elsewhere in America, too. The World Series of Poker had over 800 entrants in 2003, but televising it that year and a rise in online poker led to that number tripling in 2004. When Chris Moneymaker (yes, his real name) won it all in '03 as a real everyman, a plain-faced accountant, it gave birth to "the Moneymaker effect", and suddenly a certain kind of person seemed to think they could make money playing. I was not only that certain kind of person, but someone convinced I could take advantage of the other new members of this craze.
+When Chris Moneymaker (yes, his real name) won it all in '03 as a real everyman, a plain-faced accountant, it gave birth to "the Moneymaker effect", and suddenly a certain kind of person seemed to think they could make money playing poker. I was not only that certain kind of person, but I became convinced I could take advantage of the other members of that certain kind.
+
+I blew off my studies to play poker with my housemates, particularly Ed Peduzzi, a film student at Hampshire. I learned a lot from Ed—mostly that you had to be careful about bluffing when someone was likely to call you unwisely, which Ed was. Which most people were. Are.
+
+I dropped out of Hampshire after that semester, but I don't blame poker. I wasn't even blowing off studies really that semester—I was blowing off watching the Red Sox in the playoffs, and in turn watching that would've been blowing off something else. My studies, such as they were at that point, were pretty far down the list.
 
 I had spent the entirety of the years I was with Jenny in a series of jobs I took as they presented themselves to me, filling in time between them with online poker, a game I was just good enough at to make a meager and stressful living playing. Poker always paid the bills except when it didn't. The game was good for me in that I answered to no one—a good thing since I was and remain very poor at following directions, meeting deadlines, being on time, and doing things I'm not 100% sold on. These, it turns out, are rather important for functioning within a group of people, which is why I spent time when I was working at a more /job/ type of job saving up money. When I had enough saved, I would either quit or wait for the job to tire of my shtick and fire me. Then I would use those savings to make more money in poker, always leaving that saved-up money as a cushion for small runs of bad luck. I could /usually/ get back to winning and paying rent before the cushion ran out. Like I said, it was a meager and stressful living, and that was when things went well. I would always end up looking for a job again when a bad poker luck run cost me more than my cushion.
 
