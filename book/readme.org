@@ -46,7 +46,7 @@ So we could do:
 - Alice's Appointment
 
 - [X] Jenny
-- [ ] Leaving Pursuit.
+- [ ] Leaving Pursuit
 - [X] Ritalin & RoboWar & ADD Without The H
 - [X] My First Job
 - [ ] Other Jobs
