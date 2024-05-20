@@ -1,6 +1,36 @@
 * Spellbound
 ** A Story In Magical Code
 by Colin Jaffe
+*** Previously, On "Me"
+
+***** Sections
+
+Our themes are:
+
+- computers
+- ADD
+- Relationships
+- Jobs
+
+So we could do:
+
+- computers
+  - IMing
+  - coding
+  -
+-
+
+- [ ] IMing.
+- [X] Ritalin
+- [X] Jenny
+- [X] My First Job
+- [X] Poker at Hampshire
+- [ ] Learning to code.
+- [ ] Watching The Magicians.
+- [ ] Reconfiguring Emacs
+- [ ] Leaving Pursuit.
+- [ ] Taking Alice to her appointment.
+
 *** Chapter 1 - Unauthorized Magic
 **** Questioner
 ***** "Unauthorized Magic" as something you do when you're not supposed to.
@@ -119,7 +149,6 @@ by Colin Jaffe
     ]
   }
 #+end_src
-
 *** Further Chapters
 
 **** Ruling Fillory is like Gamergate
