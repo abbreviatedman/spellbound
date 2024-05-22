@@ -5,16 +5,24 @@ by Colin Jaffe
 
 ***** Sections
 
-We start with Jenny and my job failures.
+- We start with Jenny and my first jobs.
+- Then we go to RoboWar, and talk about ADHD and Ritalin.
+- Then it's poker and balloons.
+- Learning code at Fullstack, job hunting, leaving Pursuit, and ADHD.
+- Emacs and Literate Programming
+- The Magicians, maybe with a quote or 10.
+- Running with Alice.
+- Taking Alice to her appointment.
+
 
 - [X] Jenny
 - [X] My First Job
-- [ ] RoboWar
 - [ ] Other Jobs
+- [ ] RoboWar
 - [ ] Ritalin
-- [ ] Fullstack
 - [ ] Poker
 - [ ] Balloons
+- [ ] Fullstack
 - [ ] Leaving Pursuit
 - [ ] Emacs & Literate Programming
 - [ ] The Magicians
