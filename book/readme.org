@@ -5,15 +5,21 @@ by Colin Jaffe
 
 ***** Sections
 
+We start with Jenny and my job failures.
+
 - [X] Jenny
 - [X] My First Job
 - [ ] Other Jobs
+- [ ] RoboWar
+- [ ] Ritalin
+- [ ] Fullstack
 - [ ] Poker
+- [ ] Balloons
 - [ ] Leaving Pursuit
-- [ ] Ritalin & RoboWar & ADD Without The H
-- [ ] Emacs & Literate Programming and Sarah and ADD
+- [ ] Emacs & Literate Programming
 - [ ] The Magicians
 - [ ] Taking Alice to her appointment
+- [ ] Running With Al
 
 *** Chapter 1 - Unauthorized Magic
 **** Questioner
