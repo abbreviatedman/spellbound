@@ -9,8 +9,8 @@ We start with Jenny and my job failures.
 
 - [X] Jenny
 - [X] My First Job
-- [ ] Other Jobs
 - [ ] RoboWar
+- [ ] Other Jobs
 - [ ] Ritalin
 - [ ] Fullstack
 - [ ] Poker
