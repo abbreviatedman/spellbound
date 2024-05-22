@@ -4,7 +4,23 @@
 
 by Colin Jaffe
 
-*** Previously, On "Me"
+*** A Note For Those Who Would Give Feedback
+
+Since this is very much at its inception, it may not be clear what you're even giving feedback /on/. So here's what this here is.
+
+This here is a half-finished introductory chapter to a memoir, or at least a memoir-ish… thing. Eventually it will explore the form itself—for now, treat it as a simple memoir.
+
+The themes include or will include:
+
+- ADHD in adults
+- parenting a kid with ADHD with ADHD (yes, that repetition is on purpose)
+- coding
+- literature and stories
+- failing in conventional measures of success and succeeding in ways unconventional
+
+And now, back to your regularly scheduled program.
+
+*** Introduction - Previously, On Me
 
 This is a story of the magic of computers, the study of magic, and what happens when people can't or won't or both. It's a true story, all of it, except for the parts from books and TV.
 
@@ -14,15 +30,13 @@ Let's start with some TV to frame things for us.
 *Penny:* What?
 *Josh:* Just imagine a montage.
 
-That's how Episode 12 of Season 3 of the TV show The Magicians opens. The character of Josh gets to give the recap of what's happened so far, the "Previously, On The Magicians" part, so Penny (and the audience) can get caught up and review the plot threads that this particular episode will pick back up. Of course, he proceeds to review the story so far as most of us would: making himself the main character of the story while throwing in some weird digressions only he would care about.
+That's how Episode 12 of Season 3 of the TV show The Magicians opens. The character of Josh gets to give the recap of what's happened so far, the "Previously, On The Magicians" part, so Penny (and the audience) can get caught up and review the plot threads that this particular episode will pick back up. Of course, he recaps events exactly the way most of us would: making himself the main character of the story, while throwing in some weird digressions here and there.
 
 We'll get back to The Magicians soon. But first. Ahem.
 
 Previously, on Me…
 
 -----
-
-***** Jenny
 
 "Only one man really loved me, and he's dead," my fiancé practically screamed, and my heart broke, for her and for me.
 
@@ -40,9 +54,9 @@ This is not an uncommon story, here. Guy In His 20s Is Kind Of A Loser, Woman Sp
 
 I wouldn't properly grapple with these questions for another decade plus, but when I would, it would be a journey backwards through family history and modern psychiatric history, and a journey forwards, unsteadily, on a quest to find work a prehistoric brain can do in late-stage capitalism and a home outside my own head.
 
-***** My First Job
+-----
 
-My parents, knowing their high-school-aged son was into computers, suggested The Computer Museum downtown might be hiring and make a good first job. I filled out an application, and got called for an interview, and went in, and got the job. I remember a handshake—it made a big impression on me. I had done so many adult things by myself, and now I had a job of my own.
+My parents, knowing their high-school-aged son was into computers, suggested The Computer Museum downtown might be hiring and make a good first job. I filled out an application, and got called for an interview, and went in, and got the job. I remember the handshake from my new boss vividly, taking careful note that this was my first. I had done so many adult things by myself, and now I had a job of my own.
 
 Throughout my high school summers—and the year after I graduated, when I took a "year" off before college—I answered visitor questions, watched the exhibits for anything getting out of order, and, soon enough, was trusted to run presentations and classes. This was '95 and '96, so every time I taught  a class on "How To Use The Internet", the room was full of visitors gawking at this little growing world that seemed occasionally quite useful, while I demonstrated that you didn't /have/ to write "http://" in browsers, even if people gave you an address that included it.
 
@@ -52,13 +66,13 @@ I might still be executing commands and making messy sandwiches , but The Comput
 
 Down the line, I would end up working at the Museum of Science. But those old computers—including an early Apple computer and a piece of the ancient building-sized ENIAC machine—would be packed away in the back, because they didn't fit in there at the new museum. The Museum of Science was all about interacting with exhibits that cleverly mirrored the hidden scientific principles of the world, for exploring the ways the world works and the ways we learn about the world. It was not a museum for plaques in front of historically important but non-functioning machines. It was a not a museum either for sandwich-making humans.
 
-***** Jobs
+-----
 
 The montage speeds up, covering a couple of decades in a burst of scenes. Rapid-fire firings along with quits so fast I'd barely started—an unemployment history, like a negative resume. The weather calls for a flurry of disappointed supervisors, so grab some shelter. It's about to hail.
 
 -----
 
-Our heroes reaching the summit in their climb up Mt. Everest in the Museum of Science's IMAX Theater presentation was an exhilarating and triumphant cinematic moment and also so so boring the literal 100th time you witnessed it. Unlike the Computer Museum, the Museum of Science is a seriously great museum and a greatly serious place of employment. They were not going to put up with me falling asleep every time from the 83rd viewing on. And they didn't.
+Our heroes reaching the summit in their climb up Mt. Everest in the Museum of Science's IMAX Theater movie was an exhilarating and triumphant cinematic moment and also so so boring the literal 100th time you witnessed it. Unlike the Computer Museum, the Museum of Science is a seriously great museum and a greatly serious place of employment. They were not going to put up with me falling asleep every time from the 83rd viewing on. And they didn't.
 
 This was my first firing.
 
@@ -70,28 +84,21 @@ They were a union shop, and it was tough to get fired there, even if you were of
 
 -----
 
-"Is there an explanation for why you didn't do the tasks I assigned you?" my boss at CPPAX asked. Citizens for Participation in Public Action was the first organization to promote me. Do you know the Peter Principle? People tend to get promoted due to competence in their roles, until they reach a role where those skills they have don't really translate. And then they tend to stay there. You tend to rise to your "level of respective incompetence".
+"Is there an explanation for why you didn't do the tasks I assigned you?" my boss at CPPAX asked. Citizens for Participation in Public Action was the first organization to promote me. This was not unlike the Peter Principle, which says that people tend to get promoted due to competence in their roles, until they reach a role where those skills they have don't really translate. And then they tend to stay there. We tend to rise to our "level of respective incompetence".
 
-I shook my head, ashamed, no real answer to give. I had been promoted from telephone fundraiser, which I was good at, to a role wrangling donor data, which I might've been good at if I could focus on the spreadsheets for more than a minute at a time. Is there a Principle for being promoted until you just /can't even/ with the work?
+In my swivel chair, I was perfectly silent, not looking at my boss. I shook my head at her answer, ashamed, no real answer to give. I had been promoted from telephone fundraiser, which I was good at, to a role wrangling donor data, which I might've been good at if I could focus on the spreadsheets for more than a minute at a time. Is there a Principle for being promoted until you just /can't even/ with the work?
 
-She demoted me after our "talk", back to talking to donors, but my heart was broken. Or something else. Not quite my pride, but something definitely was broken. This was a "You can't fire me, I quit weeks ago," kind of ending. Or perhaps it doesn't matter that I don't even remember if I quit or got fired—it was mutual either way.
+She demoted me after our "talk", back to talking to donors, but my heart was broken. Or something else. Not quite my pride, but something definitely was broken.
+
+This was a "You can't fire me, I quit weeks ago," kind of ending. Or perhaps it doesn't matter that I don't even remember if I quit or got fired—it was mutual either way.
 
 -----
 
 One of the most painful jobs I ever had was working the counter at a Burger King in Syracuse. Orders came in quickly and had to be routed to the right teammates, while the returning food had to be routed back to the right customers, all of whom had waited with varying degrees of patience while I thought back through the maze of interweaving  events like a detective at the end of a mystery film. My boss appeared to be very proud of himself when, after a particularly rough shift of customers angry at my harried slowness, he told me that at Burger King, "We don't discriminate." It took me until after the shift to calm down enough to think about what he'd said and realize that he thought he was being very gracious to a man with a severe intellectual disability. This struck me at the time as a funny comment on how bad I was at multi-tasking, and certainly not a sign of deeper issues.
 
-Anyway, I was late one too many times, and you can only bend so far for someone who basically can't do the job. This one was very much a firing.
+Anyway, future realizations of mental issues aside: at BK I ended up coming in late one or seven too many times, and even a non-discriminatory organization can only bend so far for someone who basically can't do the job. This one was /very much/ a firing.
 
 -----
-
-
-- AnnieCannons
-- Frank's Convenient
-- Ripen With Us
-- Balloon Art
-- Stormwind
-
-***** Ritalin
 
 "I just feel /too/ focused," I told my mom. "I feel boring, like I'm not thinking enough. I don't like it."
 
@@ -107,7 +114,7 @@ Whether it was what I said or the rather salient fact that my grades weren't imp
 
 As I grew up, I heard less and less about ADD. If I thought about it at all, it was easily dismissed. I wasn't some hyperactive /kid/, and I'd never really been hyperactive to begin with.
 
-***** Poker
+-----
 
 The World Series of Poker was on TV, and it's estimated that 100% of the students I knew at Hampshire College were watching it. Mostly because the only students I knew were the ones in our almost-off-campus little house, and whenever poker was on, I would watch it on the only TV in the place. It was the Fall of 2003, and poker was a really big deal elsewhere in America, too. ESPN greatly expanded their coverage of the World Series of Poker, and it led to a rise in online poker—by the time the 2004 event rolled around, the number of participants had tripled.
 
@@ -117,31 +124,43 @@ I blew off my studies to play poker with my housemates, particularly Ed Peduzzi,
 
 I dropped out of Hampshire after that semester, but I don't blame poker. I wasn't even blowing off studies really that semester—I was blowing off watching the Red Sox in the playoffs, and in turn watching that would've been blowing off something else. My studies, such as they were at that point, were pretty far down the list.
 
+[No, this section is not really done yet.]
+
+*** Chapter 1 - Unauthorized Magic
+
+Coming… soon.
+
+*** Appendix 1 - Unused Writing
+
+I may work these back into the book if there's a place for it, but for now there's is not.
+
+**** Frank Is Convenient
+
+[Here is a mostly-done story about the actual worst job I ever had. The ending will be written when I get a chance—even if I don't end up using it, I hate to leave it so close to finished. If you're curious what happens: I get pee on me and hate it and leave a note on the door and never set foot in the place again.]
+
+The most painful job I ever had was at a gas station and convenience store in Buffalo. It's closed now, but you can still find it on Google Maps under Frank's Convenience. But the sign said Frank's Convenient—still says it in the picture on Google, in fact. And he /was/ convenient as an employer, in that he was down the street from the apartment Jenny and I were staying in—not the apartment where she would scream at me, though we'll come back to that apartment soon enough.
+
+That area of Buffalo was very much a college area, so while I had to take occasional payment for gas from drivers looking to save 10 cents a gallon by paying in cash, the majority of my work was selling beer to college kids. And when a party night came around, those kids came in a dozen at a time, and I rang them up one at a time, slowly and effortfully. (One takeaway here: I do not think quickly.)
+
+Not only did I have to ring up all those college folk, but on particularly wild nights, we would start to run out of beer in the fridge, and I'd have to restock from the back. I'd walk behind the fridges, to the big stacks of beer boxes, take the right ones down, open the back doors to the fridges, and put them in for the kids to take, like a rarely-glimpsed beer elf who lived in the walls.
+
+And, of course, I had to manage the store in general while doing this—maintain the coffee and Slurpee machines, keep an eye out for shoplifters, answer questions as to where something was, and so on. (Another takeaway: I cannot "and so on" very well.)
+
+Well, one night, things got real hectic real fast, and towards the end of the night, around 2:30am, I was loading beer into the backs of the fridges when one of boxes slipped from my grasp and crashed to the floor. I went to pick up the carton and cut myself on one of the bottles—It was broken, spilling beer on the floor and on my shoes and spilling blood from my finger.
+
+I loaded a fresh carton in to the fridge and made my way back to the counter, my shoes grasping the floor with every step thanks to the spilled beer stuck to their soles. I grabbed a napkin and held it to my finger to staunch the bleeding, which was fortunately minor. I thought I had gotten through the worst of the night, with the crowd dying down somewhat and the line of would-be party-goers slowly slowly getting shorter, when, around 2:45, just as the 3:00 closing time felt so near, someone came up to the counter and told me the toilet was clogged.
+
+I asked forgiveness of the customer in front of me and stepped away to check out the bathroom. The toilet was close to overflowing with pee. My brain was close to overflowing at that point too, so I figured I'd get the last customers and then close the store and /then/ clean up the beer and unclog the toilet.
+
+**** Poker
+
+[I think some of this could be used for an upcoming poker section.]
+
 I had spent the entirety of the years I was with Jenny in a series of jobs I took as they presented themselves to me, filling in time between them with online poker, a game I was just good enough at to make a meager and stressful living playing. Poker always paid the bills except when it didn't. The game was good for me in that I answered to no one—a good thing since I was and remain very poor at following directions, meeting deadlines, being on time, and doing things I'm not 100% sold on. These, it turns out, are rather important for functioning within a group of people, which is why I spent time when I was working at a more /job/ type of job saving up money. When I had enough saved, I would either quit or wait for the job to tire of my shtick and fire me. Then I would use those savings to make more money in poker, always leaving that saved-up money as a cushion for small runs of bad luck. I could /usually/ get back to winning and paying rent before the cushion ran out. Like I said, it was a meager and stressful living, and that was when things went well. I would always end up looking for a job again when a bad poker luck run cost me more than my cushion.
 
 So: not exactly the breadwinner, here. Jenny herself didn't make a ton of money, as she was living on loans to get herself through a pair of graduate degrees that started esoteric (Classical Music Composition) and moved to academic-but-at-least-eventually-financially-viable (Library Science). What's more, I was playing even less poker at the time and thus making even less money, as I was heavily into computer gaming. Or, rather, one particular game—Jenny had gotten me hooked on World of Warcraft, an endless online game, a bit like Dungeons and Dragons if you took out all social interaction except what you need to satisfy that part of your brain, and then took out all the creative storytelling of D&D as well. Jenny had thought I could handle the game; I'd gone along with her insistence I join her World of Warcraft guild even though I knew I couldn't. She probably thought it would bring us closer together. Maybe I believed this too, despite myself, but I just went from the laser-sharp focus of playing poker to the laser-sharp focus of gaming.
 
-So when she almost-screamed at me that I didn't love her, I felt like I couldn't disagree. The evidence was against me. I /felt/ like I loved her, but I had spent the time since we'd gotten engaged doing less and less to prove it every day. Was that itself just another game to me, to see what I could get away with? What she'd stick with me through?
-
-Was I lazy, or neglectful bordering on abusive, or thoughtless, or nihilistic, or depressive?
-
-I could only answer that question with a big "Yes". I apologized for the hurt I'd caused and moved back in with my parents. The wedding wasn't called off quite yet, but when she realized how much happier she was without me around, it was. Or had, in a sense, never truly been on the docket to begin with.
-
-*** Note For Reviewers
-
-This is a half-finished introductory chapter to a memoir, or at least a memoir-ish… thing. Eventually it will explore the form itself—for now, treat it as a simple memoir.
-
-The themes include or will include:
-
-- ADHD in adults
-- parenting a kid with ADHD with ADHD (yes, that repetition is on purpose)
-- coding
-- literature and stories
-- failing in conventional measures of success and succeeding in ways unconventional
-
-*** Chapter 1 - Unauthorized Magic
-
-*** Appendix 1 - The Rest Of The Code
+*** Appendix 2 - The Rest Of The Code
 
 Here is the code for the app that I don't plan to discuss—or haven't yet. It's the Magicians quotes that make up the app but aren't relevant to the story, or uninteresting parts of the code that didn't merit discussion, or a part whose discussion didn't /quite/ fit in the story, or just code I've written for the app that I haven't figured out how to weave in yet.
 
@@ -643,26 +662,7 @@ Enjoy?
   }
 #+end_src
 
-*** Appendix 3 - Unused Writing
-
-I may work this back into the book if there's a place for it, but here is a mostly-done story about the actual worst job I ever had. The ending will be written when I get a chance, but if you're curious what happens: I get pee on me and hate it and leave a note on the door and never set foot in the place again.
-
-**** Frank Is Convenient
-
-The most painful job I ever had was at a gas station and convenience store in Buffalo. It's closed now, but you can still find it on Google Maps under Frank's Convenience. But the sign said Frank's Convenient—still says it in the picture on Google, in fact. And he /was/ convenient as an employer, in that he was down the street from the apartment Jenny and I were staying in—not the apartment where she would scream at me, though we'll come back to that apartment soon enough.
-
-That area of Buffalo was very much a college area, so while I had to take occasional payment for gas from drivers looking to save 10 cents a gallon by paying in cash, the majority of my work was selling beer to college kids. And when a party night came around, those kids came in a dozen at a time, and I rang them up one at a time, slowly and effortfully. (One takeaway here: I do not think quickly.)
-
-Not only did I have to ring up all those college folk, but on particularly wild nights, we would start to run out of beer in the fridge, and I'd have to restock from the back. I'd walk behind the fridges, to the big stacks of beer boxes, take the right ones down, open the back doors to the fridges, and put them in for the kids to take, like a rarely-glimpsed beer elf who lived in the walls.
-
-And, of course, I had to manage the store in general while doing this—maintain the coffee and Slurpee machines, keep an eye out for shoplifters, answer questions as to where something was, and so on. (Another takeaway: I cannot "and so on" very well.)
-
-Well, one night, things got real hectic real fast, and towards the end of the night, around 2:30am, I was loading beer into the backs of the fridges when one of boxes slipped from my grasp and crashed to the floor. I went to pick up the carton and cut myself on one of the bottles—It was broken, spilling beer on the floor and on my shoes and spilling blood from my finger.
-
-I loaded a fresh carton in to the fridge and made my way back to the counter, my shoes grasping the floor with every step thanks to the spilled beer stuck to their soles. I grabbed a napkin and held it to my finger to staunch the bleeding, which was fortunately minor. I thought I had gotten through the worst of the night, with the crowd dying down somewhat and the line of would-be party-goers slowly slowly getting shorter, when, around 2:45, just as the 3:00 closing time felt so near, someone came up to the counter and told me the toilet was clogged.
-
-I asked forgiveness of the customer in front of me and stepped away to check out the bathroom. The toilet was close to overflowing with pee. My brain was close to overflowing at that point too, so I figured I'd get the last customers and then close the store and /then/ clean up the beer and unclog the toilet.
-*** Appendix 2 - Literate Programming Magic
+*** Appendix 3 - Literate Programming Magic
 
 Here is the bit of literate programming magic where we put all the code above in the right order and tangle it all to the right files. This is what makes this a /program/, and not just excerpts of code. This re-ordering is also what allowed us throughout this story to discuss the code in any order we wanted, rather than the order the computer wants it in.
 
