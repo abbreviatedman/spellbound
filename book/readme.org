@@ -19,7 +19,7 @@ by Colin Jaffe
 - [X] My First Job
 - [ ] Other Jobs
 - [ ] RoboWar
-- [ ] Ritalin
+- [X] Ritalin
 - [ ] Poker
 - [ ] Balloons
 - [ ] Fullstack
