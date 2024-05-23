@@ -22,7 +22,9 @@ The Introduction below isn't by any means complete, but what's in it so far is. 
 
 And now, back to your regularly scheduled program.
 
-*** Introduction - Previously, On Me
+*** Introduction
+
+**** Previously, On Me
 
 This is a story of the magic of computers, the study of magic, and what happens when people can't or won't or both. It's a true story, all of it, except for the parts from books and TV.
 
@@ -38,7 +40,7 @@ We'll get back to The Magicians soon. But first. Ahem.
 
 Previously, on Me…
 
------
+**** Jenny
 
 "Only one man really loved me, and he's dead," my fiancé practically screamed, and my heart broke, for her and for me.
 
@@ -54,7 +56,8 @@ This is not an uncommon story, here. Guy In His 20s Is Kind Of A Loser, Woman Sp
 
 I wouldn't properly grapple with these questions for another decade plus, but when I would, it would be a journey backwards through family history and modern psychiatric history, and a journey forwards, unsteadily, on a quest to find work a prehistoric brain can do in late-stage capitalism and a home outside my own head.
 
------
+**** My First Job
+
 Rewind. Let's pick up another plot thread.
 
 My parents, knowing their high-school-aged son was into computers, suggested The Computer Museum downtown might be hiring and make a good first job. I filled out an application, and got called for an interview, and did the interview, and got the job. I remember the handshake from my new boss vividly—I took careful note that this was my first. I had done so many adult things by myself to get this job, and now I could /do/ the job, like an adult would.
@@ -67,7 +70,7 @@ I might still be executing visitor commands and making messy sandwiches , but Th
 
 Down the line, I would end up working at the Museum of Science. But those old computers—including an early Apple computer and a piece of the ancient building-sized ENIAC machine—would be packed away in storage. They didn't fit in there at the new museum. The Museum of Science was all about interacting with exhibits, well-designed experiences that cleverly mirrored the hidden scientific principles of the world. It was all about exploring the ways the world works and the ways we learn about the ways the world works. It was not a museum for plaques in front of historically-important-but-non-functioning machines. It was a not a museum either for sandwich-making humans.
 
------
+**** Jobs
 
 The montage speeds up, covering a couple of decades in a burst of scenes. Rapid-fire firings along with quits so fast I'd barely started—an unemployment history, like a negative resume.
 
@@ -125,7 +128,7 @@ Whether it was what I said or the rather salient fact that my grades weren't imp
 
 As I grew up, I heard less and less about ADD. If I thought about it at all, it was easily dismissed. I wasn't some hyperactive /kid/, and I'd never really been hyperactive to begin with. I wasn't sure I'd ever had it.
 
------
+**** Poker
 
 The World Series of Poker was on TV, and it's estimated that 100% of the students I knew at Hampshire College were watching it. Mostly because the only students I knew were the ones in our almost-off-campus little house, and whenever poker was on, I would watch it on the only TV in the place. It was the Fall of 2003, and poker was a really big deal elsewhere in America, too. ESPN greatly expanded their coverage of the World Series of Poker, and it led to a rise in online poker—by the time the 2004 event rolled around, the number of participants had tripled.
 
