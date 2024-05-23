@@ -46,8 +46,6 @@ Jenny's father died when she was a teen—this was who she was talking about, th
 
 /I can't blame her for feeling that way,/ I thought. I had not made her feel loved lately, what with spending near every waking hour playing poker or Warcraft. I sat there for a moment after she said it, frozen, shut down; eventually I would come to describe that feeling I get sometimes in even more robotic terms, as "my gears grinding". A feeling of heat in my head, my thoughts slowing, somehow stopping.
 
-Now, of course, she had /practically/ screamed it, but she hadn't /actually/ screamed. As two nerdy white people who grew up middle-class-plus, by the time we were adults we had internalized that you do /not/ cause a scene. And she might of course have been feeding off my non-energy—expressing yourself deeply is harder when you're accustomed to not talking much at all.
-
 "I'm sorry," I managed, eventually. It felt like acceptance, an acknowledgement that this relationship was ending, or had already ended and was now being properly categorized.
 
 I moved in with my parents while she thought things through. Before too long, the wedding was off, the relationship over, and my 20s near an end.
@@ -57,16 +55,17 @@ This is not an uncommon story, here. Guy In His 20s Is Kind Of A Loser, Woman Sp
 I wouldn't properly grapple with these questions for another decade plus, but when I would, it would be a journey backwards through family history and modern psychiatric history, and a journey forwards, unsteadily, on a quest to find work a prehistoric brain can do in late-stage capitalism and a home outside my own head.
 
 -----
+Rewind. Let's pick up another plot thread.
 
-My parents, knowing their high-school-aged son was into computers, suggested The Computer Museum downtown might be hiring and make a good first job. I filled out an application, and got called for an interview, and went in, and got the job. I remember the handshake from my new boss vividly, taking careful note that this was my first. I had done so many adult things by myself, and now I had a job of my own.
+My parents, knowing their high-school-aged son was into computers, suggested The Computer Museum downtown might be hiring and make a good first job. I filled out an application, and got called for an interview, and did the interview, and got the job. I remember the handshake from my new boss vividly—I took careful note that this was my first. I had done so many adult things by myself to get this job, and now I could /do/ the job, like an adult would.
 
-Throughout my high school summers—and the year after I graduated, when I took a "year" off before college—I answered visitor questions, watched the exhibits for anything getting out of order, and, soon enough, was trusted to run presentations and classes. This was '95 and '96, so every time I taught  a class on "How To Use The Internet", the room was full of visitors gawking at this little growing world that seemed occasionally quite useful, while I demonstrated that you didn't /have/ to write "http://" in browsers, even if people gave you an address that included it.
+I worked at The Computer Museum throughout my high school summers, and after I graduated as well, when I took a "year" off before college. I answered visitor questions, watched the exhibits for anything getting out of order, and, soon enough, was trusted to run presentations and classes. This was '95 and '96, so every time I taught a class on "How To Use The Internet", the room was full of visitors gawking at this little growing world that seemed occasionally quite useful, while I demonstrated that you didn't /have/ to write "http://" in browsers, even if people gave you an address that included it.
 
 That class was my first teaching experience, and it was a good one, but what I loved most was being the Robot in the Teach a Robot How To Make A Peanut Butter and Jelly Sandwich demonstration. I found I had a particular skill for being literal-minded, which was what the person being the Robot needed, and so I was always the Robot. I sat at a table, which was laid out with a jar of a peanut butter, a jar of jelly, a bagged loaf of bread, a plate, and a butter knife. My partner in the activity would ask the audience to submit directions for the robot and pass them on to me. I would then interpret each directions as a computer would, following the direction to the letter and inferring nothing. "Put the peanut butter on the bread!" would result in the jar, unopened, placed atop the loaf. Once the jar and bread bag were opened, "Get the peanut butter out and spread it on the bread," would leave my hands covered in Crunchy Jiff—my commitment to the bit was complete and all-consuming, joyful and effortless. The audience learned slowly, somewhat, how to think like a robot, but I didn't learn so much as tap in. I was a Robot, and a Robot was me.
 
-I might still be executing commands and making messy sandwiches , but The Computer Museum ran out of money—there was talk it had been embezzled by an employee, but whatever the cause, it got shut down, with some of the valuable electronic museum pieces bought by the Museum of Science.
+I might still be executing visitor commands and making messy sandwiches , but The Computer Museum ran out of money—there was talk it had been embezzled by an employee, but whatever the cause, it got shut down, with some of the valuable electronic museum pieces bought by the Museum of Science.
 
-Down the line, I would end up working at the Museum of Science. But those old computers—including an early Apple computer and a piece of the ancient building-sized ENIAC machine—would be packed away in the back, because they didn't fit in there at the new museum. The Museum of Science was all about interacting with exhibits that cleverly mirrored the hidden scientific principles of the world, for exploring the ways the world works and the ways we learn about the world. It was not a museum for plaques in front of historically important but non-functioning machines. It was a not a museum either for sandwich-making humans.
+Down the line, I would end up working at the Museum of Science. But those old computers—including an early Apple computer and a piece of the ancient building-sized ENIAC machine—would be packed away in storage. They didn't fit in there at the new museum. The Museum of Science was all about interacting with exhibits, well-designed experiences that cleverly mirrored the hidden scientific principles of the world. It was all about exploring the ways the world works and the ways we learn about the ways the world works. It was not a museum for plaques in front of historically-important-but-non-functioning machines. It was a not a museum either for sandwich-making humans.
 
 -----
 
@@ -76,9 +75,9 @@ The weather calls for a flurry of disappointed supervisors, so grab some shelter
 
 -----
 
-Our heroes reaching the summit in their climb up Mt. Everest in the Museum of Science's IMAX Theater movie was an exhilarating and triumphant cinematic moment and also so so boring the literal 100th time you witnessed it from the projection room. Unlike the Computer Museum, the Museum of Science is a seriously great museum and a greatly serious place of employment. They were not going to put up with me falling asleep every time from the 83rd viewing on. And they didn't.
+Our heroes reaching the summit in their climb up Mt. Everest in the Museum of Science's IMAX Theater movie was an exhilarating and triumphant cinematic moment and also so so boring the literal 100th time you witnessed it from the projection room. Unlike The Computer Museum, the Museum of Science is a seriously great museum and a greatly serious place of employment, unlike The Computer Museum's fun-loving nerdy ways. They were not the kind of place where a visitor's experience depended on the presentation skills of 16-year-olds—these were carefully crafted experiences.
 
-This was my first firing.
+Nor were they going to put up with an employee falling asleep in the projection room, which I did every time from the 83rd viewing of Mt. Everest on. This was my first firing.
 
 -----
 
@@ -92,9 +91,9 @@ They were a union shop, and it was tough to get fired there, even if you were of
 
 In my swivel chair, I was perfectly silent, not looking at my boss. I shook my head at her answer, ashamed, no real answer to give. I had been promoted from telephone fundraiser, which I was good at, to a role wrangling donor data, which I might've been good at if I could focus on the spreadsheets for more than a minute at a time. Is there a Principle for being promoted until you just /can't even/ with the work?
 
-She demoted me after our "talk", back to talking to donors, but my heart was broken. Or something else. Not quite my pride, but something definitely was broken.
+She demoted me after our "talk", and I returned to calling donors, but my heart was broken. Or… something else. Not quite my pride, but something definitely was broken.
 
-This was a "You can't fire me, I quit weeks ago," kind of ending. Or perhaps it doesn't matter that I don't even remember if I quit or got fired—it was mutual either way.
+This was a "You can't fire me, I quit weeks ago," kind of ending. Mutual, in its own weird way.
 
 -----
 
