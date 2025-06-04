@@ -850,4 +850,15 @@ The White Lady: You are wiser than you appear. You would find your way back to s
 - 12:14
 - 16:44
 - 20:00
-- 
+- 21:44
+- 22:25
+- 22:42
+- 23:02
+- 25:10
+- 25:24
+- 25:49
+- 26:11
+- 27:41
+- 33:29
+- 34:43
+- 35:30 
