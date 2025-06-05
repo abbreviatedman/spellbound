@@ -862,3 +862,10 @@ The White Lady: You are wiser than you appear. You would find your way back to s
 - 33:29
 - 34:43
 - 35:30 
+
+# The Cock Barrens
+
+- 08:33
+- 12:37
+- 29:08
+- 42:11
